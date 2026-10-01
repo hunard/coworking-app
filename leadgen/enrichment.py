@@ -3,6 +3,10 @@
 Rules-only (no LLM). Everything found on the page is labelled "website_scraped".
 Politeness: robots.txt respected, 1s delay per host, timeouts, honest User-Agent.
 We never bypass blocks: a 403/429/CAPTCHA page is recorded as "blocked" and skipped.
+
+Email policy: an email is only used as the lead's contact if its domain matches the
+business's own website (or it is a free provider like gmail). Emails on other domains
+(web designers, template vendors, plugins) are kept in emails_other as unverified.
 """
 import argparse
 import hashlib
@@ -51,6 +55,9 @@ JUNK_DOMAINS = {"example.com", "domain.com", "yourdomain.com", "email.com", "sen
 JUNK_TLDS = {"png", "jpg", "jpeg", "gif", "svg", "webp", "js", "css", "woff", "woff2"}
 JUNK_LOCAL = {"name", "yourname", "your", "email", "test", "user", "john", "someone"}
 GOOD_PREFIX = ("info", "hello", "contact", "sales", "enquiry", "enquiries", "support", "bookings", "connect")
+FREE_PROVIDERS = {"gmail.com", "googlemail.com", "outlook.com", "hotmail.com", "yahoo.com",
+                  "yahoo.in", "yahoo.co.in", "rediffmail.com", "live.com", "icloud.com"}
+SECOND_LEVELS = {"co", "com", "org", "net", "gov", "ac", "edu"}
 
 _host_lock = threading.Lock()
 _host_last = {}
@@ -125,7 +132,16 @@ def visible_text(html):
     return re.sub(r"\s+", " ", htmllib.unescape(text)).lower()
 
 
-def extract_emails(html, site_host=""):
+def reg_domain(host):
+    """Registrable domain: www.foo.co.in -> foo.co.in, mail.foo.com -> foo.com."""
+    labels = [p for p in host.lower().split(":")[0].split(".") if p]
+    if len(labels) >= 3 and labels[-2] in SECOND_LEVELS and len(labels[-1]) == 2:
+        return ".".join(labels[-3:])
+    return ".".join(labels[-2:])
+
+
+def extract_emails(html):
+    """All plausible emails on the page (junk removed). Not yet trusted."""
     found = []
     for m in EMAIL_RE.findall(htmllib.unescape(html)):
         email = m.lower().strip(".")
@@ -136,14 +152,30 @@ def extract_emails(html, site_host=""):
             continue
         if email not in found:
             found.append(email)
-    base = site_host.replace("www.", "")
+    return found
 
-    def rank(e):
-        local, _, domain = e.partition("@")
-        own = bool(base) and (domain == base or domain.endswith("." + base) or base.endswith(domain))
-        return (0 if own else 1, 0 if local.startswith(GOOD_PREFIX) else 1)
 
-    return sorted(found, key=rank)[:5]
+def classify_emails(emails, site_hosts):
+    """Split emails into (own_domain, free_provider, other_domain).
+
+    site_hosts: hostnames of the business website (listed and after redirects).
+    Only own_domain and free_provider may become the lead's email.
+    """
+    own_domains = {reg_domain(h) for h in site_hosts if h}
+    own, free, other = [], [], []
+    for e in emails:
+        domain = e.partition("@")[2]
+        if reg_domain(domain) in own_domains:
+            own.append(e)
+        elif domain in FREE_PROVIDERS:
+            free.append(e)
+        else:
+            other.append(e)
+
+    def pref(e):
+        return 0 if e.partition("@")[0].startswith(GOOD_PREFIX) else 1
+
+    return sorted(own, key=pref)[:5], sorted(free, key=pref)[:3], other[:5]
 
 
 def extract_socials(html):
@@ -173,11 +205,12 @@ def find_contact_url(html, base_url):
 
 def enrich_lead(lead, fetch=fetch_page):
     out = dict(lead)
-    prov = dict(out.get("data_provenance") or {})
+    out["email"] = None  # never trust an old email; it is re-derived below
+    prov = {k: v for k, v in (out.get("data_provenance") or {}).items() if k != "email"}
     for field in ("company_name", "phone", "address", "website", "rating", "review_count", "maps_url"):
         if out.get(field):
             prov[field] = "google_maps_via_serpapi"
-    out.update(emails_all=[], social_links={}, services=[], fetch_status="no_website")
+    out.update(emails_all=[], emails_other=[], social_links={}, services=[], fetch_status="no_website")
 
     site = out.get("website")
     if site:
@@ -197,12 +230,20 @@ def enrich_lead(lead, fetch=fetch_page):
                     if contact["status"] == "ok":
                         pages.append(contact["html"])
                 combined = "\n".join(pages)
-                out["emails_all"] = extract_emails(combined, host)
+
+                hosts = {host, urlparse(home["url"]).netloc.lower()}
+                own, free, other = classify_emails(extract_emails(combined), hosts)
+                out["emails_all"] = own + free
+                out["emails_other"] = other
+                if own:
+                    out["email"] = own[0]
+                    prov["email"] = "website_scraped"
+                elif free:
+                    out["email"] = free[0]
+                    prov["email"] = "website_scraped_free_provider"
+
                 out["social_links"] = extract_socials(combined)
                 out["services"] = extract_services(combined)
-                if out["emails_all"] and not out.get("email"):
-                    out["email"] = out["emails_all"][0]
-                    prov["email"] = "website_scraped"
                 if out["social_links"]:
                     prov["social_links"] = "website_scraped"
                 if out["services"]:
@@ -220,7 +261,9 @@ def run(src="data/leads_filtered.json", dst="data/leads_enriched.json", limit=No
     Path(dst).write_text(json.dumps(enriched, indent=2, ensure_ascii=False), encoding="utf-8")
 
     print("fetch status:", dict(Counter(l["fetch_status"] for l in enriched)))
-    print("with scraped email:", sum(1 for l in enriched if l["emails_all"]))
+    print("with own-domain email:", sum(1 for l in enriched if l["data_provenance"].get("email") == "website_scraped"))
+    print("with free-provider email:", sum(1 for l in enriched if l["data_provenance"].get("email") == "website_scraped_free_provider"))
+    print("leads with rejected other-domain emails:", sum(1 for l in enriched if l["emails_other"]))
     print("with social links:", sum(1 for l in enriched if l["social_links"]))
     print("with services:", sum(1 for l in enriched if l["services"]))
     print("complete (phone or email):", sum(1 for l in enriched if l.get("phone") or l.get("email")))

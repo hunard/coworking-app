@@ -10,7 +10,7 @@ from collections import Counter
 from pathlib import Path
 
 INCOMPLETE_CAP = 39
-HOT_MIN = 70
+HOT_MIN = 80
 WARM_MIN = 40
 
 

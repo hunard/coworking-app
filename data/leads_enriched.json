@@ -36,6 +36,7 @@
     "emails_all": [
       "contact@spartancowork.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/spartancowork.mumbai",
       "instagram": "https://www.instagram.com/spartan_cowork",
@@ -92,6 +93,7 @@
     "emails_all": [
       "support@starcoworking.com"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "dedicated_desk",
@@ -147,6 +149,7 @@
     "emails_all": [
       "info@themosaic.in"
     ],
+    "emails_other": [],
     "social_links": {
       "x": "https://twitter.com/LifeAtMosaic",
       "facebook": "https://www.facebook.com/LifeatMosaic",
@@ -194,6 +197,7 @@
     ],
     "lead_id": "L321ec1fb8c",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -242,6 +246,7 @@
     ],
     "lead_id": "La7308f85c0",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -282,6 +287,7 @@
     "emails_all": [
       "info@questcoworks.in"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/questcoworks",
       "linkedin": "https://www.linkedin.com/company/quest-coworks",
@@ -341,6 +347,7 @@
     "emails_all": [
       "info@theboardroom.in"
     ],
+    "emails_other": [],
     "social_links": {
       "instagram": "https://www.instagram.com/theboardroom.coworking",
       "linkedin": "https://www.linkedin.com/company/theboardroom",
@@ -398,6 +405,7 @@
     ],
     "lead_id": "Lef8c7472fd",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -436,6 +444,7 @@
     ],
     "lead_id": "Lf10e07b4c6",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -479,6 +488,7 @@
     ],
     "lead_id": "L54f4d48ae3",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "day_pass",
@@ -527,6 +537,7 @@
     ],
     "lead_id": "Lb92653b9f2",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "blocked",
@@ -570,6 +581,7 @@
     ],
     "lead_id": "L611b8a9b4a",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -613,6 +625,7 @@
     ],
     "lead_id": "L56c110fb00",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "day_pass",
@@ -661,9 +674,13 @@
     "emails_all": [
       "sales@letswork.co.in",
       "support@letswork.co.in",
-      "info@letswork.co.in",
+      "info@letswork.co.in"
+    ],
+    "emails_other": [
       "bootstrap@5.3.0-alpha1",
-      "bootstrap@5.3.1"
+      "bootstrap@5.3.1",
+      "core@2.9.2",
+      "core@2.11.6"
     ],
     "social_links": {
       "x": "https://x.com/letsworkmumbai",
@@ -733,6 +750,7 @@
       "support@wework.co.in",
       "grievances@wework.co.in"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/weworkindia",
       "instagram": "https://www.instagram.com/wework.in",
@@ -792,6 +810,7 @@
     "emails_all": [
       "info@theboardroom.in"
     ],
+    "emails_other": [],
     "social_links": {
       "instagram": "https://www.instagram.com/theboardroom.coworking",
       "linkedin": "https://www.linkedin.com/company/theboardroom",
@@ -823,7 +842,7 @@
     "category": "Coworking space",
     "address": "7th Floor, Dynasty Business Park, 701-713, Andheri - Kurla Rd, nr. Metro Station Chakala (J B Nagar), A-Wing, Vijay Nagar Colony, J B Nagar, Andheri East, Mumbai, Maharashtra 400059, India",
     "phone": "+917434883388",
-    "email": "slick-carousel@1.8.1",
+    "email": null,
     "website": "https://devx.work/coworking-space-in-mumbai",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuwQ7Qf7J5zsRlPdPScHVdJQ",
     "place_id": "ChIJuwQ7Qf7J5zsRlPdPScHVdJQ",
@@ -843,7 +862,8 @@
       ]
     ],
     "lead_id": "L2ab476a5d9",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "slick-carousel@1.8.1"
     ],
     "social_links": {
@@ -870,7 +890,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped",
       "services": "website_scraped"
     }
@@ -905,6 +924,7 @@
     ],
     "lead_id": "L418c032493",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -955,6 +975,7 @@
     "emails_all": [
       "mkt@sunriseprince.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/Sunrise-Tower-145252392345137",
       "x": "https://twitter.com/mktsunrise",
@@ -1013,6 +1034,7 @@
     ],
     "lead_id": "L3ea7b0bfc9",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {
       "instagram": "https://www.instagram.com/91springboard",
       "facebook": "https://www.facebook.com/91springboard",
@@ -1067,6 +1089,7 @@
       "info@innov8.work",
       "hello@innov8.work"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/innov8.work",
       "instagram": "https://www.instagram.com/innov8.work",
@@ -1131,6 +1154,7 @@
     ],
     "lead_id": "L5ed2b0d98f",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -1174,6 +1198,7 @@
     ],
     "lead_id": "Lfff479c060",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "cafeteria",
@@ -1222,7 +1247,9 @@
     ],
     "lead_id": "L0e29eaf7f6",
     "emails_all": [
-      "admin@telozspaces.com",
+      "admin@telozspaces.com"
+    ],
+    "emails_other": [
       "you@company.com"
     ],
     "social_links": {},
@@ -1277,7 +1304,9 @@
     ],
     "lead_id": "L60b9bde696",
     "emails_all": [
-      "connekt@connekt.co.in",
+      "connekt@connekt.co.in"
+    ],
+    "emails_other": [
       "aos@2.3.1"
     ],
     "social_links": {
@@ -1336,6 +1365,7 @@
     ],
     "lead_id": "L45756c55b5",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "blocked",
@@ -1374,7 +1404,9 @@
     ],
     "lead_id": "L6b96b199e4",
     "emails_all": [
-      "connekt@connekt.co.in",
+      "connekt@connekt.co.in"
+    ],
+    "emails_other": [
       "aos@2.3.1"
     ],
     "social_links": {
@@ -1437,7 +1469,9 @@
     ],
     "lead_id": "L32f0872024",
     "emails_all": [
-      "enquiry@ideasq.in",
+      "enquiry@ideasq.in"
+    ],
+    "emails_other": [
       "enquiry@ideasq.inaddress"
     ],
     "social_links": {
@@ -1496,6 +1530,7 @@
     ],
     "lead_id": "Lf97c1cb9ee",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/profile.php",
       "instagram": "https://instagram.com/ascend.cowork"
@@ -1551,6 +1586,7 @@
     "emails_all": [
       "hustlecoworking.com@gmail.com"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "hot_desk",
@@ -1567,7 +1603,7 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
+      "email": "website_scraped_free_provider",
       "services": "website_scraped"
     }
   },
@@ -1596,6 +1632,7 @@
     ],
     "lead_id": "Lcf5eda027f",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -1633,6 +1670,7 @@
     ],
     "lead_id": "L8024f28bd6",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "virtual_office"
@@ -1673,6 +1711,7 @@
     ],
     "lead_id": "Lf590c1a5c2",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -1716,6 +1755,7 @@
     ],
     "lead_id": "Lf339e7af3b",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "robots_disallowed",
@@ -1756,6 +1796,7 @@
     "emails_all": [
       "support@executivespaces.in"
     ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/executive-spaces-4a7513191",
       "facebook": "https://www.facebook.com/executivespaces",
@@ -1815,6 +1856,7 @@
     ],
     "lead_id": "L86bd1b507e",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -1855,6 +1897,7 @@
     "emails_all": [
       "support@executivespaces.in"
     ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/executive-spaces-4a7513191",
       "facebook": "https://www.facebook.com/executivespaces",
@@ -1911,6 +1954,7 @@
     "emails_all": [
       "cowork307@gmail.com"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "day_pass",
@@ -1931,7 +1975,7 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
+      "email": "website_scraped_free_provider",
       "services": "website_scraped"
     }
   },
@@ -1960,6 +2004,7 @@
     ],
     "lead_id": "L967d3d5b64",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -2001,6 +2046,7 @@
       "support@wework.co.in",
       "grievances@wework.co.in"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/weworkindia",
       "instagram": "https://www.instagram.com/wework.in",
@@ -2057,6 +2103,7 @@
       "contact@awfis.com",
       "press@awfis.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/myawfis",
       "instagram": "https://www.instagram.com/myawfis",
@@ -2109,6 +2156,7 @@
     ],
     "lead_id": "L1b0b110151",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "open_24x7"
@@ -2154,6 +2202,7 @@
       "contact@awfis.com",
       "press@awfis.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/myawfis",
       "instagram": "https://www.instagram.com/myawfis",
@@ -2206,6 +2255,7 @@
     ],
     "lead_id": "L24eaee22d3",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/QuestOffices",
       "instagram": "https://www.instagram.com/quest_offices",
@@ -2259,6 +2309,7 @@
     "emails_all": [
       "info@tablespace.com"
     ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/company/tablespaceofficial",
       "instagram": "https://www.instagram.com/tablespaceofficial",
@@ -2313,6 +2364,7 @@
       "hr@bhiveworkspace.com",
       "marketing@bhiveworkspace.com"
     ],
+    "emails_other": [],
     "social_links": {
       "youtube": "https://www.youtube.com/@AllAbout_RealEstate",
       "facebook": "https://www.facebook.com/bhiveworkspace",
@@ -2371,6 +2423,7 @@
       "events-perth@executivecentre.com",
       "vo-perth@executivecentre.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/theexecutivecentre",
       "linkedin": "https://www.linkedin.com/company/the-executive-centre",
@@ -2428,6 +2481,7 @@
       "info@innov8.work",
       "hello@innov8.work"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/innov8.work",
       "instagram": "https://www.instagram.com/innov8.work",
@@ -2489,6 +2543,7 @@
       "events-perth@executivecentre.com",
       "vo-perth@executivecentre.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/theexecutivecentre",
       "linkedin": "https://www.linkedin.com/company/the-executive-centre",
@@ -2546,6 +2601,7 @@
     "emails_all": [
       "anitalawrence30@gmail.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/xpeedstudio"
     },
@@ -2563,7 +2619,7 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
+      "email": "website_scraped_free_provider",
       "social_links": "website_scraped",
       "services": "website_scraped"
     }
@@ -2593,7 +2649,9 @@
     ],
     "lead_id": "L1233c29960",
     "emails_all": [
-      "enquiries@thecorporatedge.com",
+      "enquiries@thecorporatedge.com"
+    ],
+    "emails_other": [
       "you@company.com"
     ],
     "social_links": {
@@ -2648,6 +2706,7 @@
     ],
     "lead_id": "L492e771d66",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -2690,6 +2749,7 @@
       "info@awfis.com",
       "press@awfis.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/myawfis",
       "instagram": "https://www.instagram.com/myawfis",
@@ -2748,6 +2808,7 @@
       "vo-perth@executivecentre.com",
       "melbourne@executivecentre.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/theexecutivecentre",
       "linkedin": "https://www.linkedin.com/company/the-executive-centre",
@@ -2800,7 +2861,9 @@
     ],
     "lead_id": "Laa01fef4e9",
     "emails_all": [
-      "connekt@connekt.co.in",
+      "connekt@connekt.co.in"
+    ],
+    "emails_other": [
       "aos@2.3.1"
     ],
     "social_links": {
@@ -2854,6 +2917,7 @@
     ],
     "lead_id": "L6797192dff",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "parking"
@@ -2897,6 +2961,7 @@
     "emails_all": [
       "info@tablespace.com"
     ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/company/tablespaceofficial",
       "instagram": "https://www.instagram.com/tablespaceofficial",
@@ -2947,6 +3012,7 @@
     ],
     "lead_id": "L6a251d139c",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "blocked",
@@ -2987,6 +3053,7 @@
     "emails_all": [
       "info@esziworkn.com"
     ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/esziworkn-bkc-041336242"
     },
@@ -3036,6 +3103,7 @@
     ],
     "lead_id": "Laf9c7b902d",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -3077,6 +3145,7 @@
       "info@qdesq.com",
       "devender@qdesq.com"
     ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/kjs0127"
     },
@@ -3131,6 +3200,7 @@
     "emails_all": [
       "hello@redbrickoffices.com"
     ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/ayush-goenka-148566375",
       "x": "https://twitter.com/Redbrickoffices",
@@ -3183,6 +3253,7 @@
       "events-perth@executivecentre.com",
       "vo-perth@executivecentre.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/theexecutivecentre",
       "linkedin": "https://www.linkedin.com/company/the-executive-centre",
@@ -3242,8 +3313,10 @@
       "sales@kontorspace.in",
       "investor@kontorspace.in",
       "cm.thane@kontorspace.in",
-      "cm.bkc@kontorspace.in"
+      "cm.bkc@kontorspace.in",
+      "hello@gmail.com"
     ],
+    "emails_other": [],
     "social_links": {
       "x": "https://twitter.com/kontorspace_IN",
       "facebook": "https://www.facebook.com/KontorIndia",
@@ -3293,6 +3366,7 @@
     ],
     "lead_id": "Lf46bb690ee",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "open_24x7"
@@ -3337,6 +3411,7 @@
       "info@innov8.work",
       "hello@innov8.work"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/innov8.work",
       "instagram": "https://www.instagram.com/innov8.work",
@@ -3392,6 +3467,7 @@
     "emails_all": [
       "info@tablespace.com"
     ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/company/tablespaceofficial",
       "instagram": "https://www.instagram.com/tablespaceofficial",
@@ -3446,6 +3522,7 @@
       "events-perth@executivecentre.com",
       "vo-perth@executivecentre.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/theexecutivecentre",
       "linkedin": "https://www.linkedin.com/company/the-executive-centre",
@@ -3501,6 +3578,7 @@
     ],
     "lead_id": "L157ae4672e",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "blocked",
@@ -3541,6 +3619,7 @@
     "emails_all": [
       "sap@ilosung.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/people/IL-Group/100063645714472",
       "linkedin": "https://www.linkedin.com/company/ilosung-private-limited"
@@ -3585,6 +3664,7 @@
     "emails_all": [
       "hello@redbrickoffices.com"
     ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/ayush-goenka-148566375",
       "x": "https://twitter.com/Redbrickoffices",
@@ -3634,6 +3714,7 @@
       "pa@mmsaiyadassociate.com",
       "legal@mmsaiyadassociate.com"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -3652,7 +3733,7 @@
     "category": "Coworking space",
     "address": "603, Makhija Arcade, 35th Rd, Khar, Khar West, Mumbai, Maharashtra 400052, India",
     "phone": "+919136036603",
-    "email": "leaflet@1.7.1",
+    "email": null,
     "website": "https://603thecoworkingspace.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8yvMQRHJ5zsRPyYlL0DDE0s",
     "place_id": "ChIJ8yvMQRHJ5zsRPyYlL0DDE0s",
@@ -3672,7 +3753,8 @@
       ]
     ],
     "lead_id": "L22d283bf84",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "leaflet@1.7.1"
     ],
     "social_links": {},
@@ -3685,8 +3767,7 @@
       "website": "google_maps_via_serpapi",
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
-      "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped"
+      "maps_url": "google_maps_via_serpapi"
     }
   },
   {
@@ -3714,6 +3795,7 @@
     ],
     "lead_id": "L4950334d4c",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -3730,7 +3812,7 @@
     "category": "Business center",
     "address": "Bus Depot, Off Eastern Express Highway, Sewri - Chembur Rd, near Anik Nagar, Mumbai, Maharashtra 400037, India",
     "phone": null,
-    "email": "leasing@vios.in",
+    "email": null,
     "website": "https://viostower.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQXwx6HI5zsR8x_CP5fQ-kI",
     "place_id": "ChIJOQXwx6HI5zsR8x_CP5fQ-kI",
@@ -3750,7 +3832,8 @@
       ]
     ],
     "lead_id": "Le1ab3b4c4e",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "leasing@vios.in"
     ],
     "social_links": {
@@ -3770,7 +3853,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped",
       "services": "website_scraped"
     }
@@ -3803,6 +3885,7 @@
       "info@hotcult.in",
       "hello@hotcult.in"
     ],
+    "emails_other": [],
     "social_links": {
       "instagram": "https://www.instagram.com/hotcult.in",
       "facebook": "https://www.facebook.com/hotcult.in",
@@ -3847,6 +3930,7 @@
     ],
     "lead_id": "L97c1160aae",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "blocked",
@@ -3897,6 +3981,7 @@
     "emails_all": [
       "enquiry@hive8.space"
     ],
+    "emails_other": [],
     "social_links": {
       "instagram": "https://www.instagram.com/hive8.space"
     },
@@ -3924,7 +4009,7 @@
     "category": "Coworking space",
     "address": "C Wing, Next Gen, BLOCK-B2, 101, Ganapatrao Kadam Marg, Lower Parel, Mumbai, Maharashtra 400013, India",
     "phone": "+919136036603",
-    "email": "leaflet@1.7.1",
+    "email": null,
     "website": "https://603thecoworkingspace.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbzFDqvzP5zsR508O_4c4RxA",
     "place_id": "ChIJbzFDqvzP5zsR508O_4c4RxA",
@@ -3949,7 +4034,8 @@
       ]
     ],
     "lead_id": "Lcebf1f0314",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "leaflet@1.7.1"
     ],
     "social_links": {},
@@ -3962,8 +4048,7 @@
       "website": "google_maps_via_serpapi",
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
-      "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped"
+      "maps_url": "google_maps_via_serpapi"
     }
   },
   {
@@ -3996,6 +4081,7 @@
     ],
     "lead_id": "L85d580f18c",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "parking"
@@ -4042,6 +4128,7 @@
     ],
     "lead_id": "L2418291052",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -4086,6 +4173,7 @@
     "emails_all": [
       "sales@pinakiworkspace.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/p/Pinakiworkspace-100094283359557",
       "instagram": "https://www.instagram.com/pinakiiworkspace",
@@ -4120,7 +4208,7 @@
     "category": "Coworking space",
     "address": "3rd Floor, Apte House, LR Papan Marg, Worli Naka, Laxminarsingh, Worli, Mumbai, Maharashtra 400018, India",
     "phone": "+919819029131",
-    "email": "hello@rfuenzalida.com",
+    "email": "impallari@gmail.com",
     "website": "https://ikigaiconnect.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfBASq3P5zsRe9ll4d57EQM",
     "place_id": "ChIJpfBASq3P5zsRe9ll4d57EQM",
@@ -4146,9 +4234,11 @@
     ],
     "lead_id": "L22aa68ebc4",
     "emails_all": [
-      "hello@rfuenzalida.com",
+      "impallari@gmail.com"
+    ],
+    "emails_other": [
       "matt@pixelspread.com",
-      "impallari@gmail.com",
+      "hello@rfuenzalida.com",
       "anant@cinecita.com"
     ],
     "social_links": {
@@ -4166,7 +4256,7 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
+      "email": "website_scraped_free_provider",
       "social_links": "website_scraped"
     }
   },
@@ -4200,6 +4290,7 @@
     ],
     "lead_id": "Lacc302caab",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "robots_disallowed",
@@ -4243,6 +4334,7 @@
     ],
     "lead_id": "L9c1e91a0ad",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "blocked",
@@ -4292,6 +4384,7 @@
       "events-perth@executivecentre.com",
       "vo-perth@executivecentre.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/theexecutivecentre",
       "linkedin": "https://www.linkedin.com/company/the-executive-centre",
@@ -4363,6 +4456,7 @@
     "emails_all": [
       "hello@urbanwrk.com"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -4407,6 +4501,7 @@
     ],
     "lead_id": "Lc5f28a1c6c",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "open_24x7"
@@ -4453,6 +4548,7 @@
     ],
     "lead_id": "L42251d0247",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "day_pass",
@@ -4508,6 +4604,7 @@
       "events-perth@executivecentre.com",
       "vo-perth@executivecentre.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/theexecutivecentre",
       "linkedin": "https://www.linkedin.com/company/the-executive-centre",
@@ -4570,6 +4667,7 @@
       "support@wework.co.in",
       "grievances@wework.co.in"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/weworkindia",
       "instagram": "https://www.instagram.com/wework.in",
@@ -4630,6 +4728,7 @@
       "info@awfis.com",
       "press@awfis.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/myawfis",
       "instagram": "https://www.instagram.com/myawfis",
@@ -4690,6 +4789,7 @@
       "info@innov8.work",
       "hello@innov8.work"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/innov8.work",
       "instagram": "https://www.instagram.com/innov8.work",
@@ -4722,7 +4822,7 @@
     "category": "Coworking space",
     "address": "Marathon Futuex, Mafatlal Mills, NM Joshi Marg, Compound, Lower Parel, Mumbai, Maharashtra 400013, India",
     "phone": "+919136036603",
-    "email": "leaflet@1.7.1",
+    "email": null,
     "website": "https://603thecoworkingspace.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX19N6-vP5zsRpFTg8FYsZCo",
     "place_id": "ChIJX19N6-vP5zsRpFTg8FYsZCo",
@@ -4742,7 +4842,8 @@
       ]
     ],
     "lead_id": "L7c1233c24a",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "leaflet@1.7.1"
     ],
     "social_links": {},
@@ -4755,8 +4856,7 @@
       "website": "google_maps_via_serpapi",
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
-      "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped"
+      "maps_url": "google_maps_via_serpapi"
     }
   },
   {
@@ -4789,7 +4889,9 @@
     ],
     "lead_id": "L8ce73b6e78",
     "emails_all": [
-      "enquiries@thecorporatedge.com",
+      "enquiries@thecorporatedge.com"
+    ],
+    "emails_other": [
       "you@company.com"
     ],
     "social_links": {
@@ -4846,6 +4948,7 @@
     "emails_all": [
       "hello@redbrickoffices.com"
     ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/ayush-goenka-148566375",
       "x": "https://twitter.com/Redbrickoffices",
@@ -4893,6 +4996,7 @@
     "emails_all": [
       "solutions@cowrks.com"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "parking"
@@ -4913,7 +5017,7 @@
     "category": "Coworking space",
     "address": "4th Floor, Tower D, Trade World, Kamala Mills Compound, Lower Parel, Mumbai, Maharashtra 400013, India",
     "phone": "+919136036603",
-    "email": "leaflet@1.7.1",
+    "email": null,
     "website": "https://603thecoworkingspace.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuScuQOPP5zsR1Lnm8kf_tzc",
     "place_id": "ChIJuScuQOPP5zsR1Lnm8kf_tzc",
@@ -4933,7 +5037,8 @@
       ]
     ],
     "lead_id": "L7a79e0eda8",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "leaflet@1.7.1"
     ],
     "social_links": {},
@@ -4944,8 +5049,7 @@
       "phone": "google_maps_via_serpapi",
       "address": "google_maps_via_serpapi",
       "website": "google_maps_via_serpapi",
-      "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped"
+      "maps_url": "google_maps_via_serpapi"
     }
   },
   {
@@ -4973,6 +5077,7 @@
     ],
     "lead_id": "Lc1c3ed795b",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {
       "instagram": "https://instagram.com/hungerpangs_coworks"
     },
@@ -4991,7 +5096,7 @@
     "category": "Business center",
     "address": "Empire Complex, Empire Business Centre, 414, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013, India",
     "phone": "+912267871515",
-    "email": "sales.tebc@empire-offices.com",
+    "email": null,
     "website": "https://empirebusinesscentres.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtW8RfbPP5zsRAqTwnb0dGYE",
     "place_id": "ChIJtW8RfbPP5zsRAqTwnb0dGYE",
@@ -5011,7 +5116,8 @@
       ]
     ],
     "lead_id": "L799c21e036",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "sales.tebc@empire-offices.com"
     ],
     "social_links": {
@@ -5033,7 +5139,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped",
       "services": "website_scraped"
     }
@@ -5042,7 +5147,7 @@
     "category": "Coworking space",
     "address": "29A, Sunshine Tower, Senapati Bapat Marg, Dadar West, Parel, Mumbai, Maharashtra 400028, India",
     "phone": "+919136036603",
-    "email": "leaflet@1.7.1",
+    "email": null,
     "website": "https://603thecoworkingspace.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNZC_5QvP5zsRBd75QNQgO20",
     "place_id": "ChIJNZC_5QvP5zsRBd75QNQgO20",
@@ -5062,7 +5167,8 @@
       ]
     ],
     "lead_id": "L17a5bf6e49",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "leaflet@1.7.1"
     ],
     "social_links": {},
@@ -5073,8 +5179,7 @@
       "phone": "google_maps_via_serpapi",
       "address": "google_maps_via_serpapi",
       "website": "google_maps_via_serpapi",
-      "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped"
+      "maps_url": "google_maps_via_serpapi"
     }
   },
   {
@@ -5110,6 +5215,7 @@
       "support@wework.co.in",
       "grievances@wework.co.in"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/weworkindia",
       "instagram": "https://www.instagram.com/wework.in",
@@ -5141,7 +5247,7 @@
     "category": "Coworking space",
     "address": "Level 14, Altimus, Pandurang Budhkar Marg, B Wing, BDD Chawls Worli, Worli, Mumbai, Maharashtra 400018, India",
     "phone": null,
-    "email": "lenis@1.3.15",
+    "email": null,
     "website": "https://justcoglobal.com/en-in/centre/the-collective-altimus",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo68pJK3P5zsRl7W0KI-gVDM",
     "place_id": "ChIJo68pJK3P5zsRl7W0KI-gVDM",
@@ -5166,7 +5272,8 @@
       ]
     ],
     "lead_id": "La2f0b83e73",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "lenis@1.3.15"
     ],
     "social_links": {
@@ -5190,7 +5297,6 @@
       "address": "google_maps_via_serpapi",
       "website": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped",
       "services": "website_scraped"
     }
@@ -5220,6 +5326,7 @@
     ],
     "lead_id": "Lac8030e18b",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -5258,6 +5365,7 @@
     "emails_all": [
       "hello@redbrickoffices.com"
     ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/ayush-goenka-148566375",
       "x": "https://twitter.com/Redbrickoffices",
@@ -5303,6 +5411,7 @@
     "emails_all": [
       "contact@thinkersnest.com"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "dedicated_desk",
@@ -5325,7 +5434,7 @@
     "category": "Corporate office",
     "address": "Sun Mill Compound, 5A, TODI ESTATE, Lower Parel, Mumbai, Maharashtra 400013, India",
     "phone": null,
-    "email": "leaflet@1.7.1",
+    "email": null,
     "website": "https://603thecoworkingspace.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1836WgDP5zsRKGliB2lUzR0",
     "place_id": "ChIJ1836WgDP5zsRKGliB2lUzR0",
@@ -5345,7 +5454,8 @@
       ]
     ],
     "lead_id": "L46f340872d",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "leaflet@1.7.1"
     ],
     "social_links": {},
@@ -5357,8 +5467,7 @@
       "website": "google_maps_via_serpapi",
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
-      "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped"
+      "maps_url": "google_maps_via_serpapi"
     }
   },
   {
@@ -5388,6 +5497,7 @@
     "emails_all": [
       "accounts@work-wise.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/WorkWiseIN",
       "instagram": "https://www.instagram.com/work_wise",
@@ -5419,7 +5529,7 @@
     "category": "Coworking space",
     "address": "2nd Floor, Matulya Centre, Lower Parel, Mumbai, Maharashtra 400013, India",
     "phone": "+919136036603",
-    "email": "leaflet@1.7.1",
+    "email": null,
     "website": "https://603thecoworkingspace.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74TgN_DP5zsRM0qWZbKwWOA",
     "place_id": "ChIJ74TgN_DP5zsRM0qWZbKwWOA",
@@ -5444,7 +5554,8 @@
       ]
     ],
     "lead_id": "Lfc5bfe4afe",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "leaflet@1.7.1"
     ],
     "social_links": {},
@@ -5457,8 +5568,7 @@
       "website": "google_maps_via_serpapi",
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
-      "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped"
+      "maps_url": "google_maps_via_serpapi"
     }
   },
   {
@@ -5491,6 +5601,7 @@
     ],
     "lead_id": "L98ea5af6cb",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -5534,6 +5645,7 @@
     ],
     "lead_id": "Lb49d378147",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "blocked",
@@ -5577,6 +5689,7 @@
     ],
     "lead_id": "L4890914671",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "parking"
@@ -5623,6 +5736,7 @@
     ],
     "lead_id": "L64ba86f5d8",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "parking"
@@ -5668,6 +5782,7 @@
     ],
     "lead_id": "L3a62e5dbd6",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "parking"
@@ -5714,6 +5829,7 @@
     ],
     "lead_id": "Lffb047e98d",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -5730,7 +5846,7 @@
     "category": "Coworking space",
     "address": "16th Floor, 1602, Saki Vihar Rd, opposite Mtnl, off Tunga Village, Tunga Village, Chandivali, Powai, Mumbai, Maharashtra 400072, India",
     "phone": "+917208198797",
-    "email": "info@thefounders.in",
+    "email": null,
     "website": "https://thefounders.co.in",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJITOz4HTJ5zsRtNBlj7wKFeg",
     "place_id": "ChIJITOz4HTJ5zsRtNBlj7wKFeg",
@@ -5750,7 +5866,8 @@
       ]
     ],
     "lead_id": "L86c282051f",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "info@thefounders.in"
     ],
     "social_links": {},
@@ -5763,8 +5880,7 @@
       "website": "google_maps_via_serpapi",
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
-      "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped"
+      "maps_url": "google_maps_via_serpapi"
     }
   },
   {
@@ -5792,6 +5908,7 @@
     ],
     "lead_id": "L7d28087167",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "blocked",
@@ -5833,6 +5950,7 @@
       "support@wework.co.in",
       "grievances@wework.co.in"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/weworkindia",
       "instagram": "https://www.instagram.com/wework.in",
@@ -5888,6 +6006,7 @@
       "%20ashish@enzymefo.com",
       "ashish@enzymefo.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/enzymefo",
       "youtube": "https://www.youtube.com/@enzymeoffices",
@@ -5947,6 +6066,7 @@
     ],
     "lead_id": "L2fdd711353",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "parking"
@@ -5996,6 +6116,7 @@
       "support@wework.co.in",
       "grievances@wework.co.in"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/weworkindia",
       "instagram": "https://www.instagram.com/wework.in",
@@ -6026,7 +6147,7 @@
     "category": "Coworking space",
     "address": "L & T Business Park, New Mhada Colony, Savarkar Nagar, Chandivali, Powai, Mumbai, Maharashtra 400072, India",
     "phone": "+917349282552",
-    "email": "slick-carousel@1.8.1",
+    "email": null,
     "website": "https://indiqube.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM21H5XHJ5zsR--EbadJDW1o",
     "place_id": "ChIJM21H5XHJ5zsR--EbadJDW1o",
@@ -6046,7 +6167,8 @@
       ]
     ],
     "lead_id": "L294e390c9c",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "slick-carousel@1.8.1"
     ],
     "social_links": {},
@@ -6059,8 +6181,7 @@
       "website": "google_maps_via_serpapi",
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
-      "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped"
+      "maps_url": "google_maps_via_serpapi"
     }
   },
   {
@@ -6090,6 +6211,7 @@
     "emails_all": [
       "hello@redbrickoffices.com"
     ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/ayush-goenka-148566375",
       "x": "https://twitter.com/Redbrickoffices",
@@ -6143,6 +6265,7 @@
     "emails_all": [
       "hello@vibrantcoworking.com"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "dedicated_desk",
@@ -6188,6 +6311,7 @@
     ],
     "lead_id": "L4244fddeff",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -6224,6 +6348,7 @@
     ],
     "lead_id": "La4c5a7ace5",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -6241,7 +6366,7 @@
     "category": "Coworking space",
     "address": "Ground Floor, Chromium, Jogeshwari - Vikhroli Link Rd, Manohar Nagar, Marol, Andheri East, Mumbai, Maharashtra 400076, India",
     "phone": "+911800123999000",
-    "email": "support@wework.co.in",
+    "email": null,
     "website": "https://wework.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDb_7fx3J5zsRA2LCzkJR520",
     "place_id": "ChIJDb_7fx3J5zsRA2LCzkJR520",
@@ -6271,7 +6396,8 @@
       ]
     ],
     "lead_id": "L9230c6de38",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "support@wework.co.in",
       "grievances@wework.co.in"
     ],
@@ -6298,7 +6424,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped",
       "services": "website_scraped"
     }
@@ -6340,9 +6465,13 @@
     "emails_all": [
       "sales@letswork.co.in",
       "support@letswork.co.in",
-      "info@letswork.co.in",
+      "info@letswork.co.in"
+    ],
+    "emails_other": [
       "bootstrap@5.3.0-alpha1",
-      "bootstrap@5.3.1"
+      "bootstrap@5.3.1",
+      "core@2.9.2",
+      "core@2.11.6"
     ],
     "social_links": {
       "x": "https://x.com/letsworkmumbai",
@@ -6401,6 +6530,7 @@
     "emails_all": [
       "hello@vibrantcoworking.com"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "dedicated_desk",
@@ -6456,6 +6586,7 @@
     ],
     "lead_id": "L9d0fb656d2",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {
       "instagram": "https://www.instagram.com/91springboard",
       "facebook": "https://www.facebook.com/91springboard",
@@ -6513,6 +6644,7 @@
     ],
     "lead_id": "Lcccfcb3546",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -6560,6 +6692,7 @@
     ],
     "lead_id": "L59c34e8f21",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -6598,6 +6731,7 @@
     ],
     "lead_id": "L12bfc611ca",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {
       "instagram": "https://www.instagram.com/91springboard",
       "facebook": "https://www.facebook.com/91springboard",
@@ -6652,6 +6786,7 @@
     ],
     "lead_id": "L4837a18aa0",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -6690,6 +6825,7 @@
     ],
     "lead_id": "L29cae80209",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -6727,6 +6863,7 @@
     ],
     "lead_id": "L21b5cd582e",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -6768,6 +6905,7 @@
       "contact@awfis.com",
       "press@awfis.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/myawfis",
       "instagram": "https://www.instagram.com/myawfis",
@@ -6820,6 +6958,7 @@
     ],
     "lead_id": "Lcf4c3f8faf",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -6860,6 +6999,7 @@
     "emails_all": [
       "sales@theflexiworks.com"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "day_pass",
@@ -6906,6 +7046,7 @@
     ],
     "lead_id": "Ldd57ee8c15",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -6955,6 +7096,7 @@
     "emails_all": [
       "info@workafella.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/workafella",
       "linkedin": "https://www.linkedin.com/company/workafella-india",
@@ -7013,7 +7155,9 @@
     ],
     "lead_id": "L84dcb577e0",
     "emails_all": [
-      "sales@toutlespace.com",
+      "sales@toutlespace.com"
+    ],
+    "emails_other": [
       "xt@rf.aevk"
     ],
     "social_links": {
@@ -7075,6 +7219,7 @@
       "support@wework.co.in",
       "grievances@wework.co.in"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/weworkindia",
       "instagram": "https://www.instagram.com/wework.in",
@@ -7136,6 +7281,7 @@
       "contact@awfis.com",
       "press@awfis.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/myawfis",
       "instagram": "https://www.instagram.com/myawfis",
@@ -7193,7 +7339,9 @@
     ],
     "lead_id": "L9ffd4642c5",
     "emails_all": [
-      "admin@telozspaces.com",
+      "admin@telozspaces.com"
+    ],
+    "emails_other": [
       "you@company.com"
     ],
     "social_links": {},
@@ -7251,6 +7399,7 @@
       "support@wework.co.in",
       "grievances@wework.co.in"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/weworkindia",
       "instagram": "https://www.instagram.com/wework.in",
@@ -7308,7 +7457,9 @@
     ],
     "lead_id": "L980d167c5c",
     "emails_all": [
-      "contact@yesssworks.com",
+      "contact@yesssworks.com"
+    ],
+    "emails_other": [
       "you@company.com"
     ],
     "social_links": {
@@ -7374,6 +7525,7 @@
     "emails_all": [
       "sandeep@97tech.com"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "cafeteria",
@@ -7425,7 +7577,9 @@
     ],
     "lead_id": "Lfa77f86f84",
     "emails_all": [
-      "sales@toutlespace.com",
+      "sales@toutlespace.com"
+    ],
+    "emails_other": [
       "xt@rf.aevk"
     ],
     "social_links": {
@@ -7484,6 +7638,7 @@
     ],
     "lead_id": "L253cdbef5e",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -7521,7 +7676,9 @@
     ],
     "lead_id": "L6624288ab8",
     "emails_all": [
-      "property@usindia.com",
+      "property@usindia.com"
+    ],
+    "emails_other": [
       "alpinejs@3.x.x"
     ],
     "social_links": {},
@@ -7568,6 +7725,7 @@
     "emails_all": [
       "info@tablespace.com"
     ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/company/tablespaceofficial",
       "instagram": "https://www.instagram.com/tablespaceofficial",
@@ -7632,6 +7790,7 @@
       "support@wework.co.in",
       "grievances@wework.co.in"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/weworkindia",
       "instagram": "https://www.instagram.com/wework.in",
@@ -7685,6 +7844,7 @@
     ],
     "lead_id": "Lcdde8bf55f",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "meeting_room",
@@ -7738,6 +7898,7 @@
     ],
     "lead_id": "Le5a6cd4568",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -7789,6 +7950,7 @@
       "workcampuscowork@gmail.com",
       "%20workcampuscowork@gmail.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/WorkCampus-109309193810273",
       "instagram": "https://www.instagram.com/workcampus",
@@ -7807,7 +7969,7 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
+      "email": "website_scraped_free_provider",
       "social_links": "website_scraped",
       "services": "website_scraped"
     }
@@ -7842,7 +8004,9 @@
     ],
     "lead_id": "Le3adebf045",
     "emails_all": [
-      "admin@telozspaces.com",
+      "admin@telozspaces.com"
+    ],
+    "emails_other": [
       "you@company.com"
     ],
     "social_links": {},
@@ -7892,7 +8056,9 @@
     ],
     "lead_id": "Lffdcbba5f9",
     "emails_all": [
-      "contactus@sonipspace.com",
+      "contactus@sonipspace.com"
+    ],
+    "emails_other": [
       "slick-carousel@1.8.1",
       "aos@2.3.1",
       "tilt.js@1.1.19"
@@ -7944,6 +8110,7 @@
       "info@awfis.com",
       "press@awfis.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/myawfis",
       "instagram": "https://www.instagram.com/myawfis",
@@ -7996,6 +8163,7 @@
     ],
     "lead_id": "L11407c186e",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -8034,6 +8202,7 @@
     ],
     "lead_id": "Lccc426f050",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -8075,6 +8244,7 @@
     ],
     "lead_id": "Le2437b3070",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "event_space",
@@ -8118,6 +8288,7 @@
     ],
     "lead_id": "Lea7ee0bb06",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -8135,7 +8306,7 @@
     "category": "Coworking space",
     "address": "Nirlon Knowledge Park Rd, off Western Express Highway, behind Oracle Financial Services, Cama Industrial Estate, Goregaon East, Mumbai, Maharashtra 400063, India",
     "phone": null,
-    "email": "slick-carousel@1.8.1",
+    "email": null,
     "website": "https://indiqube.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRy79ri35zsRTk8EU4qc-8U",
     "place_id": "ChIJZRy79ri35zsRTk8EU4qc-8U",
@@ -8155,7 +8326,8 @@
       ]
     ],
     "lead_id": "Lb681929011",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "slick-carousel@1.8.1"
     ],
     "social_links": {},
@@ -8167,8 +8339,7 @@
       "website": "google_maps_via_serpapi",
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
-      "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped"
+      "maps_url": "google_maps_via_serpapi"
     }
   },
   {
@@ -8203,6 +8374,7 @@
     "emails_all": [
       "support@executivespaces.in"
     ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/executive-spaces-4a7513191",
       "facebook": "https://www.facebook.com/executivespaces",
@@ -8257,6 +8429,7 @@
     ],
     "lead_id": "L5a9461e48d",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -8300,6 +8473,7 @@
     ],
     "lead_id": "Lb9c90627ce",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -8337,7 +8511,9 @@
     ],
     "lead_id": "L97483d62dd",
     "emails_all": [
-      "admin@telozspaces.com",
+      "admin@telozspaces.com"
+    ],
+    "emails_other": [
       "you@company.com"
     ],
     "social_links": {},
@@ -8394,6 +8570,7 @@
     "emails_all": [
       "info@bloomdesk.in"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -8442,6 +8619,7 @@
       "accounts@kowork.co.in",
       "account@kowork.co.in"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/kowork.co.in",
       "instagram": "http://instagram.com/kowork.co.in",
@@ -8496,6 +8674,7 @@
     ],
     "lead_id": "Le4ca1c99a0",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -8532,7 +8711,9 @@
     ],
     "lead_id": "L164a6bd70f",
     "emails_all": [
-      "admin@telozspaces.com",
+      "admin@telozspaces.com"
+    ],
+    "emails_other": [
       "you@company.com"
     ],
     "social_links": {},
@@ -8581,6 +8762,7 @@
     ],
     "lead_id": "Lb7d6454836",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "cafeteria",
@@ -8631,6 +8813,7 @@
     "emails_all": [
       "info@bloomdesk.in"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -8670,6 +8853,7 @@
     ],
     "lead_id": "L14504a717e",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {
       "youtube": "https://www.youtube.com/@prmsnls",
       "instagram": "https://instagram.com/prmsnls",
@@ -8719,6 +8903,7 @@
     "emails_all": [
       "info@bloomdesk.in"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -8763,6 +8948,7 @@
     ],
     "lead_id": "L215462625f",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "cafeteria",
@@ -8809,6 +8995,7 @@
     ],
     "lead_id": "Lf3d7073a61",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "parking"
@@ -8857,6 +9044,7 @@
     "emails_all": [
       "info@bloomdesk.in"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -8896,6 +9084,7 @@
     ],
     "lead_id": "Laf12d14c10",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -8935,6 +9124,7 @@
       "compliance@potatoo.in",
       "hi@potatoo.in"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -8971,6 +9161,7 @@
     ],
     "lead_id": "L78794bd3da",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -9015,6 +9206,7 @@
     "emails_all": [
       "info@myeasyoffices.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/profile.php",
       "instagram": "https://www.instagram.com/myeasyoffices25"
@@ -9044,7 +9236,7 @@
     "category": "Coworking space",
     "address": "Dattani Tower (Tata), Mid Wing, RM Bhattad Rd, next to McDonald, Vivekanand Nagar, Borivali West, Mumbai, Maharashtra 400092, India",
     "phone": "+919820190836",
-    "email": "info@alfaesol.com",
+    "email": null,
     "website": "https://weworkoffice.in",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsUHVqSqx5zsRj-fPBdrqNvI",
     "place_id": "ChIJsUHVqSqx5zsRj-fPBdrqNvI",
@@ -9069,7 +9261,8 @@
       ]
     ],
     "lead_id": "Lfdbe06b26f",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "info@alfaesol.com"
     ],
     "social_links": {
@@ -9096,7 +9289,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped",
       "services": "website_scraped"
     }
@@ -9126,6 +9318,7 @@
     ],
     "lead_id": "Lf1a07cbc19",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -9167,6 +9360,7 @@
       "support@6club.uk",
       "u003esupport@6club.uk"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "open_24x7"
@@ -9208,6 +9402,7 @@
     ],
     "lead_id": "Lb5c1c140a4",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -9244,6 +9439,7 @@
     ],
     "lead_id": "Lf52b6daaa3",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -9287,6 +9483,7 @@
     ],
     "lead_id": "Ldd4207d48e",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -9331,6 +9528,7 @@
     "emails_all": [
       "info@cohubindia.com"
     ],
+    "emails_other": [],
     "social_links": {
       "x": "https://x.com/CohubIndia",
       "instagram": "https://www.instagram.com/cohub_india",
@@ -9358,7 +9556,7 @@
     "category": "Coworking space",
     "address": "10th and 11th floor, Plot no :, 20, Jogeshwari - Vikhroli Link Rd, nr. Majas Depot, Shyam Nagar, Jogeshwari East, Mumbai, Maharashtra 400060, India",
     "phone": null,
-    "email": "slick-carousel@1.8.1",
+    "email": null,
     "website": "https://indiqube.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8fz_mO35zsR1u81CD03bYo",
     "place_id": "ChIJq8fz_mO35zsR1u81CD03bYo",
@@ -9378,7 +9576,8 @@
       ]
     ],
     "lead_id": "L3a67101203",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "slick-carousel@1.8.1"
     ],
     "social_links": {},
@@ -9390,8 +9589,7 @@
       "website": "google_maps_via_serpapi",
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
-      "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped"
+      "maps_url": "google_maps_via_serpapi"
     }
   },
   {
@@ -9419,6 +9617,7 @@
     ],
     "lead_id": "Lb1c09c5f98",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "cafeteria",
@@ -9470,6 +9669,7 @@
       "info@awfis.com",
       "press@awfis.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/myawfis",
       "instagram": "https://www.instagram.com/myawfis",
@@ -9522,6 +9722,7 @@
     ],
     "lead_id": "L0ec075257f",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "open_24x7"
@@ -9540,7 +9741,7 @@
     "category": "Coworking space",
     "address": "6th Floor,Agnel Technical Complex,Sector 9A,Vashi,Navi Mumbai, Navi Mumbai, Maharashtra 400703, India",
     "phone": "+918850283239",
-    "email": "incubation@ciba.org.in",
+    "email": null,
     "website": "https://cibamumbai.org.in",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAw8LH8vG5zsRpEGuRKcp-jc",
     "place_id": "ChIJAw8LH8vG5zsRpEGuRKcp-jc",
@@ -9560,7 +9761,8 @@
       ]
     ],
     "lead_id": "L36b75ee086",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "incubation@ciba.org.in",
       "ceo@ciba.org.in"
     ],
@@ -9578,7 +9780,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped"
     }
   },
@@ -9615,6 +9816,7 @@
       "info@innov8.work",
       "hello@innov8.work"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/innov8.work",
       "instagram": "https://www.instagram.com/innov8.work",
@@ -9671,6 +9873,7 @@
     "emails_all": [
       "hello@redbrickoffices.com"
     ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/ayush-goenka-148566375",
       "x": "https://twitter.com/Redbrickoffices",
@@ -9716,6 +9919,7 @@
     "emails_all": [
       "info@innov8.work"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "meeting_room"
@@ -9761,6 +9965,7 @@
       "support@wework.co.in",
       "grievances@wework.co.in"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/weworkindia",
       "instagram": "https://www.instagram.com/wework.in",
@@ -9814,6 +10019,7 @@
     "emails_all": [
       "sales@dbsindia.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/DBSWorkspace1",
       "x": "https://x.com/DBSworkspace",
@@ -9866,6 +10072,7 @@
     ],
     "lead_id": "L464cadf40b",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -9903,6 +10110,7 @@
     ],
     "lead_id": "Lde5f28219a",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -9941,6 +10149,7 @@
     "emails_all": [
       "info@workloft.in"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "cafeteria",
@@ -9968,7 +10177,7 @@
     "category": "Coworking space",
     "address": "2nd Floor, Express Towers, Marine Drive, Nariman Point, Mumbai, Maharashtra 400021, Mumbai, Maharashtra 400078, India",
     "phone": "+918999884664",
-    "email": "sales@chnydtrace.in",
+    "email": null,
     "website": "https://chnydtrace.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0cpmzHR5zsRniYa15XDLvU",
     "place_id": "ChIJr0cpmzHR5zsRniYa15XDLvU",
@@ -9988,7 +10197,8 @@
       ]
     ],
     "lead_id": "L999d39fda3",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "sales@chnydtrace.in",
       "pratikb@chnydtrace.in"
     ],
@@ -10006,7 +10216,6 @@
       "address": "google_maps_via_serpapi",
       "website": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped",
       "services": "website_scraped"
     }
@@ -10015,7 +10224,7 @@
     "category": "Coworking space",
     "address": "Ground Floor, Hanuman Building, 300, Perin Nariman St, behind Reserve Bank of India, Kala Ghoda, Fort, Mumbai, Maharashtra 400001, India",
     "phone": null,
-    "email": "leaflet@1.7.1",
+    "email": null,
     "website": "https://603thecoworkingspace.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwWHPmFHR5zsRjNH3CfmAB30",
     "place_id": "ChIJwWHPmFHR5zsRjNH3CfmAB30",
@@ -10035,7 +10244,8 @@
       ]
     ],
     "lead_id": "L5b0beca0c0",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "leaflet@1.7.1"
     ],
     "social_links": {},
@@ -10045,8 +10255,7 @@
       "company_name": "google_maps_via_serpapi",
       "address": "google_maps_via_serpapi",
       "website": "google_maps_via_serpapi",
-      "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped"
+      "maps_url": "google_maps_via_serpapi"
     }
   },
   {
@@ -10074,6 +10283,7 @@
     ],
     "lead_id": "L7ecd4097b9",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "blocked",
@@ -10112,6 +10322,7 @@
     ],
     "lead_id": "L9df3a061eb",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "blocked",
@@ -10150,6 +10361,7 @@
     ],
     "lead_id": "L8b2734797d",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -10190,6 +10402,7 @@
     "emails_all": [
       "sales@dbsindia.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/DBSWorkspace1",
       "x": "https://x.com/DBSworkspace",
@@ -10222,7 +10435,7 @@
     "category": "Business center",
     "address": "Apeejay House, 3, Dinshaw Vacha Rd, near K.C College, Churchgate, Mumbai, Maharashtra 400020, India",
     "phone": "+9118002741112",
-    "email": "bootstrap-icons@1.11.1",
+    "email": null,
     "website": "https://apeejaybusinesscentre.com/locations/churchgate",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4BxGejR5zsRCW8PbMZnRDY",
     "place_id": "ChIJv4BxGejR5zsRCW8PbMZnRDY",
@@ -10242,7 +10455,8 @@
       ]
     ],
     "lead_id": "L4233ba9999",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "bootstrap-icons@1.11.1",
       "abcindia@apeejaygroup.com"
     ],
@@ -10256,8 +10470,7 @@
       "website": "google_maps_via_serpapi",
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
-      "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped"
+      "maps_url": "google_maps_via_serpapi"
     }
   },
   {
@@ -10285,6 +10498,7 @@
     ],
     "lead_id": "L332a92f621",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -10327,6 +10541,7 @@
     ],
     "lead_id": "L613229e039",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/people/Resource-Workspaces/61564428500404",
       "instagram": "https://www.instagram.com/resourcespaces",
@@ -10375,6 +10590,7 @@
     ],
     "lead_id": "L63d6b08ad5",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "blocked",
@@ -10416,6 +10632,7 @@
       "bottomup.real@gmail.com",
       "sd.rhmn@gmail.com"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "cafeteria",
@@ -10430,7 +10647,7 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
+      "email": "website_scraped_free_provider",
       "services": "website_scraped"
     }
   },
@@ -10459,6 +10676,7 @@
     ],
     "lead_id": "Le3a03b9d57",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "error",
@@ -10497,6 +10715,7 @@
     ],
     "lead_id": "Lddb0718989",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -10532,6 +10751,7 @@
     ],
     "lead_id": "L7dc0ce4b48",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {
       "instagram": "https://www.instagram.com/alloyworkspaces"
     },
@@ -10573,6 +10793,7 @@
     ],
     "lead_id": "L1a9d1a0b86",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -10611,7 +10832,9 @@
     ],
     "lead_id": "La19972bbdd",
     "emails_all": [
-      "info@huntoffices.com",
+      "info@huntoffices.com"
+    ],
+    "emails_other": [
       "slick-carousel@1.8.1"
     ],
     "social_links": {
@@ -10670,6 +10893,7 @@
     ],
     "lead_id": "L2e082c9095",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "blocked",
@@ -10687,7 +10911,7 @@
     "category": "Coworking space",
     "address": "G 7,G10, Zoom Plaza (Maxus Mall, opposite Gorai Bus Depot, Gorai 1, Borivali West, Mumbai, Maharashtra 400091, India",
     "phone": "+919820031780",
-    "email": "leaflet@1.4.0",
+    "email": null,
     "website": "https://myofficedeskspace.in",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvWdQ99ax5zsROEtBOi1y-qk",
     "place_id": "ChIJvWdQ99ax5zsROEtBOi1y-qk",
@@ -10707,7 +10931,8 @@
       ]
     ],
     "lead_id": "La09b77e470",
-    "emails_all": [
+    "emails_all": [],
+    "emails_other": [
       "leaflet@1.4.0"
     ],
     "social_links": {},
@@ -10723,7 +10948,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "services": "website_scraped"
     }
   },
@@ -10752,6 +10976,7 @@
     ],
     "lead_id": "L059f6718c9",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "blocked",
@@ -10790,6 +11015,7 @@
     ],
     "lead_id": "L685f383cc7",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -10829,6 +11055,7 @@
     "emails_all": [
       "info@bloomdesk.in"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -10868,6 +11095,7 @@
     ],
     "lead_id": "Laae0b0d634",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -10906,6 +11134,7 @@
     ],
     "lead_id": "L89e4ea7f22",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "blocked",
@@ -10946,6 +11175,7 @@
     "emails_all": [
       "info@nblisscoworking.in"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "cafeteria",
@@ -10996,6 +11226,7 @@
     "emails_all": [
       "info@spacyes.com"
     ],
+    "emails_other": [],
     "social_links": {
       "instagram": "https://www.instagram.com/spacyes"
     },
@@ -11046,6 +11277,7 @@
     "emails_all": [
       "info@spacyes.com"
     ],
+    "emails_other": [],
     "social_links": {
       "instagram": "https://www.instagram.com/spacyes"
     },
@@ -11094,6 +11326,7 @@
     ],
     "lead_id": "Lbab9a93561",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -11131,6 +11364,7 @@
     "emails_all": [
       "mustafa.sheikh@nuvolagelato.in"
     ],
+    "emails_other": [],
     "social_links": {
       "instagram": "https://www.instagram.com/nuvola.gelato"
     },
@@ -11173,7 +11407,9 @@
     ],
     "lead_id": "L5d90156313",
     "emails_all": [
-      "hello@mycuteoffice.com",
+      "hello@mycuteoffice.com"
+    ],
+    "emails_other": [
       "bootstrap@5.1.3"
     ],
     "social_links": {},
@@ -11218,6 +11454,7 @@
     ],
     "lead_id": "Le965995814",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "blocked",
@@ -11259,6 +11496,7 @@
       "info@vyora.work",
       "sales@vyora.work"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "day_pass",
@@ -11304,6 +11542,7 @@
     ],
     "lead_id": "L423ecae15f",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -11343,6 +11582,7 @@
     "emails_all": [
       "info@spacyes.com"
     ],
+    "emails_other": [],
     "social_links": {
       "instagram": "https://www.instagram.com/spacyes"
     },
@@ -11391,6 +11631,7 @@
     ],
     "lead_id": "L5245b3a362",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -11427,6 +11668,7 @@
     ],
     "lead_id": "L4df3dc88bc",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -11462,6 +11704,7 @@
     ],
     "lead_id": "L9aab080c5d",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -11500,6 +11743,7 @@
     "emails_all": [
       "bohostays2024@gmail.com"
     ],
+    "emails_other": [],
     "social_links": {
       "instagram": "https://www.instagram.com/thedigiwok/profilecard",
       "facebook": "https://www.facebook.com/bohotheboutiquestays",
@@ -11515,7 +11759,7 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
+      "email": "website_scraped_free_provider",
       "social_links": "website_scraped"
     }
   },
@@ -11544,6 +11788,7 @@
     ],
     "lead_id": "L31b3292d91",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
@@ -11583,6 +11828,7 @@
     "emails_all": [
       "contact@beyondspacework.com"
     ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/beyond-space-666953a6",
       "instagram": "https://www.instagram.com/beyondspace_realestate",
@@ -11635,6 +11881,7 @@
     ],
     "lead_id": "Lf3779369bb",
     "emails_all": [],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "no_website",
