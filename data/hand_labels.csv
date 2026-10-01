@@ -1,21 +1,21 @@
 lead_id,company_name,phone,email,website,rating,review_count,my_label
-L22aa68ebc4,Ikigai Connect,+919819029131,impallari@gmail.com,https://ikigaiconnect.com,4.9,61,
-Lf3779369bb,Dattani Trade Centre,,,,3.1,410,
-L967d3d5b64,Spaces Inspire Hub Andheri West,+912226031100,,https://spacesworks.com/en/in/4967,3.7,97,
-L27d9cfcfff,WeWork Bandbox House,+91180012312,support@wework.co.in,https://wework.com/buildings/bandbox-house--mumbai,5,5,
-Lb9c90627ce,AccessWork Mindspace Malad Serviced Offices,+9118002667667,,,3.9,29,
-L56c110fb00,Rainbow Coworks,+917977427968,,https://rainbowcoworks.in/dn-nagar.html,4.9,209,
-Ld45d71770b,Sunrise Tower,+918879781166,mkt@sunriseprince.com,https://sunriseprince.in,4.7,102,
-L332a92f621,Orritel Business & Arbitration Center,+912249784244,,,3.7,10,
-Lcf4c3f8faf,Regus,+912269931600,,https://regus.com/en/in/6100,4.1,18,
-L60b9bde696,Connekt,+918141601232,connekt@connekt.co.in,https://connekt.co.in,4.9,58,
-L7c1233c24a,603 The Coworking Space,+919136036603,,https://603thecoworkingspace.com,4.2,5,
-L253cdbef5e,WeeDoo.in,,,https://weedoo.in,5,1,
-Le938e4c00d,WeWork,+911800123999000,support@wework.co.in,https://wework.com/buildings/raheja-platinum--mumbai,4.5,1106,
-Le965995814,Community Coworks (Juhu Vimal),+919653660382,,https://communityspaces.co.in,5,2,
-L9d0fb656d2,91Springboard Vikhroli,+919597519191,,https://91springboard.com/co-working-office-space-mumbai/vikhroli-west,4.5,814,
-Laa01fef4e9,Connekt,+919892569874,connekt@connekt.co.in,https://connekt.co.in,4.8,9,
-L54f4d48ae3,Rainbow Coworks,+919833084052,,https://rainbowcoworks.in,4.8,34,
-Lfff479c060,Smartworks Fleet House,+918448980480,,https://smartworksoffice.com/office-space/mumbai/fleet-house,4.1,354,
-L4890914671,"COWRKS Powai, Prudential",+919538611122,,https://cowrks.com/coworking-space-mumbai/powai-prudential,4.6,270,
-Lf8d3e1af65,WorkWise Solutions Pvt. Ltd. (Lower Parel),+912266441900,accounts@work-wise.com,https://work-wise.com,4.2,165,
+L22aa68ebc4,Ikigai Connect,+919819029131,,https://ikigaiconnect.com,4.9,61,warm
+Lf3779369bb,Dattani Trade Centre,,,,3.1,410,incomplete
+L967d3d5b64,Spaces Inspire Hub Andheri West,+912226031100,,https://spacesworks.com/en/in/4967,3.7,97,warm
+L27d9cfcfff,WeWork Bandbox House,+91180012312,support@wework.co.in,https://wework.com/buildings/bandbox-house--mumbai,5,5,hot
+Lb9c90627ce,AccessWork Mindspace Malad Serviced Offices,+9118002667667,,,3.9,29,warm
+L56c110fb00,Rainbow Coworks,+917977427968,,https://rainbowcoworks.in/dn-nagar.html,4.9,209,warm
+Ld45d71770b,Sunrise Tower,+918879781166,mkt@sunriseprince.com,https://sunriseprince.in,4.7,102,hot
+L332a92f621,Orritel Business & Arbitration Center,+912249784244,,,3.7,10,warm
+Lcf4c3f8faf,Regus,+912269931600,,https://regus.com/en/in/6100,4.1,18,warm
+L60b9bde696,Connekt,+918141601232,connekt@connekt.co.in,https://connekt.co.in,4.9,58,hot
+L7c1233c24a,603 The Coworking Space,+919136036603,,https://603thecoworkingspace.com,4.2,5,warm
+L253cdbef5e,WeeDoo.in,,,https://weedoo.in,5,1,incomplete
+Le938e4c00d,WeWork,+911800123999000,support@wework.co.in,https://wework.com/buildings/raheja-platinum--mumbai,4.5,1106,hot
+Le965995814,Community Coworks (Juhu Vimal),+919653660382,,https://communityspaces.co.in,5,2,warm
+L9d0fb656d2,91Springboard Vikhroli,+919597519191,,https://91springboard.com/co-working-office-space-mumbai/vikhroli-west,4.5,814,warm
+Laa01fef4e9,Connekt,+919892569874,connekt@connekt.co.in,https://connekt.co.in,4.8,9,hot
+L54f4d48ae3,Rainbow Coworks,+919833084052,,https://rainbowcoworks.in,4.8,34,warm
+Lfff479c060,Smartworks Fleet House,+918448980480,,https://smartworksoffice.com/office-space/mumbai/fleet-house,4.1,354,warm
+L4890914671,"COWRKS Powai, Prudential",+919538611122,,https://cowrks.com/coworking-space-mumbai/powai-prudential,4.6,270,warm
+Lf8d3e1af65,WorkWise Solutions Pvt. Ltd. (Lower Parel),+912266441900,accounts@work-wise.com,https://work-wise.com,4.2,165,hot
