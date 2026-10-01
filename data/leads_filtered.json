@@ -1309,17 +1309,12 @@
   "company_name": "The Executive Centre",
   "_key": "executive centre",
   "phone_type": "landline",
-  "merged_records": 2,
+  "merged_records": 1,
   "_members": [
    [
     "ChIJZ9yRohTJ5zsRxcZBUwzjpws",
     "Level 17, C Wing, Level 12, A Wing, Level 18, C Wing &, B &, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
     "+912268073001"
-   ],
-   [
-    "ChIJnT-RcBzJ5zsR8NtxBxunWes",
-    "Plot No. C- 38/39, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-    "+912268512300"
    ]
   ],
   "lead_id": "Lb7e2cd133c"
@@ -1473,6 +1468,31 @@
    ]
   ],
   "lead_id": "Lf461815811"
+ },
+ {
+  "category": "Coworking space",
+  "address": "Plot No. C- 38/39, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
+  "phone": "+912268512300",
+  "email": null,
+  "website": "https://executivecentre.com/office-space/parinee-crescenzo",
+  "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnT-RcBzJ5zsR8NtxBxunWes",
+  "place_id": "ChIJnT-RcBzJ5zsR8NtxBxunWes",
+  "rating": 5,
+  "review_count": 16,
+  "source": "google_maps_via_serpapi",
+  "collected_at": "2026-10-01T06:44:40+00:00",
+  "company_name": "The Executive Centre",
+  "_key": "executive centre",
+  "phone_type": "landline",
+  "merged_records": 1,
+  "_members": [
+   [
+    "ChIJnT-RcBzJ5zsR8NtxBxunWes",
+    "Plot No. C- 38/39, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
+    "+912268512300"
+   ]
+  ],
+  "lead_id": "L26f2fd5615"
  },
  {
   "category": "Coworking space",
