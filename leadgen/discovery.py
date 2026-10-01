@@ -67,10 +67,11 @@ def discover(areas=None, **kw):
 
 
 if __name__ == "__main__":
-    import sys
+    import sys, json
     leads = discover() if "--all" in sys.argv else discover(["Andheri"], max_pages=1)
-    print("found:", len(leads))
+    os.makedirs("data", exist_ok=True)
+    with open("data/raw_leads.json", "w", encoding="utf-8") as f:
+        json.dump(leads, f, indent=1)
+    print("saved", len(leads), "raw records to data/raw_leads.json")
     print("with phone:", sum(1 for l in leads if l["phone"]))
     print("with website:", sum(1 for l in leads if l["website"]))
-    for l in leads[:3]:
-        print(l)

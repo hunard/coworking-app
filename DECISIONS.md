@@ -1,0 +1,1 @@
+Google listing names are SEO-stuffed, so I compare on the short brand name.
