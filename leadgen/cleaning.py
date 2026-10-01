@@ -6,12 +6,18 @@ Merge two records if ANY rule is true:
   R3 very similar name (>=0.88) AND address overlap (>=0.5)
 Same website alone is NOT enough: a chain's branches share a website but are different places.
 """
-import hashlib, json, re
+import hashlib, json, re,unicodedata
 from difflib import SequenceMatcher
 from urllib.parse import urlparse
 
 NOISE = r"\b(co[- ]?working|cowork|space|spaces|pvt|private|ltd|limited|llp|india|mumbai|the|best|in)\b"
-
+def strip_invisible(s):
+    """Remove zero-width / control characters and normalise odd unicode (e.g. fancy fonts)."""
+    if not s:
+        return s
+    s = unicodedata.normalize("NFKC", str(s))
+    s = re.sub(r"[\u200b-\u200f\u2060\ufeff]", "", s)
+    return re.sub(r"\s+", " ", s).strip()
 
 def clean_phone(p):
     if not p:
@@ -26,9 +32,10 @@ def clean_phone(p):
 
 def display_name(n):
     """'SPARTAN COWORK - BEST CO-WORKING ...' -> 'Spartan Cowork'"""
+    n = strip_invisible(n)
     if not n:
         return None
-    n = re.split(r"\s[-|–—]\s", n.strip())[0].strip()
+    n = re.split(r"\s[-|–—]\s", n)[0].strip()
     return n.title() if n.isupper() else n
 
 
@@ -63,7 +70,7 @@ def clean_record(r):
     r["_key"] = name_key(r["company_name"])
     r["phone"] = clean_phone(r.get("phone"))
     r["website"] = clean_url(r.get("website"))
-    r["address"] = re.sub(r"\s+", " ", r.get("address") or "").strip() or None
+    r["address"] = strip_invisible(r.get("address")) or None
     r["review_count"] = int(r.get("review_count") or 0)
     return r
 
@@ -131,5 +138,5 @@ if __name__ == "__main__":
     for i in range(len(out)):
         for j in range(i + 1, len(out)):
             if name_sim(out[i]["_key"], out[j]["_key"]) >= 0.8:
-                print(f"  {out[i]['company_name']} | {out[i]['address'][:40]}\n  {out[j]['company_name']} | {out[j]['address'][:40]}\n")
+                print(f"  {out[i]['company_name']} | {(out[i]['address'] or '')[:40]}\n  {out[j]['company_name']} | {(out[j]['address'] or '')[:40]}\n")
     json.dump(out, open("data/clean_leads.json", "w", encoding="utf-8"), indent=1)

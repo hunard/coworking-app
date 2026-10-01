@@ -1,0 +1,383 @@
+﻿raw=353  unique=238  duplicates removed=115
+incomplete (no name or no phone/email): 71
+
+Categories: [('Coworking space', 220), ('Business center', 7), ('Corporate office', 6), ('Office space rental agency', 1), ('Contractor', 1), ('Business park', 1), ('Student dormitory', 1), ('Software company', 1)]
+
+Merged groups:
+  Spartan Cowork  <- 3 records
+  The Mosaic Coworking Space  <- 2 records
+  Mumbai Coworking  <- 3 records
+  THE BOARDROOM Co-working, Andheri West  <- 2 records
+  Divine Hub  <- 2 records
+  Rainbow Coworks  <- 2 records
+  WeWork  <- 2 records
+  Rainbow Coworks  <- 2 records
+  WeWork  <- 3 records
+  THE BOARDROOM co-working  <- 2 records
+  YesssWorks Andheri  <- 2 records
+  Sunrise Tower  <- 3 records
+  91Springboard Lotus, Andheri East  <- 2 records
+  Mumbai Coworking 2.0  <- 3 records
+  Smartworks Fleet House  <- 2 records
+  Teloz Spaces  <- 2 records
+  Connekt  <- 2 records
+  MyBranch  <- 2 records
+  Idea Square.  <- 3 records
+  Ascend Cowork  <- 2 records
+  Hustle Coworking  <- 2 records
+  DA Co-Working space Andheri  <- 2 records
+  Executive Spaces  <- 2 records
+  Skyline Icon  <- 2 records
+  The Executive Centre  <- 5 records
+  Hive8  <- 3 records
+  603 The CoWorking Space  <- 4 records
+  COWRKS Worli, Birla Centurion  <- 2 records
+  Blue Coworks, Lower Parel  <- 2 records
+  Pinaki Workspace  <- 2 records
+  Ikigai Connect  <- 2 records
+  Garage Coworking Space  <- 2 records
+  The Business Quarter by QUORUM.  <- 2 records
+  The Executive Centre  <- 2 records
+  UrbanWrk @ Peninsula Business Park, Lower Parel  <- 4 records
+  Dextrus  <- 2 records
+  Flignite Dadar (Coworking Space in Mumbai)  <- 2 records
+  The Executive Centre  <- 2 records
+  WeWork  <- 2 records
+  Awfis One International Centre 2  <- 2 records
+  Innov8 Peninsula Business Park  <- 2 records
+  CorporatEdge  <- 2 records
+  WeWork Bandbox House  <- 2 records
+  THE COLLECTIVE Altimus, Mumbai  <- 2 records
+  603 The Coworking space (Matulya)  <- 2 records
+  Millennial Pod  <- 2 records
+  Of10  <- 2 records
+  COWRKS Powai, Prudential  <- 4 records
+  COWRKS One Boulevard, Powai, 1F & 2F  <- 2 records
+  Veridical  <- 2 records
+  COWRKS Spectra  <- 2 records
+  WeWork  <- 2 records
+  Vibrant Business centre  <- 2 records
+  WeWork  <- 3 records
+  Lets Work Co-working space in Mumbai, Ghatkopar West  <- 3 records
+  91Springboard Vikhroli  <- 3 records
+  One Degree Coworking  <- 2 records
+  Meetings and Offices  <- 3 records
+  Officebing  <- 2 records
+  Workafella Goregaon  <- 3 records
+  Toutle Space Coworking  <- 2 records
+  WeWork  <- 2 records
+  Awfis Coworking  <- 2 records
+  Teloz Spaces  <- 2 records
+  WeWork NESCO IT Park  <- 2 records
+  YesssWorks Goregaon  <- 2 records
+  97 Tech Center  <- 2 records
+  Toutle Space  <- 2 records
+  WeeDoo.in  <- 2 records
+  WeWork Spectrum Tower  <- 3 records
+  Carnival HUB Work Spaces  <- 3 records
+  WorkCampus  <- 3 records
+  Teloz Spaces  <- 3 records
+  Coworking Space  <- 2 records
+  Executive Spaces  <- 2 records
+  AccessWork Mindspace Malad Serviced Offices  <- 2 records
+  Bloomdesk Coworking  <- 2 records
+  Kowork  <- 2 records
+  BloomDesk Coworking  <- 2 records
+  BloomDesk Coworking  <- 2 records
+  SkyWork Coworking  <- 2 records
+  BloomDesk Coworking  <- 2 records
+  My Easy offices pvt ltd  <- 2 records
+  Alfa Business Center Co working Space,shared Office  <- 2 records
+  Eazy2WorkVth  <- 2 records
+  Co Hub  <- 2 records
+  Awfis Coworking  <- 2 records
+  Innov8  <- 2 records
+  Resource Workspaces  <- 2 records
+  MyDesk- Co-working Spaces 2.0  <- 2 records
+
+Near misses (similar names, NOT merged) - are these branches or missed duplicates?
+  Lumos Cowork | 301 Shree Padmini Building, Sanpada, Soc
+  Lumos Cowork | B Wing, Lumos cowork, Vasudev Chamber, C
+
+  Rainbow Coworks | 220, Citi Mall, New Link Road, Andheri (
+  Rainbow Coworks | Lotus Link Square, 1109, New Link Rd, Ma
+
+  WeWork | No. A3&B2, B Cross Road, Marol MIDC Indu
+  WeWork | Raheja Platinum, Road, off Andheri - Kur
+
+  WeWork | No. A3&B2, B Cross Road, Marol MIDC Indu
+  WeWork | C - 20, G Block Rd, G Block BKC, Bandra 
+
+  WeWork | No. A3&B2, B Cross Road, Marol MIDC Indu
+  WeWork | 1st floor, 264-265, Dr Annie Besant Rd, 
+
+  WeWork | No. A3&B2, B Cross Road, Marol MIDC Indu
+  WeWork | 13th Floor, Hindustan C, Bus Stop, 247 P
+
+  WeWork | No. A3&B2, B Cross Road, Marol MIDC Indu
+  WeWork | Ground Floor, Chromium, Jogeshwari - Vik
+
+  WeWork | No. A3&B2, B Cross Road, Marol MIDC Indu
+  WeWork | Oberoi Garden City, 20TH FLOOR, COMMERZ 
+
+  WeWork | Raheja Platinum, Road, off Andheri - Kur
+  WeWork | C - 20, G Block Rd, G Block BKC, Bandra 
+
+  WeWork | Raheja Platinum, Road, off Andheri - Kur
+  WeWork | 1st floor, 264-265, Dr Annie Besant Rd, 
+
+  WeWork | Raheja Platinum, Road, off Andheri - Kur
+  WeWork | 13th Floor, Hindustan C, Bus Stop, 247 P
+
+  WeWork | Raheja Platinum, Road, off Andheri - Kur
+  WeWork | Ground Floor, Chromium, Jogeshwari - Vik
+
+  WeWork | Raheja Platinum, Road, off Andheri - Kur
+  WeWork | Oberoi Garden City, 20TH FLOOR, COMMERZ 
+
+  YesssWorks Andheri | 3rd floor, Ackruti Softech Park, Shree K
+  YesssWorks Andheri | S14, Second Floor Pinnacle Business Park
+
+  Innov8 | Boston House 7th Floor Gundavali, Suren 
+  Innov8 | The 8th Floor, Naman Chambers, C-31, G B
+
+  Innov8 | Boston House 7th Floor Gundavali, Suren 
+  Innov8 | 4th Floor, RCity Offices, Lal Bahadur Sh
+
+  Innov8 | Boston House 7th Floor Gundavali, Suren 
+  Innov8 | C-WING, KAILASH BUSINESS PARK, P2-4, Par
+
+  Teloz Spaces | 1st & 2nd floor, AJ House, Marol Maroshi
+  Teloz Spaces | Ste no. 801, Synergy Business Park, ITT 
+
+  Teloz Spaces | 1st & 2nd floor, AJ House, Marol Maroshi
+  Teloz Spaces | Commercial Tower, EXPRESS ZONE, Suite no
+
+  Teloz Spaces | 1st & 2nd floor, AJ House, Marol Maroshi
+  Teloz Spaces | Witty International School, Near, Gorega
+
+  Connekt | Connekt, 4th Floor Second Avenue, Road N
+  Connekt | Connekt 4th, Silver Utopia, Chakala, And
+
+  Connekt | Connekt, 4th Floor Second Avenue, Road N
+  Connekt | Connekt 1st & 2nd Floor, Naman Chambers,
+
+  Connekt | Connekt 4th, Silver Utopia, Chakala, And
+  Connekt | Connekt 1st & 2nd Floor, Naman Chambers,
+
+  Executive Spaces | W.E.H, Metro station, 7th Floor, Chandak
+  Executive Spaces | Shah Trade Centre, 701 & 702, Rani Sati 
+
+  WeWork | C - 20, G Block Rd, G Block BKC, Bandra 
+  WeWork | 1st floor, 264-265, Dr Annie Besant Rd, 
+
+  WeWork | C - 20, G Block Rd, G Block BKC, Bandra 
+  WeWork | 13th Floor, Hindustan C, Bus Stop, 247 P
+
+  WeWork | C - 20, G Block Rd, G Block BKC, Bandra 
+  WeWork | Ground Floor, Chromium, Jogeshwari - Vik
+
+  WeWork | C - 20, G Block Rd, G Block BKC, Bandra 
+  WeWork | Oberoi Garden City, 20TH FLOOR, COMMERZ 
+
+  Dextrus | Crescenzo Business District, A-802, G Bl
+  Dextrus | Peninsula Corporate Park, 6th & 9th Floo
+
+  The Executive Centre | Level 17, C Wing, Level 12, A Wing, Leve
+  The Executive Centre | Level 12, Altimus, Pandurang Budhkar Mar
+
+  The Executive Centre | Level 17, C Wing, Level 12, A Wing, Leve
+  The Executive Centre | Level 3, Ascent, Sudam Kalu Ahire Marg, 
+
+  CorporatEdge | Level 2, Platina Building, G Block BKC, 
+  CorporatEdge | Level 16, One International Center, Dada
+
+  Vatika Business Centre & Co-working Spaces | Unit no. G5, Ground Floor and Unit no. 0
+  Vibrant Business centre | Suncity Complex, Unit No.1,2&3 Sun Heigh
+
+  Vatika Business Centre & Co-working Spaces | Unit no. G5, Ground Floor and Unit no. 0
+  Apeejay Business Centre | Apeejay House, 3, Dinshaw Vacha Rd, near
+
+  Vatika Business Centre & Co-working Spaces | Unit no. G5, Ground Floor and Unit no. 0
+  Vantage Business Centre | Raj Arcade, G 128, Borsapada Road, opp. 
+
+  Cowrks | Ground floor, Equinox Commercial Centre,
+  Cowrks India Pvt Ltd | Birla Centurion, Century Mills, Lower Pa
+
+  Regus | 11th Floor, Platina Tower, plot C 59, Ba
+  Regus | 5th Floor, Supreme Business Park Wing-B,
+
+  Regus | 11th Floor, Platina Tower, plot C 59, Ba
+  Regus | Block A, Level 1, 1, Dr Annie Besant Rd,
+
+  Regus | 11th Floor, Platina Tower, plot C 59, Ba
+  Regus | Unit No.9, 9th Floor, Corporate Park II,
+
+  Redbrick Offices | Unit No.1204, 12th Floor, The Capital, G
+  Redbrick Offices | Grande Palladium, 175, CST Road, Koliver
+
+  Redbrick Offices | Unit No.1204, 12th Floor, The Capital, G
+  Redbrick Offices OWC | Saidham Nagar, Parel, Mumbai, Maharashtr
+
+  Redbrick Offices | Unit No.1204, 12th Floor, The Capital, G
+  Redbrick Offices | Tex Center, E Wing, Chandivali Farm Rd, 
+
+  Innov8 | The 8th Floor, Naman Chambers, C-31, G B
+  Innov8 | 4th Floor, RCity Offices, Lal Bahadur Sh
+
+  Innov8 | The 8th Floor, Naman Chambers, C-31, G B
+  Innov8 | C-WING, KAILASH BUSINESS PARK, P2-4, Par
+
+  Workbay Coworking | 3R5Q+P5Q, behind DDecor Showroom, Patkar
+  Workbay Coworking | Sundervilla, A wing 314A/B, Hasmukh Naga
+
+  Redbrick Offices | Grande Palladium, 175, CST Road, Koliver
+  Redbrick Offices OWC | Saidham Nagar, Parel, Mumbai, Maharashtr
+
+  Redbrick Offices | Grande Palladium, 175, CST Road, Koliver
+  Redbrick Offices | Tex Center, E Wing, Chandivali Farm Rd, 
+
+  603 | 603, Makhija Arcade, 35th Rd, Khar, Khar
+  603 The CoWorking Space | C Wing, Next Gen, BLOCK-B2, 101, Ganapat
+
+  603 | 603, Makhija Arcade, 35th Rd, Khar, Khar
+  603 The Co-working Space | 29A, Sunshine Tower, Senapati Bapat Marg
+
+  603 | 603, Makhija Arcade, 35th Rd, Khar, Khar
+  603 The CoWorking Space | Sun Mill Compound, 5A, TODI ESTATE, Lowe
+
+  603 | 603, Makhija Arcade, 35th Rd, Khar, Khar
+  603 The Coworking Space | Ground Floor, Hanuman Building, 300, Per
+
+  603 The CoWorking Space | C Wing, Next Gen, BLOCK-B2, 101, Ganapat
+  603 The Co-working Space | 29A, Sunshine Tower, Senapati Bapat Marg
+
+  603 The CoWorking Space | C Wing, Next Gen, BLOCK-B2, 101, Ganapat
+  603 The CoWorking Space | Sun Mill Compound, 5A, TODI ESTATE, Lowe
+
+  603 The CoWorking Space | C Wing, Next Gen, BLOCK-B2, 101, Ganapat
+  603 The Coworking Space | Ground Floor, Hanuman Building, 300, Per
+
+  The Executive Centre | Level 12, Altimus, Pandurang Budhkar Mar
+  The Executive Centre | Level 3, Ascent, Sudam Kalu Ahire Marg, 
+
+  WeWork | 1st floor, 264-265, Dr Annie Besant Rd, 
+  WeWork | 13th Floor, Hindustan C, Bus Stop, 247 P
+
+  WeWork | 1st floor, 264-265, Dr Annie Besant Rd, 
+  WeWork | Ground Floor, Chromium, Jogeshwari - Vik
+
+  WeWork | 1st floor, 264-265, Dr Annie Besant Rd, 
+  WeWork | Oberoi Garden City, 20TH FLOOR, COMMERZ 
+
+  Redbrick Offices OWC | Saidham Nagar, Parel, Mumbai, Maharashtr
+  Redbrick Offices | Tex Center, E Wing, Chandivali Farm Rd, 
+
+  Redbrick Offices OWC | Saidham Nagar, Parel, Mumbai, Maharashtr
+  Redbrick Offices Godrej 2 | Eastern Express Hwy, Pirojshanagar, Vikh
+
+  The Empire Business Centre | Empire Complex, Empire Business Centre, 
+  Vibrant Business centre | Suncity Complex, Unit No.1,2&3 Sun Heigh
+
+  The Empire Business Centre | Empire Complex, Empire Business Centre, 
+  Apeejay Business Centre | Apeejay House, 3, Dinshaw Vacha Rd, near
+
+  603 The Co-working Space | 29A, Sunshine Tower, Senapati Bapat Marg
+  603 The CoWorking Space | Sun Mill Compound, 5A, TODI ESTATE, Lowe
+
+  603 The Co-working Space | 29A, Sunshine Tower, Senapati Bapat Marg
+  603 The Coworking Space | Ground Floor, Hanuman Building, 300, Per
+
+  603 The CoWorking Space | Sun Mill Compound, 5A, TODI ESTATE, Lowe
+  603 The Coworking Space | Ground Floor, Hanuman Building, 300, Per
+
+  WeWork | 13th Floor, Hindustan C, Bus Stop, 247 P
+  WeWork | Ground Floor, Chromium, Jogeshwari - Vik
+
+  WeWork | 13th Floor, Hindustan C, Bus Stop, 247 P
+  WeWork | Oberoi Garden City, 20TH FLOOR, COMMERZ 
+
+  Vibrant Business centre | Suncity Complex, Unit No.1,2&3 Sun Heigh
+  Vantage Business Centre | Raj Arcade, G 128, Borsapada Road, opp. 
+
+  WeWork | Ground Floor, Chromium, Jogeshwari - Vik
+  WeWork | Oberoi Garden City, 20TH FLOOR, COMMERZ 
+
+  Regus | 5th Floor, Supreme Business Park Wing-B,
+  Regus | Block A, Level 1, 1, Dr Annie Besant Rd,
+
+  Regus | 5th Floor, Supreme Business Park Wing-B,
+  Regus | Unit No.9, 9th Floor, Corporate Park II,
+
+  Toutle Space Coworking | Corporate Arena, 502, Sitaram Patkar Rd,
+  Toutle Space | 4th Floor, Co-Op. Premises Ltd, Aditya I
+
+  Awfis Coworking | 5th Floor, Raheja Titanium, 501 and 502,
+  Awfis Coworking | Building, 8th, 9th and 10th Floor, RCity
+
+  Teloz Spaces | Ste no. 801, Synergy Business Park, ITT 
+  Teloz Spaces | Commercial Tower, EXPRESS ZONE, Suite no
+
+  Teloz Spaces | Ste no. 801, Synergy Business Park, ITT 
+  Teloz Spaces | Witty International School, Near, Gorega
+
+  Teloz Spaces | Commercial Tower, EXPRESS ZONE, Suite no
+  Teloz Spaces | Witty International School, Near, Gorega
+
+  Bloomdesk Coworking | Office no 101 - 108, 1st Floor, Ghanshya
+  BloomDesk Coworking | 2nd Floor, Neelkanth Commercial Wing, 20
+
+  Bloomdesk Coworking | Office no 101 - 108, 1st Floor, Ghanshya
+  BloomDesk Coworking | 2nd Floor, B Wing, Western Edge II, behi
+
+  Bloomdesk Coworking | Office no 101 - 108, 1st Floor, Ghanshya
+  BloomDesk Coworking | 10th Floor, Orion Business Park, 1001 an
+
+  Bloomdesk Coworking | Office no 101 - 108, 1st Floor, Ghanshya
+  BloomDesk Coworking | Western Edge II, B-10A, behind Metro Sup
+
+  BloomDesk Coworking | 2nd Floor, Neelkanth Commercial Wing, 20
+  BloomDesk Coworking | 2nd Floor, B Wing, Western Edge II, behi
+
+  BloomDesk Coworking | 2nd Floor, Neelkanth Commercial Wing, 20
+  BloomDesk Coworking | 10th Floor, Orion Business Park, 1001 an
+
+  BloomDesk Coworking | 2nd Floor, Neelkanth Commercial Wing, 20
+  BloomDesk Coworking | Western Edge II, B-10A, behind Metro Sup
+
+  BloomDesk Coworking | 2nd Floor, B Wing, Western Edge II, behi
+  BloomDesk Coworking | 10th Floor, Orion Business Park, 1001 an
+
+  BloomDesk Coworking | 2nd Floor, B Wing, Western Edge II, behi
+  BloomDesk Coworking | Western Edge II, B-10A, behind Metro Sup
+
+  BloomDesk Coworking | 10th Floor, Orion Business Park, 1001 an
+  BloomDesk Coworking | Western Edge II, B-10A, behind Metro Sup
+
+  Regus | Block A, Level 1, 1, Dr Annie Besant Rd,
+  Regus | Unit No.9, 9th Floor, Corporate Park II,
+
+  Innov8 | 4th Floor, RCity Offices, Lal Bahadur Sh
+  Innov8 | C-WING, KAILASH BUSINESS PARK, P2-4, Par
+
+  DBS Workspace | 213, Raheja Chambers, Free Press Journal
+  DBS Workspace | DBS Heritage House, Prescot Rd, Azad Mai
+
+  MyDesk- Co-working Spaces 2.0 | 1108-Eleventh floor, Resorts & Starbucks
+  MyDesk 5.0 | Techno It Park, 912, near Eskay Resorts,
+
+  MyDesk- Co-working Spaces 2.0 | 1108-Eleventh floor, Resorts & Starbucks
+  MyDesk Co-working Spaces 1.0 | 6VJ2+7WV, Hotel, Near Ghantawala Pan Bha
+
+  MyDesk 5.0 | Techno It Park, 912, near Eskay Resorts,
+  MyDesk Co-working Spaces 1.0 | 6VJ2+7WV, Hotel, Near Ghantawala Pan Bha
+
+  Spacyes | 1st Floor, Lancelot building, B/2, Swami
+  Spacyes | Modi House, 2/11, Pragati Society, behin
+
+  Spacyes | 1st Floor, Lancelot building, B/2, Swami
+  Spacyes | Gate No. 6, 1st Floor 3, Singh Estate, o
+
+  Spacyes | Modi House, 2/11, Pragati Society, behin
+  Spacyes | Gate No. 6, 1st Floor 3, Singh Estate, o
+
