@@ -151,3 +151,6 @@ python -m pytest -q
 ```
 
 Sample dataset: `data/leads_final.csv` (also `data/leads.db`).
+Plain python -m leadgen.discovery (no flags) searches only Andheri with 1 page, to protect your quota.
+A non-default city or category writes to its own file (for example data/raw_pune_coworking_space.json) and never overwrites the Mumbai data.
+A new city with no area list gets one city-wide query. Adding multi-area coverage means adding one entry to CITY_AREAS.

@@ -63,16 +63,37 @@ def test_blocked_site_is_skipped_not_bypassed():
 
 # ---------- scoring ----------
 
+AI_PROFILE = {
+    "is_operator": True,
+    "operator_type": "independent",
+    "space_types": ["hot_desk", "day_pass", "meeting_room", "private_office", "virtual_office"],
+    "target_customers": ["freelancers", "startups", "enterprises"],
+}
+
 FULL = {"company_name": "A", "phone": "+919999999999", "phone_type": "mobile",
         "email": "a@a.com", "website": "https://a.com",
         "social_links": {"linkedin": "x", "facebook": "y"},
         "rating": 4.8, "review_count": 150,
-        "services": ["hot_desk", "day_pass", "parking", "open_24x7", "meeting_room", "private_cabin"]}
+        "services": ["hot_desk", "day_pass", "parking", "open_24x7", "meeting_room", "private_cabin"],
+        "ai_profile": AI_PROFILE}
 
 
 def test_perfect_lead_scores_100_and_hot():
-    score, label, reason, _ = scoring.score_lead(FULL)
+    score, label, reason, _, _ = scoring.score_lead(FULL)
     assert score == 100 and label == "Hot"
+
+
+def test_without_ai_profile_keyword_fallback_caps_fit_at_18():
+    lead = dict(FULL, ai_profile=None)
+    score, label, reason, breakdown, fit_source = scoring.score_lead(lead)
+    assert breakdown["marketplace_fit"] == 18
+    assert score == 88 and fit_source == "keyword_fallback"
+
+
+def test_ai_profile_scores_higher_than_keyword_fallback():
+    with_ai, *_ = scoring.score_lead(FULL)
+    without_ai, *_ = scoring.score_lead(dict(FULL, ai_profile=None))
+    assert with_ai > without_ai
 
 
 def test_score_always_within_bounds():
@@ -83,7 +104,7 @@ def test_score_always_within_bounds():
 
 def test_incomplete_lead_is_capped_at_39():
     lead = dict(FULL, phone=None, email=None)
-    score, label, reason, _ = scoring.score_lead(lead)
+    score, label, reason, _, _ = scoring.score_lead(lead)
     assert label == "Incomplete" and score <= 39
     assert "capped" in reason
 
