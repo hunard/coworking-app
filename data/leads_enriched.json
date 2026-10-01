@@ -1079,8 +1079,7 @@
     ],
     "lead_id": "Lcbeece4f6d",
     "emails_all": [
-      "info@innov8.work",
-      "hello@innov8.work"
+      "info@innov8.work"
     ],
     "emails_other": [],
     "social_links": {
@@ -1242,9 +1241,7 @@
     "emails_all": [
       "admin@telozspaces.com"
     ],
-    "emails_other": [
-      "you@company.com"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "dedicated_desk",
@@ -1458,8 +1455,7 @@
     ],
     "lead_id": "L32f0872024",
     "emails_all": [
-      "enquiry@ideasq.in",
-      "enquiry@ideasq.inaddress"
+      "enquiry@ideasq.in"
     ],
     "emails_other": [],
     "social_links": {
@@ -2088,7 +2084,6 @@
     "lead_id": "L7a4afec4c4",
     "emails_all": [
       "info@awfis.com",
-      "contact@awfis.com",
       "press@awfis.com"
     ],
     "emails_other": [],
@@ -2187,7 +2182,6 @@
     "lead_id": "L37bc12ae5b",
     "emails_all": [
       "info@awfis.com",
-      "contact@awfis.com",
       "press@awfis.com"
     ],
     "emails_other": [],
@@ -2405,11 +2399,7 @@
     ],
     "lead_id": "Lb7e2cd133c",
     "emails_all": [
-      "mumbai@executivecentre.com",
-      "perth@executivecentre.com",
-      "aus-accounts@executivecentre.com",
-      "events-perth@executivecentre.com",
-      "vo-perth@executivecentre.com"
+      "mumbai@executivecentre.com"
     ],
     "emails_other": [],
     "social_links": {
@@ -2466,8 +2456,7 @@
     ],
     "lead_id": "L380b1a98e1",
     "emails_all": [
-      "info@innov8.work",
-      "hello@innov8.work"
+      "info@innov8.work"
     ],
     "emails_other": [],
     "social_links": {
@@ -2525,11 +2514,7 @@
     ],
     "lead_id": "L396e21326b",
     "emails_all": [
-      "mumbai@executivecentre.com",
-      "perth@executivecentre.com",
-      "aus-accounts@executivecentre.com",
-      "events-perth@executivecentre.com",
-      "vo-perth@executivecentre.com"
+      "mumbai@executivecentre.com"
     ],
     "emails_other": [],
     "social_links": {
@@ -2639,9 +2624,7 @@
     "emails_all": [
       "enquiries@thecorporatedge.com"
     ],
-    "emails_other": [
-      "you@company.com"
-    ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/company/corporatedge",
       "youtube": "https://www.youtube.com/@corporatedge",
@@ -2712,7 +2695,7 @@
     "category": "Coworking space",
     "address": "14TH FLOOR, Ins Tower, opposite to trident hotel, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
     "phone": "+9118602586633",
-    "email": "contact@awfis.com",
+    "email": "info@awfis.com",
     "website": "https://awfis.com/office-space/mumbai/bkc/coworking-ins-tower-bkc/office",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLUElKnvJ5zsRlOzEcNpHyx0",
     "place_id": "ChIJLUElKnvJ5zsRlOzEcNpHyx0",
@@ -2733,7 +2716,6 @@
     ],
     "lead_id": "Lf461815811",
     "emails_all": [
-      "contact@awfis.com",
       "info@awfis.com",
       "press@awfis.com"
     ],
@@ -2769,7 +2751,7 @@
     "category": "Coworking space",
     "address": "Plot No. C- 38/39, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
     "phone": "+912268512300",
-    "email": "perth@executivecentre.com",
+    "email": null,
     "website": "https://executivecentre.com/office-space/parinee-crescenzo",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnT-RcBzJ5zsR8NtxBxunWes",
     "place_id": "ChIJnT-RcBzJ5zsR8NtxBxunWes",
@@ -2789,13 +2771,7 @@
       ]
     ],
     "lead_id": "L26f2fd5615",
-    "emails_all": [
-      "perth@executivecentre.com",
-      "aus-accounts@executivecentre.com",
-      "events-perth@executivecentre.com",
-      "vo-perth@executivecentre.com",
-      "melbourne@executivecentre.com"
-    ],
+    "emails_all": [],
     "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/theexecutivecentre",
@@ -2819,7 +2795,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped",
       "services": "website_scraped"
     }
@@ -3128,8 +3103,7 @@
     ],
     "lead_id": "L73c62e2037",
     "emails_all": [
-      "info@qdesq.com",
-      "devender@qdesq.com"
+      "info@qdesq.com"
     ],
     "emails_other": [],
     "social_links": {
@@ -3163,7 +3137,7 @@
     "category": "Coworking space",
     "address": "Unit No.1204, 12th Floor, The Capital, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
     "phone": "+9118001209088",
-    "email": "hello@redbrickoffices.com",
+    "email": null,
     "website": "https://redbrickoffices.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBQxe7I5zsRJz0HpW8aUJg",
     "place_id": "ChIJAQBQxe7I5zsRJz0HpW8aUJg",
@@ -3183,9 +3157,7 @@
       ]
     ],
     "lead_id": "La6539f0ed6",
-    "emails_all": [
-      "hello@redbrickoffices.com"
-    ],
+    "emails_all": [],
     "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/ayush-goenka-148566375",
@@ -3204,7 +3176,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped"
     }
   },
@@ -3233,11 +3204,7 @@
     ],
     "lead_id": "L145d4d9294",
     "emails_all": [
-      "mumbai@executivecentre.com",
-      "perth@executivecentre.com",
-      "aus-accounts@executivecentre.com",
-      "events-perth@executivecentre.com",
-      "vo-perth@executivecentre.com"
+      "mumbai@executivecentre.com"
     ],
     "emails_other": [],
     "social_links": {
@@ -3274,7 +3241,7 @@
     "category": "Coworking space",
     "address": "ONE BKC, C-608, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400056, India",
     "phone": "+912262790000",
-    "email": "info@kontorspace.in",
+    "email": "sales@kontorspace.in",
     "website": "https://kontorspace.in",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh_GwFJjJ5zsRVIWMA9qeZYY",
     "place_id": "ChIJh_GwFJjJ5zsRVIWMA9qeZYY",
@@ -3295,12 +3262,11 @@
     ],
     "lead_id": "Lb6e8b51f07",
     "emails_all": [
-      "info@kontorspace.in",
       "sales@kontorspace.in",
+      "info@kontorspace.in",
       "investor@kontorspace.in",
       "cm.thane@kontorspace.in",
-      "cm.bkc@kontorspace.in",
-      "hello@gmail.com"
+      "cm.bkc@kontorspace.in"
     ],
     "emails_other": [],
     "social_links": {
@@ -3394,8 +3360,7 @@
     ],
     "lead_id": "L065a6f1aca",
     "emails_all": [
-      "info@innov8.work",
-      "hello@innov8.work"
+      "info@innov8.work"
     ],
     "emails_other": [],
     "social_links": {
@@ -3502,11 +3467,7 @@
     ],
     "lead_id": "Lb6d5eda70e",
     "emails_all": [
-      "mumbai@executivecentre.com",
-      "perth@executivecentre.com",
-      "aus-accounts@executivecentre.com",
-      "events-perth@executivecentre.com",
-      "vo-perth@executivecentre.com"
+      "mumbai@executivecentre.com"
     ],
     "emails_other": [],
     "social_links": {
@@ -3627,7 +3588,7 @@
     "category": "Coworking space",
     "address": "Grande Palladium, 175, CST Road, Kolivery Village, MMRDA Area, Kalina, Santacruz East, Mumbai, Maharashtra 400098, India",
     "phone": "+9118001209088",
-    "email": "hello@redbrickoffices.com",
+    "email": null,
     "website": "https://redbrickoffices.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_RLEvLI5zsRkQ6gjeYpuss",
     "place_id": "ChIJT_RLEvLI5zsRkQ6gjeYpuss",
@@ -3647,9 +3608,7 @@
       ]
     ],
     "lead_id": "Lf7443b3e8f",
-    "emails_all": [
-      "hello@redbrickoffices.com"
-    ],
+    "emails_all": [],
     "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/ayush-goenka-148566375",
@@ -3668,7 +3627,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped"
     }
   },
@@ -4191,7 +4149,7 @@
     "category": "Coworking space",
     "address": "3rd Floor, Apte House, LR Papan Marg, Worli Naka, Laxminarsingh, Worli, Mumbai, Maharashtra 400018, India",
     "phone": "+919819029131",
-    "email": "impallari@gmail.com",
+    "email": null,
     "website": "https://ikigaiconnect.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfBASq3P5zsRe9ll4d57EQM",
     "place_id": "ChIJpfBASq3P5zsRe9ll4d57EQM",
@@ -4216,12 +4174,8 @@
       ]
     ],
     "lead_id": "L22aa68ebc4",
-    "emails_all": [
-      "impallari@gmail.com"
-    ],
+    "emails_all": [],
     "emails_other": [
-      "matt@pixelspread.com",
-      "hello@rfuenzalida.com",
       "anant@cinecita.com"
     ],
     "social_links": {
@@ -4239,7 +4193,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped_free_provider",
       "social_links": "website_scraped"
     }
   },
@@ -4361,11 +4314,7 @@
     ],
     "lead_id": "L7c12a257ea",
     "emails_all": [
-      "mumbai@executivecentre.com",
-      "perth@executivecentre.com",
-      "aus-accounts@executivecentre.com",
-      "events-perth@executivecentre.com",
-      "vo-perth@executivecentre.com"
+      "mumbai@executivecentre.com"
     ],
     "emails_other": [],
     "social_links": {
@@ -4401,7 +4350,7 @@
     "category": "Coworking space",
     "address": "Peninsula Business Park Tower B 19th Floor Senapati Bapat Marg, Ganapatrao Kadam Marg, Ganpatrao, Lower Parel, Mumbai, Maharashtra 400013, India",
     "phone": "+918399959996",
-    "email": "hello@urbanwrk.com",
+    "email": null,
     "website": "https://urbanwrk.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJVjYtoDP5zsRqo3D2fxU_HY",
     "place_id": "ChIJJVjYtoDP5zsRqo3D2fxU_HY",
@@ -4436,9 +4385,7 @@
       ]
     ],
     "lead_id": "L8dfcb477b9",
-    "emails_all": [
-      "hello@urbanwrk.com"
-    ],
+    "emails_all": [],
     "emails_other": [],
     "social_links": {},
     "services": [],
@@ -4450,8 +4397,7 @@
       "website": "google_maps_via_serpapi",
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
-      "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped"
+      "maps_url": "google_maps_via_serpapi"
     }
   },
   {
@@ -4581,11 +4527,7 @@
     ],
     "lead_id": "L59846294bf",
     "emails_all": [
-      "mumbai@executivecentre.com",
-      "perth@executivecentre.com",
-      "aus-accounts@executivecentre.com",
-      "events-perth@executivecentre.com",
-      "vo-perth@executivecentre.com"
+      "mumbai@executivecentre.com"
     ],
     "emails_other": [],
     "social_links": {
@@ -4681,7 +4623,7 @@
     "category": "Coworking space",
     "address": "25TH FLOOR, Tower 2, Senapati Bapat Marg, Dadar West, Prabhadevi, Dadar West, Parel, Mumbai, Maharashtra 400013, India",
     "phone": "+9118602586633",
-    "email": "contact@awfis.com",
+    "email": "info@awfis.com",
     "website": "https://awfis.com/office-space/mumbai/lower-parel/premium-coworking-oic-2,-lower-parel/day-pass",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJeToF5HjP5zsR4-_a-1xRhLw",
     "place_id": "ChIJeToF5HjP5zsR4-_a-1xRhLw",
@@ -4707,7 +4649,6 @@
     ],
     "lead_id": "L619e1592f0",
     "emails_all": [
-      "contact@awfis.com",
       "info@awfis.com",
       "press@awfis.com"
     ],
@@ -4769,8 +4710,7 @@
     ],
     "lead_id": "Lf965e0634b",
     "emails_all": [
-      "info@innov8.work",
-      "hello@innov8.work"
+      "info@innov8.work"
     ],
     "emails_other": [],
     "social_links": {
@@ -4872,9 +4812,7 @@
     "emails_all": [
       "enquiries@thecorporatedge.com"
     ],
-    "emails_other": [
-      "you@company.com"
-    ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/company/corporatedge",
       "youtube": "https://www.youtube.com/@corporatedge",
@@ -4906,7 +4844,7 @@
     "category": "Coworking space",
     "address": "Saidham Nagar, Parel, Mumbai, Maharashtra 400013, India",
     "phone": null,
-    "email": "hello@redbrickoffices.com",
+    "email": null,
     "website": "https://redbrickoffices.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6HoKQDP5zsRNWmBy-wCD8k",
     "place_id": "ChIJZ6HoKQDP5zsRNWmBy-wCD8k",
@@ -4926,9 +4864,7 @@
       ]
     ],
     "lead_id": "L5910887454",
-    "emails_all": [
-      "hello@redbrickoffices.com"
-    ],
+    "emails_all": [],
     "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/ayush-goenka-148566375",
@@ -4946,7 +4882,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped"
     }
   },
@@ -4954,7 +4889,7 @@
     "category": "Coworking space",
     "address": "Birla Centurion, Century Mills, Lower Parel, Mumbai, Maharashtra 400030, India",
     "phone": null,
-    "email": "solutions@cowrks.com",
+    "email": null,
     "website": "https://cowrks.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRvokiLP5zsRHi5HP3-rp_4",
     "place_id": "ChIJGRvokiLP5zsRHi5HP3-rp_4",
@@ -4974,9 +4909,7 @@
       ]
     ],
     "lead_id": "La7e6582729",
-    "emails_all": [
-      "solutions@cowrks.com"
-    ],
+    "emails_all": [],
     "emails_other": [],
     "social_links": {},
     "services": [
@@ -4990,7 +4923,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "services": "website_scraped"
     }
   },
@@ -5318,7 +5250,7 @@
     "category": "Coworking space",
     "address": "1, Ganapatrao Kadam Marg, Lower Parel, Mumbai, Maharashtra 400013, India",
     "phone": null,
-    "email": "hello@redbrickoffices.com",
+    "email": null,
     "website": "https://redbrickoffices.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJecCtPADP5zsRhvdFBrKhfU0",
     "place_id": "ChIJecCtPADP5zsRhvdFBrKhfU0",
@@ -5338,9 +5270,7 @@
       ]
     ],
     "lead_id": "L373c565f80",
-    "emails_all": [
-      "hello@redbrickoffices.com"
-    ],
+    "emails_all": [],
     "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/ayush-goenka-148566375",
@@ -5356,7 +5286,6 @@
       "address": "google_maps_via_serpapi",
       "website": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped"
     }
   },
@@ -5955,7 +5884,7 @@
     "category": "Coworking space",
     "address": "Hiranandani Business Park - Lightbridge, Saki Vihar Rd, Tunga Village, Chandivali, Powai, Mumbai, Maharashtra 400072, India",
     "phone": null,
-    "email": "%20ashish@enzymefo.com",
+    "email": "ashish@enzymefo.com",
     "website": "https://enzymefo.com/office-space-in-mumbai",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYR0ikHJ5zsRQJaZar3amto",
     "place_id": "ChIJYYR0ikHJ5zsRQJaZar3amto",
@@ -5976,7 +5905,6 @@
     ],
     "lead_id": "Le5579d17ec",
     "emails_all": [
-      "%20ashish@enzymefo.com",
       "ashish@enzymefo.com"
     ],
     "emails_other": [],
@@ -6159,7 +6087,7 @@
     "category": "Coworking space",
     "address": "Tex Center, E Wing, Chandivali Farm Rd, Chandivali, Saki Village, Chandivali, Powai, Mumbai, Maharashtra 400072, India",
     "phone": "+9118001209088",
-    "email": "hello@redbrickoffices.com",
+    "email": null,
     "website": "https://redbrickoffices.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42WzhQzI5zsR2lkmRVYJr1o",
     "place_id": "ChIJ42WzhQzI5zsR2lkmRVYJr1o",
@@ -6179,9 +6107,7 @@
       ]
     ],
     "lead_id": "L77e2d6268b",
-    "emails_all": [
-      "hello@redbrickoffices.com"
-    ],
+    "emails_all": [],
     "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/ayush-goenka-148566375",
@@ -6200,7 +6126,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped"
     }
   },
@@ -6869,7 +6794,6 @@
     "lead_id": "Ld718b804ff",
     "emails_all": [
       "info@awfis.com",
-      "contact@awfis.com",
       "press@awfis.com"
     ],
     "emails_other": [],
@@ -7124,9 +7048,7 @@
     "emails_all": [
       "sales@toutlespace.com"
     ],
-    "emails_other": [
-      "xt@rf.aevk"
-    ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/toutlespace",
       "linkedin": "https://in.linkedin.com/company/toutle-space",
@@ -7245,7 +7167,6 @@
     "lead_id": "L14b07a84ae",
     "emails_all": [
       "info@awfis.com",
-      "contact@awfis.com",
       "press@awfis.com"
     ],
     "emails_other": [],
@@ -7308,9 +7229,7 @@
     "emails_all": [
       "admin@telozspaces.com"
     ],
-    "emails_other": [
-      "you@company.com"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "dedicated_desk",
@@ -7426,9 +7345,7 @@
     "emails_all": [
       "contact@yesssworks.com"
     ],
-    "emails_other": [
-      "you@company.com"
-    ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/yesssworks",
       "x": "https://twitter.com/yesssworks",
@@ -7464,7 +7381,7 @@
     "category": "Coworking space",
     "address": "E301, Sky Park CHS, Ajit Glass Rd, Amrut Nagar, Goregaon West, Mumbai, Maharashtra 400104, India",
     "phone": "+918779509491",
-    "email": "sandeep@97tech.com",
+    "email": null,
     "website": "https://97tech.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL1VQace35zsRwlA6VdPhri8",
     "place_id": "ChIJL1VQace35zsRwlA6VdPhri8",
@@ -7489,9 +7406,7 @@
       ]
     ],
     "lead_id": "Lbd8682870e",
-    "emails_all": [
-      "sandeep@97tech.com"
-    ],
+    "emails_all": [],
     "emails_other": [],
     "social_links": {},
     "services": [
@@ -7510,7 +7425,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "services": "website_scraped"
     }
   },
@@ -7546,9 +7460,7 @@
     "emails_all": [
       "sales@toutlespace.com"
     ],
-    "emails_other": [
-      "xt@rf.aevk"
-    ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/toutlespace",
       "linkedin": "https://in.linkedin.com/company/toutle-space",
@@ -7912,8 +7824,7 @@
     ],
     "lead_id": "Lcd49291a3d",
     "emails_all": [
-      "workcampuscowork@gmail.com",
-      "%20workcampuscowork@gmail.com"
+      "workcampuscowork@gmail.com"
     ],
     "emails_other": [],
     "social_links": {
@@ -7971,9 +7882,7 @@
     "emails_all": [
       "admin@telozspaces.com"
     ],
-    "emails_other": [
-      "you@company.com"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "dedicated_desk",
@@ -8046,7 +7955,7 @@
     "category": "Coworking space",
     "address": "10th Floor, Aston Building, Sundervan Complex, Lokhandwala Complex, Andheri West, Mumbai, Maharashtra 400053, India",
     "phone": "+9118602586633",
-    "email": "contact@awfis.com",
+    "email": "info@awfis.com",
     "website": "https://awfis.com/office-space/mumbai/lokhandwala/pro-working---lokhandwala-1/office",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQYQaj-25zsRhWhX3TdZ4Zs",
     "place_id": "ChIJSQYQaj-25zsRhWhX3TdZ4Zs",
@@ -8067,7 +7976,6 @@
     ],
     "lead_id": "Laaee159a53",
     "emails_all": [
-      "contact@awfis.com",
       "info@awfis.com",
       "press@awfis.com"
     ],
@@ -8472,9 +8380,7 @@
     "emails_all": [
       "admin@telozspaces.com"
     ],
-    "emails_other": [
-      "you@company.com"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "dedicated_desk",
@@ -8575,8 +8481,8 @@
     "lead_id": "L0cdb212847",
     "emails_all": [
       "info@kowork.co.in",
-      "accounts@kowork.co.in",
-      "account@kowork.co.in"
+      "account@kowork.co.in",
+      "accounts@kowork.co.in"
     ],
     "emails_other": [],
     "social_links": {
@@ -8672,9 +8578,7 @@
     "emails_all": [
       "admin@telozspaces.com"
     ],
-    "emails_other": [
-      "you@company.com"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "dedicated_desk",
@@ -9316,8 +9220,7 @@
     ],
     "lead_id": "Laa73d4fed1",
     "emails_all": [
-      "support@6club.uk",
-      "u003esupport@6club.uk"
+      "support@6club.uk"
     ],
     "emails_other": [],
     "social_links": {},
@@ -9596,7 +9499,7 @@
     "category": "Coworking space",
     "address": "Building, 8th, 9th and 10th Floor, RCity Offices, Lal Bahadur Shastri Marg, adjoining RCity Mall, Ghatkopar West, Mumbai, Maharashtra 400086, India",
     "phone": "+9118602586633",
-    "email": "contact@awfis.com",
+    "email": "info@awfis.com",
     "website": "https://awfis.com/office-space/mumbai/Ghatkopar%20(West/coworking-rcity4/fixed",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsS759gvH5zsRF52akyg71mw",
     "place_id": "ChIJsS759gvH5zsRF52akyg71mw",
@@ -9622,7 +9525,6 @@
     ],
     "lead_id": "L27cafb7e00",
     "emails_all": [
-      "contact@awfis.com",
       "info@awfis.com",
       "press@awfis.com"
     ],
@@ -9771,8 +9673,7 @@
     ],
     "lead_id": "La3964e35f5",
     "emails_all": [
-      "info@innov8.work",
-      "hello@innov8.work"
+      "info@innov8.work"
     ],
     "emails_other": [],
     "social_links": {
@@ -9808,7 +9709,7 @@
     "category": "Coworking space",
     "address": "Eastern Express Hwy, Pirojshanagar, Vikhroli East, Mumbai, Maharashtra 400079, India",
     "phone": null,
-    "email": "hello@redbrickoffices.com",
+    "email": null,
     "website": "https://redbrickoffices.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8TY1JADH5zsRSWhtcLeHN-w",
     "place_id": "ChIJ8TY1JADH5zsRSWhtcLeHN-w",
@@ -9828,9 +9729,7 @@
       ]
     ],
     "lead_id": "L750442f95d",
-    "emails_all": [
-      "hello@redbrickoffices.com"
-    ],
+    "emails_all": [],
     "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/ayush-goenka-148566375",
@@ -9846,7 +9745,6 @@
       "address": "google_maps_via_serpapi",
       "website": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped"
     }
   },
@@ -9854,7 +9752,7 @@
     "category": "Coworking space",
     "address": "C-WING, KAILASH BUSINESS PARK, P2-4, Park Site Rd, HMPL Surya Nagar, Vikhroli West, Mumbai, Maharashtra 400079, India",
     "phone": "+919999466688",
-    "email": "info@innov8.work",
+    "email": null,
     "website": "https://innov8.work/coworking-space/mumbai/kailash-business-park-vikhroli-5d68f256198600163c048b69",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9YHXwsHH5zsRlqTmMejYtHU",
     "place_id": "ChIJ9YHXwsHH5zsRlqTmMejYtHU",
@@ -9874,9 +9772,7 @@
       ]
     ],
     "lead_id": "L498d37a03b",
-    "emails_all": [
-      "info@innov8.work"
-    ],
+    "emails_all": [],
     "emails_other": [],
     "social_links": {},
     "services": [
@@ -9891,7 +9787,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "services": "website_scraped"
     }
   },
@@ -10586,8 +10481,7 @@
     ],
     "lead_id": "L66b707fe0c",
     "emails_all": [
-      "bottomup.real@gmail.com",
-      "sd.rhmn@gmail.com"
+      "bottomup.real@gmail.com"
     ],
     "emails_other": [],
     "social_links": {},
@@ -11156,7 +11050,7 @@
     "category": "Coworking space",
     "address": "1st Floor, Lancelot building, B/2, Swami Vivekanand Rd, opp. Kalyan Jewellers, next to Shiv Temple, Bharat Baug, Borivali West, Mumbai, Maharashtra 400092, India",
     "phone": "+919869622564",
-    "email": "info@spacyes.com",
+    "email": null,
     "website": "https://spacyes.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmT5Rjyq35zsRu9rEZRqr3xI",
     "place_id": "ChIJmT5Rjyq35zsRu9rEZRqr3xI",
@@ -11176,9 +11070,7 @@
       ]
     ],
     "lead_id": "L9f6bde8c35",
-    "emails_all": [
-      "info@spacyes.com"
-    ],
+    "emails_all": [],
     "emails_other": [],
     "social_links": {
       "instagram": "https://www.instagram.com/spacyes"
@@ -11198,7 +11090,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped",
       "services": "website_scraped"
     }
@@ -11207,7 +11098,7 @@
     "category": "Coworking space",
     "address": "Modi House, 2/11, Pragati Society, behind Nandu Dosa, Kandivali, Pragati Society, Mahavir Nagar, Kandivali West, Mumbai, Maharashtra 400067, India",
     "phone": "+917977415482",
-    "email": "info@spacyes.com",
+    "email": null,
     "website": "https://spacyes.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5y_LCc625zsRETFCsGVyjPM",
     "place_id": "ChIJ5y_LCc625zsRETFCsGVyjPM",
@@ -11227,9 +11118,7 @@
       ]
     ],
     "lead_id": "L9b4619c44a",
-    "emails_all": [
-      "info@spacyes.com"
-    ],
+    "emails_all": [],
     "emails_other": [],
     "social_links": {
       "instagram": "https://www.instagram.com/spacyes"
@@ -11249,7 +11138,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped",
       "services": "website_scraped"
     }
@@ -11510,7 +11398,7 @@
     "category": "Coworking space",
     "address": "Gate No. 6, 1st Floor 3, Singh Estate, opp. THAKUR COLLEGE OF ENGINEERING AND TECHNOLOGY, Thakur Village, Kandivali East, Mumbai, Maharashtra 400101, India",
     "phone": "+919869622564",
-    "email": "info@spacyes.com",
+    "email": null,
     "website": "https://spacyes.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW7zAgQC35zsRNdmqH2VxuQs",
     "place_id": "ChIJW7zAgQC35zsRNdmqH2VxuQs",
@@ -11530,9 +11418,7 @@
       ]
     ],
     "lead_id": "Le9456ba8c4",
-    "emails_all": [
-      "info@spacyes.com"
-    ],
+    "emails_all": [],
     "emails_other": [],
     "social_links": {
       "instagram": "https://www.instagram.com/spacyes"
@@ -11552,7 +11438,6 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
-      "email": "website_scraped",
       "social_links": "website_scraped",
       "services": "website_scraped"
     }

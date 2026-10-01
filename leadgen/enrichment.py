@@ -22,7 +22,7 @@ import time
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
+from urllib.parse import unquote,urljoin, urlparse
 from urllib.robotparser import RobotFileParser
 
 import requests
@@ -162,10 +162,14 @@ def related_brand(a, b):
 
 
 def extract_emails(html):
-    """All plausible emails on the page (junk removed). Not yet trusted."""
+    """Plausible emails from mailto: links and visible text only (not scripts or styles)."""
+    candidates = [unquote(m) for m in re.findall(r'mailto:([^"\'?>\s]+)', html, flags=re.I)]
+    candidates += EMAIL_RE.findall(visible_text(html))
     found = []
-    for m in EMAIL_RE.findall(htmllib.unescape(html)):
+    for m in candidates:
         email = m.lower().strip(".")
+        if not EMAIL_RE.fullmatch(email):
+            continue
         local, _, domain = email.partition("@")
         tld = domain.rsplit(".", 1)[-1]
         if not tld.isalpha() or len(tld) < 2:  # drops package versions like leaflet@1.7.1
@@ -175,8 +179,6 @@ def extract_emails(html):
         if email not in found:
             found.append(email)
     return found
-
-
 def classify_emails(emails, site_hosts):
     """Split emails into (own, related, free, other). Only the first three may become the contact."""
     own_domains = {reg_domain(h) for h in site_hosts if h}
