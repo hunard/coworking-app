@@ -1,0 +1,38 @@
+﻿raw records with a phone: 309/353
+phones our cleaner rejected: 48  examples: ['+91 1800 123 999 000', '+91 1800 123 999 000', '+91 1800 123 999 000', '+91 1860 258 6633', '+91 1860 258 6633', '+91 1800 315 7871', '+91 1800 120 003 773', '+91 1860 258 6633']
+
+Risky merges (different place_ids merged together):
+- Executive Spaces
+      UyGS_5dQ | W.E.H, Metro station, 7th Floor, Chandak Chambers, Andheri - Kurla Rd, | +919022076787
+      RP7eIl0Q | A-5th Floor, Rustomjee Central Park, Andheri - Kurla Rd, opp. Kanakia  | +919022076787
+- The Executive Centre
+      BUwzjpws | Level 17, C Wing, Level 12, A Wing, Level 18, C Wing &, B &, Bandra Ku | +912268073001
+      _UwjKekQ | Level 6 & 7, MAKER MAXITY, 4, North Ave, Bandra Kurla Complex, Bandra  | +912268133535
+      xBxunWes | Plot No. C- 38/39, G Block BKC, Bandra Kurla Complex, Bandra East, Mum | +912268512300
+      GBzOalmo | Level 3 & 7, The Capital, Plot No. C-70, G Block Rd, G Block BKC, Band | +912249054200
+      x9yPUsE8 | Level 1, 2, 3A, First International Financial Centre, Plot Nos C-54 &  | +912268643838
+- 603 The CoWorking Space
+      O_4c4RxA | C Wing, Next Gen, BLOCK-B2, 101, Ganapatrao Kadam Marg, Lower Parel, M | +919136036603
+      g8FYsZCo | Marathon Futuex, Mafatlal Mills, NM Joshi Marg, Compound, Lower Parel, | +919136036603
+      O_4c4RxA | C Wing, Next Gen, BLOCK-B2, 101, Ganapatrao Kadam Marg, Lower Parel, M | +919136036603
+      m8kf_tzc | 4th Floor, Tower D, Trade World, Kamala Mills Compound, Lower Parel, M | +919136036603
+- UrbanWrk @ Peninsula Business Park, Lower Parel
+      D2fxU_HY | Peninsula Business Park Tower B 19th Floor Senapati Bapat Marg, Ganapa | +918399959996
+      -sgdJZ1g | 504, Tower A, Peninsula Corporate Park, Senapati Bapat Marg, Lower Par | +918399959996
+      D2fxU_HY | Peninsula Business Park Tower B 19th Floor Senapati Bapat Marg, Ganapa | +918399959996
+      -sgdJZ1g | 504, Tower A, Peninsula Corporate Park, Senapati Bapat Marg, Lower Par | +918399959996
+- COWRKS Powai, Prudential
+      0XAQjdiM | Cowrks, Prudential Building, Prudential IT Park, Unit one, 3rd Floor,  | +919538611122
+      YPV4Cweo | Ground Floor, Winchester, Hiranandani Gardens, Powai, Mumbai, Maharash | +919538611122
+      0XAQjdiM | Cowrks, Prudential Building, Prudential IT Park, Unit one, 3rd Floor,  | +919538611122
+      YPV4Cweo | Ground Floor, Winchester, Hiranandani Gardens, Powai, Mumbai, Maharash | +919538611122
+- Teloz Spaces
+      H7kfe9EI | Commercial Tower, EXPRESS ZONE, Suite no 401 - 407 4th Floor, B Wing,  | +917738598741
+      cVdKCiIs | LG 81H, B Wing - Sukhamani Apartment, EXPRESS ZONE, Western Express Hw | +917738598741
+      H7kfe9EI | Commercial Tower, EXPRESS ZONE, Suite no 401 - 407 4th Floor, B Wing,  | +917738598741
+- Resource Workspaces
+      pMAdWTq4 | 1st Floor, Ujagar Chambers, Bus Depot, Sion - Trombay Rd, opp. Deonar, | +919004131863
+      NgY_3QRQ | Ground Floor, Bus Depot, Sion - Trombay Rd, opp. Deonar Depot, MBPT Co | +919004131863
+- MyDesk- Co-working Spaces 2.0
+      Wrsg3DAg | 1108-Eleventh floor, Resorts & Starbucks coffee, Techno It Park, New L | +918169044581
+      jaY-trv4 | Techno It Park, 1011, New Link Rd, near Eskay Resorts, Eksar Village,  | +918169044581

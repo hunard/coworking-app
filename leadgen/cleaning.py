@@ -92,6 +92,7 @@ def merge(group):
             if m.get(k) in (None, "") and v not in (None, ""):
                 m[k] = v
     m["merged_records"] = len(group)
+    m["_members"] = [(g.get("place_id"), g["address"], g["phone"]) for g in group]
     return m
 
 
