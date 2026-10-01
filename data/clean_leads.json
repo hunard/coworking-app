@@ -13,6 +13,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "Spartan Cowork",
   "_key": "spartan",
+  "phone_type": "mobile",
   "merged_records": 3,
   "_members": [
    [
@@ -47,6 +48,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "Star Coworking",
   "_key": "star",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -71,6 +73,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "The Mosaic Coworking Space",
   "_key": "mosaic",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -100,6 +103,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "Lumos Cowork",
   "_key": "lumos",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -124,6 +128,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "Mumbai Coworking",
   "_key": "",
+  "phone_type": "mobile",
   "merged_records": 3,
   "_members": [
    [
@@ -158,6 +163,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "Quest Coworks",
   "_key": "quest coworks",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -182,6 +188,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "THE BOARDROOM Co-working, Andheri West",
   "_key": "boardroom andheri west",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -211,6 +218,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "Divine Hub",
   "_key": "divine hub",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -240,6 +248,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "Incuspaze Coworking Space in Mumbai Andheri East",
   "_key": "incuspaze andheri east",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -264,6 +273,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "Rainbow Coworks",
   "_key": "rainbow coworks",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -293,6 +303,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "Community Coworks (Ackruti Trade Center 5th floor)",
   "_key": "community coworks ackruti trade center 5th floor",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -306,7 +317,7 @@
  {
   "category": "Coworking space",
   "address": "No. A3&B2, B Cross Road, Marol MIDC Industry Estate, Andheri East, Mumbai, Maharashtra 400093, India",
-  "phone": null,
+  "phone": "+911800123999000",
   "email": null,
   "website": "https://wework.com/buildings/vijay-diamond--mumbai",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmYre8VTJ5zsRAA33aFhKoHo",
@@ -317,17 +328,18 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "WeWork",
   "_key": "wework",
+  "phone_type": "toll_free",
   "merged_records": 2,
   "_members": [
    [
     "ChIJmYre8VTJ5zsRAA33aFhKoHo",
     "No. A3&B2, B Cross Road, Marol MIDC Industry Estate, Andheri East, Mumbai, Maharashtra 400093, India",
-    null
+    "+911800123999000"
    ],
    [
     "ChIJmYre8VTJ5zsRAA33aFhKoHo",
     "No. A3&B2, B Cross Road, Marol MIDC Industry Estate, Andheri East, Mumbai, Maharashtra 400093, India",
-    null
+    "+911800123999000"
    ]
   ],
   "lead_id": "L611b8a9b4a"
@@ -346,6 +358,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "Rainbow Coworks",
   "_key": "rainbow coworks",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -375,6 +388,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "Lets Work",
   "_key": "lets work",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -388,7 +402,7 @@
  {
   "category": "Coworking space",
   "address": "Raheja Platinum, Road, off Andheri - Kurla Road, Sag Baug, Marol, Andheri East, Mumbai, Maharashtra 400059, India",
-  "phone": null,
+  "phone": "+911800123999000",
   "email": null,
   "website": "https://wework.com/buildings/raheja-platinum--mumbai",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ21WiwxLI5zsRj-mosBHVOlM",
@@ -399,22 +413,23 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "WeWork",
   "_key": "wework",
+  "phone_type": "toll_free",
   "merged_records": 3,
   "_members": [
    [
     "ChIJ21WiwxLI5zsRj-mosBHVOlM",
     "Raheja Platinum, Road, off Andheri - Kurla Road, Sag Baug, Marol, Andheri East, Mumbai, Maharashtra 400059, India",
-    null
+    "+911800123999000"
    ],
    [
     "ChIJ21WiwxLI5zsRj-mosBHVOlM",
     "Raheja Platinum, Road, off Andheri - Kurla Road, Sag Baug, Marol, Andheri East, Mumbai, Maharashtra 400059, India",
-    null
+    "+911800123999000"
    ],
    [
     "ChIJ21WiwxLI5zsRj-mosBHVOlM",
     "Raheja Platinum, Road, off Andheri - Kurla Road, Sag Baug, Marol, Andheri East, Mumbai, Maharashtra 400059, India",
-    null
+    "+911800123999000"
    ]
   ],
   "lead_id": "Le938e4c00d"
@@ -433,6 +448,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "THE BOARDROOM co-working",
   "_key": "boardroom",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -462,6 +478,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "DevX",
   "_key": "devx",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -486,6 +503,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "YesssWorks Andheri",
   "_key": "yesssworks andheri",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -515,6 +533,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "Sunrise Tower",
   "_key": "sunrise tower",
+  "phone_type": "mobile",
   "merged_records": 3,
   "_members": [
    [
@@ -549,6 +568,7 @@
   "collected_at": "2026-10-01T06:44:36+00:00",
   "company_name": "91Springboard Lotus, Andheri East",
   "_key": "91springboard lotus andheri east",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -578,6 +598,7 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "Innov8",
   "_key": "innov8",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -602,6 +623,7 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "Mumbai Coworking 2.0",
   "_key": "2 0",
+  "phone_type": "mobile",
   "merged_records": 3,
   "_members": [
    [
@@ -636,6 +658,7 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "Smartworks Fleet House",
   "_key": "smartworks fleet house",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -665,6 +688,7 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "Teloz Spaces",
   "_key": "teloz",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -694,6 +718,7 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "Connekt",
   "_key": "connekt",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -723,6 +748,7 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "MyBranch",
   "_key": "mybranch",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -752,6 +778,7 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "Connekt",
   "_key": "connekt",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -776,6 +803,7 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "Idea Square.",
   "_key": "idea square",
+  "phone_type": "landline",
   "merged_records": 3,
   "_members": [
    [
@@ -810,6 +838,7 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "Ascend Cowork",
   "_key": "ascend",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -839,6 +868,7 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "Hustle Coworking",
   "_key": "hustle",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -868,6 +898,7 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "The Matchbox Cowork",
   "_key": "matchbox",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -892,6 +923,7 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "Akasa Coworking Mumbai",
   "_key": "akasa",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -916,6 +948,7 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "YesssWorks Andheri",
   "_key": "yesssworks andheri",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -940,6 +973,7 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "DA Co-Working space Andheri",
   "_key": "da andheri",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -969,16 +1003,12 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "Executive Spaces",
   "_key": "executive",
-  "merged_records": 2,
+  "phone_type": "mobile",
+  "merged_records": 1,
   "_members": [
    [
     "ChIJXbRbx1jJ5zsRN5wUyGS_5dQ",
     "W.E.H, Metro station, 7th Floor, Chandak Chambers, Andheri - Kurla Rd, Andheri East, Mumbai, Maharashtra 400093, India",
-    "+919022076787"
-   ],
-   [
-    "ChIJQxH8Nn_J5zsRN88RP7eIl0Q",
-    "A-5th Floor, Rustomjee Central Park, Andheri - Kurla Rd, opp. Kanakia Wall Street, Andheri East, Mumbai, Maharashtra 400093, India",
     "+919022076787"
    ]
   ],
@@ -998,6 +1028,7 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "Skyline Icon",
   "_key": "skyline icon",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -1015,6 +1046,31 @@
  },
  {
   "category": "Coworking space",
+  "address": "A-5th Floor, Rustomjee Central Park, Andheri - Kurla Rd, opp. Kanakia Wall Street, Andheri East, Mumbai, Maharashtra 400093, India",
+  "phone": "+919022076787",
+  "email": null,
+  "website": "https://executivespaces.in",
+  "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxH8Nn_J5zsRN88RP7eIl0Q",
+  "place_id": "ChIJQxH8Nn_J5zsRN88RP7eIl0Q",
+  "rating": 3.9,
+  "review_count": 16,
+  "source": "google_maps_via_serpapi",
+  "collected_at": "2026-10-01T06:44:38+00:00",
+  "company_name": "Executive Spaces",
+  "_key": "executive",
+  "phone_type": "mobile",
+  "merged_records": 1,
+  "_members": [
+   [
+    "ChIJQxH8Nn_J5zsRN88RP7eIl0Q",
+    "A-5th Floor, Rustomjee Central Park, Andheri - Kurla Rd, opp. Kanakia Wall Street, Andheri East, Mumbai, Maharashtra 400093, India",
+    "+919022076787"
+   ]
+  ],
+  "lead_id": "L6893a421f9"
+ },
+ {
+  "category": "Coworking space",
   "address": "No-2, Cowork30 Building, 201, 2nd Floor, ACME Plaza, Andheri - Kurla Rd, Chakala, Andheri East, Mumbai, Maharashtra 400069, India",
   "phone": "+919820431183",
   "email": null,
@@ -1027,6 +1083,7 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "Cowork30 Building",
   "_key": "cowork30 building",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -1051,6 +1108,7 @@
   "collected_at": "2026-10-01T06:44:38+00:00",
   "company_name": "Spaces Inspire Hub Andheri West",
   "_key": "inspire hub andheri west",
+  "phone_type": "landline",
   "merged_records": 1,
   "_members": [
    [
@@ -1064,7 +1122,7 @@
  {
   "category": "Coworking space",
   "address": "C - 20, G Block Rd, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-  "phone": null,
+  "phone": "+911800123999000",
   "email": null,
   "website": "https://wework.com/buildings/enam-sambhav--mumbai",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__8bZS_P5zsRB-Fi5B5ydzU",
@@ -1075,12 +1133,13 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "WeWork",
   "_key": "wework",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJ__8bZS_P5zsRB-Fi5B5ydzU",
     "C - 20, G Block Rd, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-    null
+    "+911800123999000"
    ]
   ],
   "lead_id": "Lb4184cee60"
@@ -1088,7 +1147,7 @@
  {
   "category": "Coworking space",
   "address": "1st Floor, Parinee Crescenzo, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-  "phone": null,
+  "phone": "+9118602586633",
   "email": null,
   "website": "https://awfis.com/office-space/mumbai/bkc/pro-working---bkc-2/office",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM44O4enI5zsRAt-otSGnCxc",
@@ -1099,12 +1158,13 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "Awfis BKC Parinee Cresenzo",
   "_key": "awfis bkc parinee cresenzo",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJM44O4enI5zsRAt-otSGnCxc",
     "1st Floor, Parinee Crescenzo, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-    null
+    "+9118602586633"
    ]
   ],
   "lead_id": "L7a4afec4c4"
@@ -1123,6 +1183,7 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "Dextrus",
   "_key": "dextrus",
+  "phone_type": "landline",
   "merged_records": 1,
   "_members": [
    [
@@ -1136,7 +1197,7 @@
  {
   "category": "Coworking space",
   "address": "Bandra Kurla Complex, Unit No.4, 3rd Floor, Inspire BKC, Village Kolekalyan, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-  "phone": null,
+  "phone": "+9118602586633",
   "email": null,
   "website": "https://awfis.com/office-space/mumbai/bkc/coworking-adani-bkc/office",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wMLHe3J5zsRJhULXEpzDus",
@@ -1147,12 +1208,13 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "Awfis BKC Adani Inspire",
   "_key": "awfis bkc adani inspire",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJ0wMLHe3J5zsRJhULXEpzDus",
     "Bandra Kurla Complex, Unit No.4, 3rd Floor, Inspire BKC, Village Kolekalyan, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-    null
+    "+9118602586633"
    ]
   ],
   "lead_id": "L37bc12ae5b"
@@ -1171,6 +1233,7 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "Quest Offices Pvt Ltd",
   "_key": "quest offices",
+  "phone_type": "landline",
   "merged_records": 1,
   "_members": [
    [
@@ -1184,7 +1247,7 @@
  {
   "category": "Coworking space",
   "address": "G Block, Plot No C- 60, 51, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-  "phone": null,
+  "phone": "+9118003157871",
   "email": null,
   "website": "https://tablespace.com/office-space-in-mumbai/bkc/trent-house",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTY-qEfJ5zsRShtaqTZvEIk",
@@ -1195,12 +1258,13 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "Table Space Trent House",
   "_key": "table trent house",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJyTY-qEfJ5zsRShtaqTZvEIk",
     "G Block, Plot No C- 60, 51, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-    null
+    "+9118003157871"
    ]
   ],
   "lead_id": "L74a0173103"
@@ -1219,6 +1283,7 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "BHIVE Platinum Plus BKC, Mumbai",
   "_key": "bhive platinum plus bkc",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -1243,7 +1308,8 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "The Executive Centre",
   "_key": "executive centre",
-  "merged_records": 5,
+  "phone_type": "landline",
+  "merged_records": 2,
   "_members": [
    [
     "ChIJZ9yRohTJ5zsRxcZBUwzjpws",
@@ -1251,24 +1317,9 @@
     "+912268073001"
    ],
    [
-    "ChIJJVZnb1_J5zsRxP4_UwjKekQ",
-    "Level 6 & 7, MAKER MAXITY, 4, North Ave, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-    "+912268133535"
-   ],
-   [
     "ChIJnT-RcBzJ5zsR8NtxBxunWes",
     "Plot No. C- 38/39, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
     "+912268512300"
-   ],
-   [
-    "ChIJr0k7i-3I5zsRlNQGBzOalmo",
-    "Level 3 & 7, The Capital, Plot No. C-70, G Block Rd, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-    "+912249054200"
-   ],
-   [
-    "ChIJXw0tnG7J5zsRla5x9yPUsE8",
-    "Level 1, 2, 3A, First International Financial Centre, Plot Nos C-54 & C-55, G Block Rd, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-    "+912268643838"
    ]
   ],
   "lead_id": "Lb7e2cd133c"
@@ -1287,6 +1338,7 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "Innov8 coworking Space in BKC",
   "_key": "innov8 bkc",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -1296,6 +1348,31 @@
    ]
   ],
   "lead_id": "L380b1a98e1"
+ },
+ {
+  "category": "Coworking space",
+  "address": "Level 6 & 7, MAKER MAXITY, 4, North Ave, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
+  "phone": "+912268133535",
+  "email": null,
+  "website": "https://executivecentre.com/en-in/office-space/maker-maxity",
+  "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJVZnb1_J5zsRxP4_UwjKekQ",
+  "place_id": "ChIJJVZnb1_J5zsRxP4_UwjKekQ",
+  "rating": 4.7,
+  "review_count": 60,
+  "source": "google_maps_via_serpapi",
+  "collected_at": "2026-10-01T06:44:40+00:00",
+  "company_name": "The Executive Centre",
+  "_key": "executive centre",
+  "phone_type": "landline",
+  "merged_records": 1,
+  "_members": [
+   [
+    "ChIJJVZnb1_J5zsRxP4_UwjKekQ",
+    "Level 6 & 7, MAKER MAXITY, 4, North Ave, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
+    "+912268133535"
+   ]
+  ],
+  "lead_id": "L396e21326b"
  },
  {
   "category": "Coworking space",
@@ -1311,6 +1388,7 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "DA-Coworking Space",
   "_key": "da",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -1335,6 +1413,7 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "CorporatEdge",
   "_key": "corporatedge",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -1348,7 +1427,7 @@
  {
   "category": "Business center",
   "address": "Unit no. G5, Ground Floor and Unit no. 02 First Floor, Trade Centre Bkc, Kolivery Village, MMRDA Area, Kalina, Bandra East, Mumbai, Maharashtra 400098, India",
-  "phone": null,
+  "phone": "+911800120003773",
   "email": null,
   "website": "https://vatikabusinesscentre.com/sem-business",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW8El3IjJ5zsRQIL5LFLaM6s",
@@ -1359,12 +1438,13 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "Vatika Business Centre & Co-working Spaces",
   "_key": "vatika business centre",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJW8El3IjJ5zsRQIL5LFLaM6s",
     "Unit no. G5, Ground Floor and Unit no. 02 First Floor, Trade Centre Bkc, Kolivery Village, MMRDA Area, Kalina, Bandra East, Mumbai, Maharashtra 400098, India",
-    null
+    "+911800120003773"
    ]
   ],
   "lead_id": "L492e771d66"
@@ -1372,7 +1452,7 @@
  {
   "category": "Coworking space",
   "address": "14TH FLOOR, Ins Tower, opposite to trident hotel, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-  "phone": null,
+  "phone": "+9118602586633",
   "email": null,
   "website": "https://awfis.com/office-space/mumbai/bkc/coworking-ins-tower-bkc/office",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLUElKnvJ5zsRlOzEcNpHyx0",
@@ -1383,12 +1463,13 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "Awfis Premium Coworking INS Tower",
   "_key": "awfis premium ins tower",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJLUElKnvJ5zsRlOzEcNpHyx0",
     "14TH FLOOR, Ins Tower, opposite to trident hotel, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-    null
+    "+9118602586633"
    ]
   ],
   "lead_id": "Lf461815811"
@@ -1407,6 +1488,7 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "Connekt",
   "_key": "connekt",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -1431,6 +1513,7 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "Cowrks",
   "_key": "cowrks",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -1444,7 +1527,7 @@
  {
   "category": "Coworking space",
   "address": "7th floor, Plot no. C, Godrej BKC, 68, Avenue 3, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-  "phone": null,
+  "phone": "+9118003157871",
   "email": null,
   "website": "https://tablespace.com/office-space-in-mumbai/bkc/godrej-bkc",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw0BNCyLJ5zsRBmEpDBEGzFo",
@@ -1455,12 +1538,13 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "Table Space Godrej BKC",
   "_key": "table godrej bkc",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJw0BNCyLJ5zsRBmEpDBEGzFo",
     "7th floor, Plot no. C, Godrej BKC, 68, Avenue 3, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-    null
+    "+9118003157871"
    ]
   ],
   "lead_id": "Lbb573c27b3"
@@ -1479,6 +1563,7 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "Arohas Workspace",
   "_key": "arohas workspace",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -1503,6 +1588,7 @@
   "collected_at": "2026-10-01T06:44:40+00:00",
   "company_name": "EsziWorkN",
   "_key": "esziworkn",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -1527,6 +1613,7 @@
   "collected_at": "2026-10-01T06:44:45+00:00",
   "company_name": "Regus",
   "_key": "regus",
+  "phone_type": "landline",
   "merged_records": 1,
   "_members": [
    [
@@ -1551,6 +1638,7 @@
   "collected_at": "2026-10-01T06:44:45+00:00",
   "company_name": "Qdesq",
   "_key": "qdesq",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -1564,7 +1652,7 @@
  {
   "category": "Coworking space",
   "address": "Unit No.1204, 12th Floor, The Capital, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-  "phone": null,
+  "phone": "+9118001209088",
   "email": null,
   "website": "https://redbrickoffices.com",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBQxe7I5zsRJz0HpW8aUJg",
@@ -1575,15 +1663,41 @@
   "collected_at": "2026-10-01T06:44:45+00:00",
   "company_name": "Redbrick Offices",
   "_key": "redbrick offices",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJAQBQxe7I5zsRJz0HpW8aUJg",
     "Unit No.1204, 12th Floor, The Capital, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
-    null
+    "+9118001209088"
    ]
   ],
   "lead_id": "La6539f0ed6"
+ },
+ {
+  "category": "Coworking space",
+  "address": "Level 3 & 7, The Capital, Plot No. C-70, G Block Rd, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
+  "phone": "+912249054200",
+  "email": null,
+  "website": "https://executivecentre.com/en-in/office-space/mumbai-the-capital",
+  "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0k7i-3I5zsRlNQGBzOalmo",
+  "place_id": "ChIJr0k7i-3I5zsRlNQGBzOalmo",
+  "rating": 4.2,
+  "review_count": 106,
+  "source": "google_maps_via_serpapi",
+  "collected_at": "2026-10-01T06:44:45+00:00",
+  "company_name": "The Executive Centre",
+  "_key": "executive centre",
+  "phone_type": "landline",
+  "merged_records": 1,
+  "_members": [
+   [
+    "ChIJr0k7i-3I5zsRlNQGBzOalmo",
+    "Level 3 & 7, The Capital, Plot No. C-70, G Block Rd, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
+    "+912249054200"
+   ]
+  ],
+  "lead_id": "L145d4d9294"
  },
  {
   "category": "Coworking space",
@@ -1599,6 +1713,7 @@
   "collected_at": "2026-10-01T06:44:45+00:00",
   "company_name": "Kontor Space",
   "_key": "kontor",
+  "phone_type": "landline",
   "merged_records": 1,
   "_members": [
    [
@@ -1623,6 +1738,7 @@
   "collected_at": "2026-10-01T06:44:45+00:00",
   "company_name": "Dextrus One BKC",
   "_key": "dextrus one bkc",
+  "phone_type": "landline",
   "merged_records": 1,
   "_members": [
    [
@@ -1647,6 +1763,7 @@
   "collected_at": "2026-10-01T06:44:45+00:00",
   "company_name": "Innov8",
   "_key": "innov8",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -1660,7 +1777,7 @@
  {
   "category": "Coworking space",
   "address": "C-70, G Block, Bandra Kurla Complex, Andheri, Mumbai, Maharashtra 400051, India",
-  "phone": null,
+  "phone": "+9118003157871",
   "email": null,
   "website": "https://tablespace.com/office-space-in-mumbai/bkc/the-capital",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL856iwnJ5zsROgyPfzqhmQ8",
@@ -1671,15 +1788,41 @@
   "collected_at": "2026-10-01T06:44:45+00:00",
   "company_name": "Table Space The Capital- Enterprise Managed Office Space in BKC, Mumbai",
   "_key": "table capital enterprise managed office bkc",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJL856iwnJ5zsROgyPfzqhmQ8",
     "C-70, G Block, Bandra Kurla Complex, Andheri, Mumbai, Maharashtra 400051, India",
-    null
+    "+9118003157871"
    ]
   ],
   "lead_id": "Le956ffe8e0"
+ },
+ {
+  "category": "Coworking space",
+  "address": "Level 1, 2, 3A, First International Financial Centre, Plot Nos C-54 & C-55, G Block Rd, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
+  "phone": "+912268643838",
+  "email": null,
+  "website": "https://executivecentre.com/en-in/office-space/first-international-financial-centre",
+  "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXw0tnG7J5zsRla5x9yPUsE8",
+  "place_id": "ChIJXw0tnG7J5zsRla5x9yPUsE8",
+  "rating": 4.8,
+  "review_count": 19,
+  "source": "google_maps_via_serpapi",
+  "collected_at": "2026-10-01T06:44:45+00:00",
+  "company_name": "The Executive Centre",
+  "_key": "executive centre",
+  "phone_type": "landline",
+  "merged_records": 1,
+  "_members": [
+   [
+    "ChIJXw0tnG7J5zsRla5x9yPUsE8",
+    "Level 1, 2, 3A, First International Financial Centre, Plot Nos C-54 & C-55, G Block Rd, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
+    "+912268643838"
+   ]
+  ],
+  "lead_id": "Lb6d5eda70e"
  },
  {
   "category": "Coworking space",
@@ -1695,6 +1838,7 @@
   "collected_at": "2026-10-01T06:44:45+00:00",
   "company_name": "Workbay Coworking",
   "_key": "workbay",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -1719,6 +1863,7 @@
   "collected_at": "2026-10-01T06:44:45+00:00",
   "company_name": "Ilosung Private Limited",
   "_key": "ilosung",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -1732,7 +1877,7 @@
  {
   "category": "Coworking space",
   "address": "Grande Palladium, 175, CST Road, Kolivery Village, MMRDA Area, Kalina, Santacruz East, Mumbai, Maharashtra 400098, India",
-  "phone": null,
+  "phone": "+9118001209088",
   "email": null,
   "website": "https://redbrickoffices.com",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_RLEvLI5zsRkQ6gjeYpuss",
@@ -1743,12 +1888,13 @@
   "collected_at": "2026-10-01T06:44:45+00:00",
   "company_name": "Redbrick Offices",
   "_key": "redbrick offices",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJT_RLEvLI5zsRkQ6gjeYpuss",
     "Grande Palladium, 175, CST Road, Kolivery Village, MMRDA Area, Kalina, Santacruz East, Mumbai, Maharashtra 400098, India",
-    null
+    "+9118001209088"
    ]
   ],
   "lead_id": "Lf7443b3e8f"
@@ -1767,6 +1913,7 @@
   "collected_at": "2026-10-01T06:44:45+00:00",
   "company_name": "Regional Corporate Office:M M SAIYAD & ASSOCIATE",
   "_key": "regional corporate office m m saiyad associate",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -1791,6 +1938,7 @@
   "collected_at": "2026-10-01T06:44:45+00:00",
   "company_name": "603",
   "_key": "603",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -1815,6 +1963,7 @@
   "collected_at": "2026-10-01T06:44:45+00:00",
   "company_name": "The Workables",
   "_key": "workables",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -1839,6 +1988,7 @@
   "collected_at": "2026-10-01T06:44:45+00:00",
   "company_name": "VIOS Tower",
   "_key": "vios tower",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -1863,6 +2013,7 @@
   "collected_at": "2026-10-01T06:44:45+00:00",
   "company_name": "Hotcult India",
   "_key": "hotcult",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -1887,6 +2038,7 @@
   "collected_at": "2026-10-01T06:44:45+00:00",
   "company_name": "Workbay Coworking",
   "_key": "workbay",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -1911,6 +2063,7 @@
   "collected_at": "2026-10-01T06:44:45+00:00",
   "company_name": "Hive8",
   "_key": "hive8",
+  "phone_type": "mobile",
   "merged_records": 3,
   "_members": [
    [
@@ -1945,7 +2098,8 @@
   "collected_at": "2026-10-01T06:44:48+00:00",
   "company_name": "603 The CoWorking Space",
   "_key": "603",
-  "merged_records": 4,
+  "phone_type": "mobile",
+  "merged_records": 2,
   "_members": [
    [
     "ChIJbzFDqvzP5zsR508O_4c4RxA",
@@ -1953,18 +2107,8 @@
     "+919136036603"
    ],
    [
-    "ChIJX19N6-vP5zsRpFTg8FYsZCo",
-    "Marathon Futuex, Mafatlal Mills, NM Joshi Marg, Compound, Lower Parel, Mumbai, Maharashtra 400013, India",
-    "+919136036603"
-   ],
-   [
     "ChIJbzFDqvzP5zsR508O_4c4RxA",
     "C Wing, Next Gen, BLOCK-B2, 101, Ganapatrao Kadam Marg, Lower Parel, Mumbai, Maharashtra 400013, India",
-    "+919136036603"
-   ],
-   [
-    "ChIJuScuQOPP5zsR1Lnm8kf_tzc",
-    "4th Floor, Tower D, Trade World, Kamala Mills Compound, Lower Parel, Mumbai, Maharashtra 400013, India",
     "+919136036603"
    ]
   ],
@@ -1984,6 +2128,7 @@
   "collected_at": "2026-10-01T06:44:48+00:00",
   "company_name": "COWRKS Worli, Birla Centurion",
   "_key": "cowrks worli birla centurion",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -2013,6 +2158,7 @@
   "collected_at": "2026-10-01T06:44:48+00:00",
   "company_name": "Blue Coworks, Lower Parel",
   "_key": "blue coworks lower parel",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -2042,6 +2188,7 @@
   "collected_at": "2026-10-01T06:44:48+00:00",
   "company_name": "Pinaki Workspace",
   "_key": "pinaki workspace",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -2071,6 +2218,7 @@
   "collected_at": "2026-10-01T06:44:48+00:00",
   "company_name": "Ikigai Connect",
   "_key": "ikigai connect",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -2100,6 +2248,7 @@
   "collected_at": "2026-10-01T06:44:48+00:00",
   "company_name": "Garage Coworking Space",
   "_key": "garage",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -2129,6 +2278,7 @@
   "collected_at": "2026-10-01T06:44:48+00:00",
   "company_name": "The Business Quarter by QUORUM.",
   "_key": "business quarter by quorum",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -2158,6 +2308,7 @@
   "collected_at": "2026-10-01T06:44:48+00:00",
   "company_name": "The Executive Centre",
   "_key": "executive centre",
+  "phone_type": "landline",
   "merged_records": 2,
   "_members": [
    [
@@ -2187,6 +2338,7 @@
   "collected_at": "2026-10-01T06:44:48+00:00",
   "company_name": "UrbanWrk @ Peninsula Business Park, Lower Parel",
   "_key": "urbanwrk peninsula business park lower parel",
+  "phone_type": "mobile",
   "merged_records": 4,
   "_members": [
    [
@@ -2226,6 +2378,7 @@
   "collected_at": "2026-10-01T06:44:48+00:00",
   "company_name": "Dextrus",
   "_key": "dextrus",
+  "phone_type": "landline",
   "merged_records": 2,
   "_members": [
    [
@@ -2255,6 +2408,7 @@
   "collected_at": "2026-10-01T06:44:48+00:00",
   "company_name": "Flignite Dadar (Coworking Space in Mumbai)",
   "_key": "flignite dadar",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -2284,6 +2438,7 @@
   "collected_at": "2026-10-01T06:44:48+00:00",
   "company_name": "The Executive Centre",
   "_key": "executive centre",
+  "phone_type": "landline",
   "merged_records": 2,
   "_members": [
    [
@@ -2302,7 +2457,7 @@
  {
   "category": "Coworking space",
   "address": "1st floor, 264-265, Dr Annie Besant Rd, Municipal Colony, Worli Shivaji Nagar, Worli, Mumbai, Maharashtra 400025, India",
-  "phone": null,
+  "phone": "+911800123999000",
   "email": null,
   "website": "https://wework.com/buildings/vaswani-chambers--mumbai",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbnnBDPP5zsRAOZ78t6H24Y",
@@ -2313,17 +2468,18 @@
   "collected_at": "2026-10-01T06:44:48+00:00",
   "company_name": "WeWork",
   "_key": "wework",
+  "phone_type": "toll_free",
   "merged_records": 2,
   "_members": [
    [
     "ChIJWbnnBDPP5zsRAOZ78t6H24Y",
     "1st floor, 264-265, Dr Annie Besant Rd, Municipal Colony, Worli Shivaji Nagar, Worli, Mumbai, Maharashtra 400025, India",
-    null
+    "+911800123999000"
    ],
    [
     "ChIJWbnnBDPP5zsRAOZ78t6H24Y",
     "1st floor, 264-265, Dr Annie Besant Rd, Municipal Colony, Worli Shivaji Nagar, Worli, Mumbai, Maharashtra 400025, India",
-    null
+    "+911800123999000"
    ]
   ],
   "lead_id": "L6e0d3e1b02"
@@ -2331,7 +2487,7 @@
  {
   "category": "Coworking space",
   "address": "25TH FLOOR, Tower 2, Senapati Bapat Marg, Dadar West, Prabhadevi, Dadar West, Parel, Mumbai, Maharashtra 400013, India",
-  "phone": null,
+  "phone": "+9118602586633",
   "email": null,
   "website": "https://awfis.com/office-space/mumbai/lower-parel/premium-coworking-oic-2,-lower-parel/day-pass",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJeToF5HjP5zsR4-_a-1xRhLw",
@@ -2342,17 +2498,18 @@
   "collected_at": "2026-10-01T06:44:48+00:00",
   "company_name": "Awfis One International Centre 2",
   "_key": "awfis one international centre 2",
+  "phone_type": "toll_free",
   "merged_records": 2,
   "_members": [
    [
     "ChIJeToF5HjP5zsR4-_a-1xRhLw",
     "25TH FLOOR, Tower 2, Senapati Bapat Marg, Dadar West, Prabhadevi, Dadar West, Parel, Mumbai, Maharashtra 400013, India",
-    null
+    "+9118602586633"
    ],
    [
     "ChIJeToF5HjP5zsR4-_a-1xRhLw",
     "25TH FLOOR, Tower 2, Senapati Bapat Marg, Dadar West, Prabhadevi, Dadar West, Parel, Mumbai, Maharashtra 400013, India",
-    null
+    "+9118602586633"
    ]
   ],
   "lead_id": "L619e1592f0"
@@ -2371,6 +2528,7 @@
   "collected_at": "2026-10-01T06:44:48+00:00",
   "company_name": "Innov8 Peninsula Business Park",
   "_key": "innov8 peninsula business park",
+  "phone_type": null,
   "merged_records": 2,
   "_members": [
    [
@@ -2388,6 +2546,31 @@
  },
  {
   "category": "Coworking space",
+  "address": "Marathon Futuex, Mafatlal Mills, NM Joshi Marg, Compound, Lower Parel, Mumbai, Maharashtra 400013, India",
+  "phone": "+919136036603",
+  "email": null,
+  "website": "https://603thecoworkingspace.com",
+  "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX19N6-vP5zsRpFTg8FYsZCo",
+  "place_id": "ChIJX19N6-vP5zsRpFTg8FYsZCo",
+  "rating": 4.2,
+  "review_count": 5,
+  "source": "google_maps_via_serpapi",
+  "collected_at": "2026-10-01T06:44:48+00:00",
+  "company_name": "603 The Coworking Space",
+  "_key": "603",
+  "phone_type": "mobile",
+  "merged_records": 1,
+  "_members": [
+   [
+    "ChIJX19N6-vP5zsRpFTg8FYsZCo",
+    "Marathon Futuex, Mafatlal Mills, NM Joshi Marg, Compound, Lower Parel, Mumbai, Maharashtra 400013, India",
+    "+919136036603"
+   ]
+  ],
+  "lead_id": "L7c1233c24a"
+ },
+ {
+  "category": "Coworking space",
   "address": "Level 16, One International Center, Dadar West, Lower Parel, Mumbai, Maharashtra 400013, India",
   "phone": "+918287566777",
   "email": null,
@@ -2400,6 +2583,7 @@
   "collected_at": "2026-10-01T06:44:48+00:00",
   "company_name": "CorporatEdge",
   "_key": "corporatedge",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -2429,6 +2613,7 @@
   "collected_at": "2026-10-01T06:44:48+00:00",
   "company_name": "Redbrick Offices OWC",
   "_key": "redbrick offices owc",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -2453,6 +2638,7 @@
   "collected_at": "2026-10-01T06:44:50+00:00",
   "company_name": "Cowrks India Pvt Ltd",
   "_key": "cowrks",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -2462,6 +2648,31 @@
    ]
   ],
   "lead_id": "La7e6582729"
+ },
+ {
+  "category": "Coworking space",
+  "address": "4th Floor, Tower D, Trade World, Kamala Mills Compound, Lower Parel, Mumbai, Maharashtra 400013, India",
+  "phone": "+919136036603",
+  "email": null,
+  "website": "https://603thecoworkingspace.com",
+  "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuScuQOPP5zsR1Lnm8kf_tzc",
+  "place_id": "ChIJuScuQOPP5zsR1Lnm8kf_tzc",
+  "rating": null,
+  "review_count": 0,
+  "source": "google_maps_via_serpapi",
+  "collected_at": "2026-10-01T06:44:50+00:00",
+  "company_name": "603 The Coworking Space",
+  "_key": "603",
+  "phone_type": "mobile",
+  "merged_records": 1,
+  "_members": [
+   [
+    "ChIJuScuQOPP5zsR1Lnm8kf_tzc",
+    "4th Floor, Tower D, Trade World, Kamala Mills Compound, Lower Parel, Mumbai, Maharashtra 400013, India",
+    "+919136036603"
+   ]
+  ],
+  "lead_id": "L7a79e0eda8"
  },
  {
   "category": "Coworking space",
@@ -2477,6 +2688,7 @@
   "collected_at": "2026-10-01T06:44:50+00:00",
   "company_name": "HungerPangs_CoWorks",
   "_key": "hungerpangs coworks",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -2501,6 +2713,7 @@
   "collected_at": "2026-10-01T06:44:50+00:00",
   "company_name": "The Empire Business Centre",
   "_key": "empire business centre",
+  "phone_type": "landline",
   "merged_records": 1,
   "_members": [
    [
@@ -2525,6 +2738,7 @@
   "collected_at": "2026-10-01T06:44:50+00:00",
   "company_name": "603 The Co-working Space",
   "_key": "603",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -2538,7 +2752,7 @@
  {
   "category": "Contractor",
   "address": "Brilliance Elysian Coatings Pvt Ltd, Awfis One International Centre (OIC), UNIT 801-802, 8TH FLOOR, Tower 1, Senapati Bapat Marg, Dadar West, Prabhadevi, Lower Parel, Mumbai, Maharashtra 400013, India",
-  "phone": null,
+  "phone": "+9118602586633",
   "email": null,
   "website": "https://awfis.com/office-space/mumbai/lower-parel/coworking-oic/meeting",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9J_1PrP5zsRB5kl9CPAU-0",
@@ -2549,12 +2763,13 @@
   "collected_at": "2026-10-01T06:44:50+00:00",
   "company_name": "Brilliance Elysian Coatings Pvt Ltd",
   "_key": "brilliance elysian coatings",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJE9J_1PrP5zsRB5kl9CPAU-0",
     "Brilliance Elysian Coatings Pvt Ltd, Awfis One International Centre (OIC), UNIT 801-802, 8TH FLOOR, Tower 1, Senapati Bapat Marg, Dadar West, Prabhadevi, Lower Parel, Mumbai, Maharashtra 400013, India",
-    null
+    "+9118602586633"
    ]
   ],
   "lead_id": "L5f41b3c5e1"
@@ -2562,7 +2777,7 @@
  {
   "category": "Coworking space",
   "address": "Ground Floor, Bandbox House, Dr Annie Besant Rd, Municipal Colony, Worli Shivaji Nagar, Worli, Mumbai, Maharashtra 400030, India",
-  "phone": null,
+  "phone": "+91180012312",
   "email": null,
   "website": "https://wework.com/buildings/bandbox-house--mumbai",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdG-OwXP5zsR_Hgj2RP4O_o",
@@ -2573,17 +2788,18 @@
   "collected_at": "2026-10-01T06:44:50+00:00",
   "company_name": "WeWork Bandbox House",
   "_key": "wework bandbox house",
+  "phone_type": "toll_free",
   "merged_records": 2,
   "_members": [
    [
     "ChIJDdG-OwXP5zsR_Hgj2RP4O_o",
     "Ground Floor, Bandbox House, Dr Annie Besant Rd, Municipal Colony, Worli Shivaji Nagar, Worli, Mumbai, Maharashtra 400030, India",
-    null
+    "+91180012312"
    ],
    [
     "ChIJDdG-OwXP5zsR_Hgj2RP4O_o",
     "Ground Floor, Bandbox House, Dr Annie Besant Rd, Municipal Colony, Worli Shivaji Nagar, Worli, Mumbai, Maharashtra 400030, India",
-    null
+    "+91180012312"
    ]
   ],
   "lead_id": "L27d9cfcfff"
@@ -2602,6 +2818,7 @@
   "collected_at": "2026-10-01T06:44:50+00:00",
   "company_name": "THE COLLECTIVE Altimus, Mumbai",
   "_key": "collective altimus",
+  "phone_type": null,
   "merged_records": 2,
   "_members": [
    [
@@ -2631,6 +2848,7 @@
   "collected_at": "2026-10-01T06:44:50+00:00",
   "company_name": "The Foil",
   "_key": "foil",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -2655,6 +2873,7 @@
   "collected_at": "2026-10-01T06:44:50+00:00",
   "company_name": "Redbrick Offices Peninsula",
   "_key": "redbrick offices peninsula",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -2679,6 +2898,7 @@
   "collected_at": "2026-10-01T06:44:50+00:00",
   "company_name": "Thinkers Nest (Dadar)",
   "_key": "thinkers nest dadar",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -2703,6 +2923,7 @@
   "collected_at": "2026-10-01T06:44:50+00:00",
   "company_name": "603 The CoWorking Space",
   "_key": "603",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -2727,6 +2948,7 @@
   "collected_at": "2026-10-01T06:44:50+00:00",
   "company_name": "WorkWise Solutions Pvt. Ltd. (Lower Parel)",
   "_key": "workwise solutions lower parel",
+  "phone_type": "landline",
   "merged_records": 1,
   "_members": [
    [
@@ -2751,6 +2973,7 @@
   "collected_at": "2026-10-01T06:44:50+00:00",
   "company_name": "603 The Coworking space (Matulya)",
   "_key": "603 matulya",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -2780,6 +3003,7 @@
   "collected_at": "2026-10-01T06:44:53+00:00",
   "company_name": "Millennial Pod",
   "_key": "millennial pod",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -2809,6 +3033,7 @@
   "collected_at": "2026-10-01T06:44:53+00:00",
   "company_name": "Of10",
   "_key": "of10",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -2838,7 +3063,8 @@
   "collected_at": "2026-10-01T06:44:53+00:00",
   "company_name": "COWRKS Powai, Prudential",
   "_key": "cowrks powai prudential",
-  "merged_records": 4,
+  "phone_type": "mobile",
+  "merged_records": 2,
   "_members": [
    [
     "ChIJ254J-c7H5zsRdOb0XAQjdiM",
@@ -2846,18 +3072,8 @@
     "+919538611122"
    ],
    [
-    "ChIJW-jdPMHH5zsRk_VYPV4Cweo",
-    "Ground Floor, Winchester, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076, India",
-    "+919538611122"
-   ],
-   [
     "ChIJ254J-c7H5zsRdOb0XAQjdiM",
     "Cowrks, Prudential Building, Prudential IT Park, Unit one, 3rd Floor, Central Ave, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076, India",
-    "+919538611122"
-   ],
-   [
-    "ChIJW-jdPMHH5zsRk_VYPV4Cweo",
-    "Ground Floor, Winchester, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076, India",
     "+919538611122"
    ]
   ],
@@ -2877,6 +3093,7 @@
   "collected_at": "2026-10-01T06:44:53+00:00",
   "company_name": "COWRKS One Boulevard, Powai, 1F & 2F",
   "_key": "cowrks one boulevard powai 1f 2f",
+  "phone_type": null,
   "merged_records": 2,
   "_members": [
    [
@@ -2894,6 +3111,36 @@
  },
  {
   "category": "Coworking space",
+  "address": "Ground Floor, Winchester, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076, India",
+  "phone": "+919538611122",
+  "email": null,
+  "website": "https://cowrks.com/coworking-space-mumbai/winchester",
+  "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-jdPMHH5zsRk_VYPV4Cweo",
+  "place_id": "ChIJW-jdPMHH5zsRk_VYPV4Cweo",
+  "rating": 4.9,
+  "review_count": 43,
+  "source": "google_maps_via_serpapi",
+  "collected_at": "2026-10-01T06:44:53+00:00",
+  "company_name": "COWRKS Powai, Winchester",
+  "_key": "cowrks powai winchester",
+  "phone_type": "mobile",
+  "merged_records": 2,
+  "_members": [
+   [
+    "ChIJW-jdPMHH5zsRk_VYPV4Cweo",
+    "Ground Floor, Winchester, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076, India",
+    "+919538611122"
+   ],
+   [
+    "ChIJW-jdPMHH5zsRk_VYPV4Cweo",
+    "Ground Floor, Winchester, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076, India",
+    "+919538611122"
+   ]
+  ],
+  "lead_id": "L3a62e5dbd6"
+ },
+ {
+  "category": "Coworking space",
   "address": "Powai Plaza, 307, Hiranandani Gardens, Mumbai, Maharashtra 400076, India",
   "phone": "+918828010198",
   "email": null,
@@ -2906,6 +3153,7 @@
   "collected_at": "2026-10-01T06:44:53+00:00",
   "company_name": "Veridical",
   "_key": "veridical",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -2935,6 +3183,7 @@
   "collected_at": "2026-10-01T06:44:53+00:00",
   "company_name": "The Founders Co-works",
   "_key": "founders co works",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -2959,6 +3208,7 @@
   "collected_at": "2026-10-01T06:44:53+00:00",
   "company_name": "Community Coworks (Boomerang)",
   "_key": "community coworks boomerang",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -2972,7 +3222,7 @@
  {
   "category": "Coworking space",
   "address": "6th Floor, WeWork Lightbridge, Saki Vihar Rd, Tunga Village, Chandivali, Powai, Mumbai, Maharashtra 400072, India",
-  "phone": null,
+  "phone": "+911800123222333",
   "email": null,
   "website": "https://wework.co.in/mumbai/powai/lightbridge",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBU0kbADJ5zsRrwbFymwnHP8",
@@ -2983,12 +3233,13 @@
   "collected_at": "2026-10-01T06:44:53+00:00",
   "company_name": "WeWork Lightbridge",
   "_key": "wework lightbridge",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJBU0kbADJ5zsRrwbFymwnHP8",
     "6th Floor, WeWork Lightbridge, Saki Vihar Rd, Tunga Village, Chandivali, Powai, Mumbai, Maharashtra 400072, India",
-    null
+    "+911800123222333"
    ]
   ],
   "lead_id": "Ld776b9881b"
@@ -3007,6 +3258,7 @@
   "collected_at": "2026-10-01T06:44:53+00:00",
   "company_name": "Enzyme Aura",
   "_key": "enzyme aura",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -3031,6 +3283,7 @@
   "collected_at": "2026-10-01T06:44:53+00:00",
   "company_name": "COWRKS Spectra",
   "_key": "cowrks spectra",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -3049,7 +3302,7 @@
  {
   "category": "Coworking space",
   "address": "13th Floor, Hindustan C, Bus Stop, 247 Park, Lal Bahadur Shastri Marg, Gandhi Nagar, Vikhroli West, Mumbai, Maharashtra 400079, India",
-  "phone": null,
+  "phone": "+911800123999000",
   "email": null,
   "website": "https://wework.com/buildings/247-park--mumbai",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSTRuJPH5zsRWD5V4PrzU8w",
@@ -3060,17 +3313,18 @@
   "collected_at": "2026-10-01T06:44:53+00:00",
   "company_name": "WeWork",
   "_key": "wework",
+  "phone_type": "toll_free",
   "merged_records": 2,
   "_members": [
    [
     "ChIJwSTRuJPH5zsRWD5V4PrzU8w",
     "13th Floor, Hindustan C, Bus Stop, 247 Park, Lal Bahadur Shastri Marg, Gandhi Nagar, Vikhroli West, Mumbai, Maharashtra 400079, India",
-    null
+    "+911800123999000"
    ],
    [
     "ChIJwSTRuJPH5zsRWD5V4PrzU8w",
     "13th Floor, Hindustan C, Bus Stop, 247 Park, Lal Bahadur Shastri Marg, Gandhi Nagar, Vikhroli West, Mumbai, Maharashtra 400079, India",
-    null
+    "+911800123999000"
    ]
   ],
   "lead_id": "L9adff15007"
@@ -3089,6 +3343,7 @@
   "collected_at": "2026-10-01T06:44:53+00:00",
   "company_name": "IndiQube Lakeview",
   "_key": "indiqube lakeview",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -3102,7 +3357,7 @@
  {
   "category": "Coworking space",
   "address": "Tex Center, E Wing, Chandivali Farm Rd, Chandivali, Saki Village, Chandivali, Powai, Mumbai, Maharashtra 400072, India",
-  "phone": null,
+  "phone": "+9118001209088",
   "email": null,
   "website": "https://redbrickoffices.com",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42WzhQzI5zsR2lkmRVYJr1o",
@@ -3113,12 +3368,13 @@
   "collected_at": "2026-10-01T06:44:53+00:00",
   "company_name": "Redbrick Offices",
   "_key": "redbrick offices",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJ42WzhQzI5zsR2lkmRVYJr1o",
     "Tex Center, E Wing, Chandivali Farm Rd, Chandivali, Saki Village, Chandivali, Powai, Mumbai, Maharashtra 400072, India",
-    null
+    "+9118001209088"
    ]
   ],
   "lead_id": "L77e2d6268b"
@@ -3137,6 +3393,7 @@
   "collected_at": "2026-10-01T06:44:53+00:00",
   "company_name": "Vibrant Business centre",
   "_key": "vibrant business centre",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -3166,6 +3423,7 @@
   "collected_at": "2026-10-01T06:44:53+00:00",
   "company_name": "Canvas CoWork",
   "_key": "canvas",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -3190,6 +3448,7 @@
   "collected_at": "2026-10-01T06:44:53+00:00",
   "company_name": "Incuspaze Hiranandani Lighthall Business Park",
   "_key": "incuspaze hiranandani lighthall business park",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -3203,7 +3462,7 @@
  {
   "category": "Coworking space",
   "address": "Ground Floor, Chromium, Jogeshwari - Vikhroli Link Rd, Manohar Nagar, Marol, Andheri East, Mumbai, Maharashtra 400076, India",
-  "phone": null,
+  "phone": "+911800123999000",
   "email": null,
   "website": "https://wework.com",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDb_7fx3J5zsRA2LCzkJR520",
@@ -3214,22 +3473,23 @@
   "collected_at": "2026-10-01T06:44:53+00:00",
   "company_name": "WeWork",
   "_key": "wework",
+  "phone_type": "toll_free",
   "merged_records": 3,
   "_members": [
    [
     "ChIJDb_7fx3J5zsRA2LCzkJR520",
     "Ground Floor, Chromium, Jogeshwari - Vikhroli Link Rd, Manohar Nagar, Marol, Andheri East, Mumbai, Maharashtra 400076, India",
-    null
+    "+911800123999000"
    ],
    [
     "ChIJDb_7fx3J5zsRA2LCzkJR520",
     "Ground Floor, Chromium, Jogeshwari - Vikhroli Link Rd, Manohar Nagar, Marol, Andheri East, Mumbai, Maharashtra 400076, India",
-    null
+    "+911800123999000"
    ],
    [
     "ChIJDb_7fx3J5zsRA2LCzkJR520",
     "Ground Floor, Chromium, Jogeshwari - Vikhroli Link Rd, Manohar Nagar, Marol, Andheri East, Mumbai, Maharashtra 400076, India",
-    null
+    "+911800123999000"
    ]
   ],
   "lead_id": "L9230c6de38"
@@ -3248,6 +3508,7 @@
   "collected_at": "2026-10-01T06:44:54+00:00",
   "company_name": "Lets Work Co-working space in Mumbai, Ghatkopar West",
   "_key": "lets work ghatkopar west",
+  "phone_type": "mobile",
   "merged_records": 3,
   "_members": [
    [
@@ -3282,6 +3543,7 @@
   "collected_at": "2026-10-01T06:44:54+00:00",
   "company_name": "Vibrant co-working office Chandivali Mumbai",
   "_key": "vibrant office chandivali",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -3306,6 +3568,7 @@
   "collected_at": "2026-10-01T06:44:54+00:00",
   "company_name": "91Springboard Vikhroli",
   "_key": "91springboard vikhroli",
+  "phone_type": "mobile",
   "merged_records": 3,
   "_members": [
    [
@@ -3340,6 +3603,7 @@
   "collected_at": "2026-10-01T06:44:54+00:00",
   "company_name": "One Degree Coworking",
   "_key": "one degree",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -3369,6 +3633,7 @@
   "collected_at": "2026-10-01T06:44:54+00:00",
   "company_name": "Meetings and Offices",
   "_key": "meetings and offices",
+  "phone_type": "mobile",
   "merged_records": 3,
   "_members": [
    [
@@ -3403,6 +3668,7 @@
   "collected_at": "2026-10-01T06:44:54+00:00",
   "company_name": "91Springboard Hiranandani Lighthall",
   "_key": "91springboard hiranandani lighthall",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -3427,6 +3693,7 @@
   "collected_at": "2026-10-01T06:44:54+00:00",
   "company_name": "Officebing",
   "_key": "officebing",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -3445,7 +3712,7 @@
  {
   "category": "Coworking space",
   "address": "C/o Access Serviced Offices Pvt. Ltd, Level 4, 402 - 404, Delphi, C Wing Hiranandani Business Park, Orchard Ave, Powai, Mumbai, Maharashtra 400076, India",
-  "phone": null,
+  "phone": "+9118002667667",
   "email": null,
   "website": null,
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQTWa-XH5zsRNIPerFdMEws",
@@ -3456,12 +3723,13 @@
   "collected_at": "2026-10-01T06:44:54+00:00",
   "company_name": "AccessWork Powai Serviced Offices",
   "_key": "accesswork powai serviced offices",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJaQTWa-XH5zsRNIPerFdMEws",
     "C/o Access Serviced Offices Pvt. Ltd, Level 4, 402 - 404, Delphi, C Wing Hiranandani Business Park, Orchard Ave, Powai, Mumbai, Maharashtra 400076, India",
-    null
+    "+9118002667667"
    ]
   ],
   "lead_id": "L29cae80209"
@@ -3480,6 +3748,7 @@
   "collected_at": "2026-10-01T06:44:54+00:00",
   "company_name": "Cowork Collision",
   "_key": "collision",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -3493,7 +3762,7 @@
  {
   "category": "Coworking space",
   "address": "5th & 6th floor, Vaman Techno Centre, Circle, Makwana Rd, near Web Techneeq, Gamdevi, Marol, Andheri East, Mumbai, Maharashtra 400059, India",
-  "phone": null,
+  "phone": "+9118602586633",
   "email": null,
   "website": "https://awfis.com/office-space/mumbai/andheri-east/coworking-vaman/office",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZ-kmPPJ5zsR1ihkb-ccqvc",
@@ -3504,12 +3773,13 @@
   "collected_at": "2026-10-01T06:44:54+00:00",
   "company_name": "Awfis Vaman Centre",
   "_key": "awfis vaman centre",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJEZ-kmPPJ5zsR1ihkb-ccqvc",
     "5th & 6th floor, Vaman Techno Centre, Circle, Makwana Rd, near Web Techneeq, Gamdevi, Marol, Andheri East, Mumbai, Maharashtra 400059, India",
-    null
+    "+9118602586633"
    ]
   ],
   "lead_id": "Ld718b804ff"
@@ -3528,6 +3798,7 @@
   "collected_at": "2026-10-01T06:44:54+00:00",
   "company_name": "Regus",
   "_key": "regus",
+  "phone_type": "landline",
   "merged_records": 1,
   "_members": [
    [
@@ -3552,6 +3823,7 @@
   "collected_at": "2026-10-01T06:44:54+00:00",
   "company_name": "Flexiworks",
   "_key": "flexiworks",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -3576,6 +3848,7 @@
   "collected_at": "2026-10-01T06:44:54+00:00",
   "company_name": "Newbridge Business Centres",
   "_key": "newbridge business centres",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -3589,7 +3862,7 @@
  {
   "category": "Coworking space",
   "address": "AK Estate, Besides, Swami Vivekanand Rd, next to Radisson Blu Hotel, off Veer Savarkar Flyover, West, Goregaon East, Mumbai, Maharashtra 400062, India",
-  "phone": null,
+  "phone": "+9118004199807",
   "email": null,
   "website": "https://workafella.com/office-space/coworking-space-in-mumbai",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyyix9jq35zsR6OjkVBkxJB0",
@@ -3600,22 +3873,23 @@
   "collected_at": "2026-10-01T06:44:56+00:00",
   "company_name": "Workafella Goregaon",
   "_key": "workafella goregaon",
+  "phone_type": "toll_free",
   "merged_records": 3,
   "_members": [
    [
     "ChIJyyix9jq35zsR6OjkVBkxJB0",
     "AK Estate, Besides, Swami Vivekanand Rd, next to Radisson Blu Hotel, off Veer Savarkar Flyover, West, Goregaon East, Mumbai, Maharashtra 400062, India",
-    null
+    "+9118004199807"
    ],
    [
     "ChIJyyix9jq35zsR6OjkVBkxJB0",
     "AK Estate, Besides, Swami Vivekanand Rd, next to Radisson Blu Hotel, off Veer Savarkar Flyover, West, Goregaon East, Mumbai, Maharashtra 400062, India",
-    null
+    "+9118004199807"
    ],
    [
     "ChIJyyix9jq35zsR6OjkVBkxJB0",
     "AK Estate, Besides, Swami Vivekanand Rd, next to Radisson Blu Hotel, off Veer Savarkar Flyover, West, Goregaon East, Mumbai, Maharashtra 400062, India",
-    null
+    "+9118004199807"
    ]
   ],
   "lead_id": "La4f1c89b28"
@@ -3634,6 +3908,7 @@
   "collected_at": "2026-10-01T06:44:56+00:00",
   "company_name": "Toutle Space Coworking",
   "_key": "toutle",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -3652,7 +3927,7 @@
  {
   "category": "Coworking space",
   "address": "Oberoi Garden City, 20TH FLOOR, COMMERZ II, off Western Express Highway, GOREGAON (E, Mumbai, Maharashtra 400063, India",
-  "phone": null,
+  "phone": "+911800123999000",
   "email": null,
   "website": "https://wework.com/buildings/oberoi-commerz-ii--mumbai",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ46YVKi35zsRNqktPF6a9WY",
@@ -3663,17 +3938,18 @@
   "collected_at": "2026-10-01T06:44:56+00:00",
   "company_name": "WeWork",
   "_key": "wework",
+  "phone_type": "toll_free",
   "merged_records": 2,
   "_members": [
    [
     "ChIJZ46YVKi35zsRNqktPF6a9WY",
     "Oberoi Garden City, 20TH FLOOR, COMMERZ II, off Western Express Highway, GOREGAON (E, Mumbai, Maharashtra 400063, India",
-    null
+    "+911800123999000"
    ],
    [
     "ChIJZ46YVKi35zsRNqktPF6a9WY",
     "Oberoi Garden City, 20TH FLOOR, COMMERZ II, off Western Express Highway, GOREGAON (E, Mumbai, Maharashtra 400063, India",
-    null
+    "+911800123999000"
    ]
   ],
   "lead_id": "Ldcdfcc6bca"
@@ -3692,6 +3968,7 @@
   "collected_at": "2026-10-01T06:44:56+00:00",
   "company_name": "Awfis Coworking",
   "_key": "awfis",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -3721,6 +3998,7 @@
   "collected_at": "2026-10-01T06:44:56+00:00",
   "company_name": "Teloz Spaces",
   "_key": "teloz",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -3739,7 +4017,7 @@
  {
   "category": "Coworking space",
   "address": "North Wing, NESCO IT Park, 10th floor, Building 4, Western Express Hwy, Goregaon East, Mumbai, Maharashtra 400063, India",
-  "phone": null,
+  "phone": "+911800123999000",
   "email": null,
   "website": "https://wework.com/buildings/nesco-it-park--mumbai",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-zmorm35zsRABxlV2c-Mz8",
@@ -3750,17 +4028,18 @@
   "collected_at": "2026-10-01T06:44:56+00:00",
   "company_name": "WeWork NESCO IT Park",
   "_key": "wework nesco it park",
+  "phone_type": "toll_free",
   "merged_records": 2,
   "_members": [
    [
     "ChIJi-zmorm35zsRABxlV2c-Mz8",
     "North Wing, NESCO IT Park, 10th floor, Building 4, Western Express Hwy, Goregaon East, Mumbai, Maharashtra 400063, India",
-    null
+    "+911800123999000"
    ],
    [
     "ChIJi-zmorm35zsRABxlV2c-Mz8",
     "North Wing, NESCO IT Park, 10th floor, Building 4, Western Express Hwy, Goregaon East, Mumbai, Maharashtra 400063, India",
-    null
+    "+911800123999000"
    ]
   ],
   "lead_id": "L818dd9f395"
@@ -3779,6 +4058,7 @@
   "collected_at": "2026-10-01T06:44:56+00:00",
   "company_name": "YesssWorks Goregaon",
   "_key": "yesssworks goregaon",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -3808,6 +4088,7 @@
   "collected_at": "2026-10-01T06:44:56+00:00",
   "company_name": "97 Tech Center",
   "_key": "97 tech center",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -3837,6 +4118,7 @@
   "collected_at": "2026-10-01T06:44:56+00:00",
   "company_name": "Toutle Space",
   "_key": "toutle",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -3866,6 +4148,7 @@
   "collected_at": "2026-10-01T06:44:56+00:00",
   "company_name": "WeeDoo.in",
   "_key": "weedoo",
+  "phone_type": null,
   "merged_records": 2,
   "_members": [
    [
@@ -3895,6 +4178,7 @@
   "collected_at": "2026-10-01T06:44:56+00:00",
   "company_name": "Co-working Space",
   "_key": "",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -3908,7 +4192,7 @@
  {
   "category": "Coworking space",
   "address": "6 Floors, Oberoi Commerz-III, 36, Western Express Hwy, Hanuman Tekdi, Goregaon East, Mumbai, Maharashtra 400065, India",
-  "phone": null,
+  "phone": "+9118003157871",
   "email": null,
   "website": "https://tablespace.com/office-space-in-mumbai/goregaon/commerz-iii",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl7enRv635zsROfZaq0HaUzs",
@@ -3919,12 +4203,13 @@
   "collected_at": "2026-10-01T06:44:56+00:00",
   "company_name": "Table Space Oberoi Commerz-III",
   "_key": "table oberoi commerz iii",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJl7enRv635zsROfZaq0HaUzs",
     "6 Floors, Oberoi Commerz-III, 36, Western Express Hwy, Hanuman Tekdi, Goregaon East, Mumbai, Maharashtra 400065, India",
-    null
+    "+9118003157871"
    ]
   ],
   "lead_id": "La938b6958c"
@@ -3932,7 +4217,7 @@
  {
   "category": "Coworking space",
   "address": "6th floor, 307, Chincholi Bunder Rd, Malad, Rajan Pada, Mindspace, Malad West, Mumbai, Maharashtra 400064, India",
-  "phone": null,
+  "phone": "+911800123222333",
   "email": null,
   "website": "https://wework.co.in/mumbai/malad/spectrum-tower",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29wWYzy35zsRhg2VRwmzq20",
@@ -3943,22 +4228,23 @@
   "collected_at": "2026-10-01T06:44:56+00:00",
   "company_name": "WeWork Spectrum Tower",
   "_key": "wework spectrum tower",
+  "phone_type": "toll_free",
   "merged_records": 3,
   "_members": [
    [
     "ChIJ29wWYzy35zsRhg2VRwmzq20",
     "6th floor, 307, Chincholi Bunder Rd, Malad, Rajan Pada, Mindspace, Malad West, Mumbai, Maharashtra 400064, India",
-    null
+    "+911800123222333"
    ],
    [
     "ChIJ29wWYzy35zsRhg2VRwmzq20",
     "6th floor, 307, Chincholi Bunder Rd, Malad, Rajan Pada, Mindspace, Malad West, Mumbai, Maharashtra 400064, India",
-    null
+    "+911800123222333"
    ],
    [
     "ChIJ29wWYzy35zsRhg2VRwmzq20",
     "6th floor, 307, Chincholi Bunder Rd, Malad, Rajan Pada, Mindspace, Malad West, Mumbai, Maharashtra 400064, India",
-    null
+    "+911800123222333"
    ]
   ],
   "lead_id": "L65dd8deddc"
@@ -3977,6 +4263,7 @@
   "collected_at": "2026-10-01T06:44:56+00:00",
   "company_name": "Virtual Office Mumbai",
   "_key": "virtual office",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -4001,6 +4288,7 @@
   "collected_at": "2026-10-01T06:44:56+00:00",
   "company_name": "Carnival HUB Work Spaces",
   "_key": "carnival hub work",
+  "phone_type": "mobile",
   "merged_records": 3,
   "_members": [
    [
@@ -4035,6 +4323,7 @@
   "collected_at": "2026-10-01T06:44:56+00:00",
   "company_name": "WorkCampus",
   "_key": "workcampus",
+  "phone_type": "mobile",
   "merged_records": 3,
   "_members": [
    [
@@ -4069,16 +4358,12 @@
   "collected_at": "2026-10-01T06:44:58+00:00",
   "company_name": "Teloz Spaces",
   "_key": "teloz",
-  "merged_records": 3,
+  "phone_type": "mobile",
+  "merged_records": 2,
   "_members": [
    [
     "ChIJ7S7czBe35zsR3IsH7kfe9EI",
     "Commercial Tower, EXPRESS ZONE, Suite no 401 - 407 4th Floor, B Wing, Goregaon East, Mumbai, Maharashtra 400063, India",
-    "+917738598741"
-   ],
-   [
-    "ChIJAQAARwe35zsR-DYcVdKCiIs",
-    "LG 81H, B Wing - Sukhamani Apartment, EXPRESS ZONE, Western Express Hwy, Malad, Panch Bawadi, Malad East, Mumbai, Maharashtra 400063, India",
     "+917738598741"
    ],
    [
@@ -4103,6 +4388,7 @@
   "collected_at": "2026-10-01T06:44:58+00:00",
   "company_name": "Sonipspace: Iris Business Park",
   "_key": "sonipspace iris business park",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -4116,7 +4402,7 @@
  {
   "category": "Coworking space",
   "address": "10th Floor, Aston Building, Sundervan Complex, Lokhandwala Complex, Andheri West, Mumbai, Maharashtra 400053, India",
-  "phone": null,
+  "phone": "+9118602586633",
   "email": null,
   "website": "https://awfis.com/office-space/mumbai/lokhandwala/pro-working---lokhandwala-1/office",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQYQaj-25zsRhWhX3TdZ4Zs",
@@ -4127,12 +4413,13 @@
   "collected_at": "2026-10-01T06:44:58+00:00",
   "company_name": "Awfis Lokhandwala Aston Building",
   "_key": "awfis lokhandwala aston building",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJSQYQaj-25zsRhWhX3TdZ4Zs",
     "10th Floor, Aston Building, Sundervan Complex, Lokhandwala Complex, Andheri West, Mumbai, Maharashtra 400053, India",
-    null
+    "+9118602586633"
    ]
   ],
   "lead_id": "Laaee159a53"
@@ -4151,6 +4438,7 @@
   "collected_at": "2026-10-01T06:44:58+00:00",
   "company_name": "Lumos Cowork",
   "_key": "lumos",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -4175,6 +4463,7 @@
   "collected_at": "2026-10-01T06:44:58+00:00",
   "company_name": "Raheja Titanium",
   "_key": "raheja titanium",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -4199,6 +4488,7 @@
   "collected_at": "2026-10-01T06:44:58+00:00",
   "company_name": "Coworking Space",
   "_key": "",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -4228,6 +4518,7 @@
   "collected_at": "2026-10-01T06:44:58+00:00",
   "company_name": "Lotus Corporate Park",
   "_key": "lotus corporate park",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -4252,6 +4543,7 @@
   "collected_at": "2026-10-01T06:44:58+00:00",
   "company_name": "The Playce: Coworking, Events & Cafe",
   "_key": "playce events cafe",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -4276,6 +4568,7 @@
   "collected_at": "2026-10-01T06:44:58+00:00",
   "company_name": "IndiQube Romell",
   "_key": "indiqube romell",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -4300,6 +4593,7 @@
   "collected_at": "2026-10-01T06:45:00+00:00",
   "company_name": "Executive Spaces",
   "_key": "executive",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -4329,6 +4623,7 @@
   "collected_at": "2026-10-01T06:45:00+00:00",
   "company_name": "MultiplyCo.Work",
   "_key": "multiplyco work",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -4342,7 +4637,7 @@
  {
   "category": "Coworking space",
   "address": "C/o Access Serviced Offices Pvt. Ltd, Eureka Towers, A Wing, Level 9 Mindpsace IT Park, New Link Rd, Malad West, Mumbai, Maharashtra 400064, India",
-  "phone": null,
+  "phone": "+9118002667667",
   "email": null,
   "website": null,
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdcOoQvG25zsRUpBQK1uUhOA",
@@ -4353,20 +4648,46 @@
   "collected_at": "2026-10-01T06:45:00+00:00",
   "company_name": "AccessWork Mindspace Malad Serviced Offices",
   "_key": "accesswork mindspace malad serviced offices",
+  "phone_type": "toll_free",
   "merged_records": 2,
   "_members": [
    [
     "ChIJdcOoQvG25zsRUpBQK1uUhOA",
     "C/o Access Serviced Offices Pvt. Ltd, Eureka Towers, A Wing, Level 9 Mindpsace IT Park, New Link Rd, Malad West, Mumbai, Maharashtra 400064, India",
-    null
+    "+9118002667667"
    ],
    [
     "ChIJdcOoQvG25zsRUpBQK1uUhOA",
     "C/o Access Serviced Offices Pvt. Ltd, Eureka Towers, A Wing, Level 9 Mindpsace IT Park, New Link Rd, Malad West, Mumbai, Maharashtra 400064, India",
-    null
+    "+9118002667667"
    ]
   ],
   "lead_id": "Lb9c90627ce"
+ },
+ {
+  "category": "Coworking space",
+  "address": "LG 81H, B Wing - Sukhamani Apartment, EXPRESS ZONE, Western Express Hwy, Malad, Panch Bawadi, Malad East, Mumbai, Maharashtra 400063, India",
+  "phone": "+917738598741",
+  "email": null,
+  "website": "https://telozspaces.com",
+  "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAARwe35zsR-DYcVdKCiIs",
+  "place_id": "ChIJAQAARwe35zsR-DYcVdKCiIs",
+  "rating": 3.6,
+  "review_count": 14,
+  "source": "google_maps_via_serpapi",
+  "collected_at": "2026-10-01T06:45:00+00:00",
+  "company_name": "Teloz Spaces",
+  "_key": "teloz",
+  "phone_type": "mobile",
+  "merged_records": 1,
+  "_members": [
+   [
+    "ChIJAQAARwe35zsR-DYcVdKCiIs",
+    "LG 81H, B Wing - Sukhamani Apartment, EXPRESS ZONE, Western Express Hwy, Malad, Panch Bawadi, Malad East, Mumbai, Maharashtra 400063, India",
+    "+917738598741"
+   ]
+  ],
+  "lead_id": "L97483d62dd"
  },
  {
   "category": "Coworking space",
@@ -4382,6 +4703,7 @@
   "collected_at": "2026-10-01T06:45:00+00:00",
   "company_name": "Bloomdesk Coworking",
   "_key": "bloomdesk",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -4411,6 +4733,7 @@
   "collected_at": "2026-10-01T06:45:00+00:00",
   "company_name": "Kowork",
   "_key": "kowork",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -4440,6 +4763,7 @@
   "collected_at": "2026-10-01T06:45:00+00:00",
   "company_name": "Co-working Space",
   "_key": "",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -4464,6 +4788,7 @@
   "collected_at": "2026-10-01T06:45:00+00:00",
   "company_name": "Teloz Spaces",
   "_key": "teloz",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -4488,6 +4813,7 @@
   "collected_at": "2026-10-01T06:45:00+00:00",
   "company_name": "Smartworks (Paradigm)",
   "_key": "smartworks paradigm",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -4512,6 +4838,7 @@
   "collected_at": "2026-10-01T06:45:00+00:00",
   "company_name": "BloomDesk Coworking",
   "_key": "bloomdesk",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -4541,6 +4868,7 @@
   "collected_at": "2026-10-01T06:45:02+00:00",
   "company_name": "Permissionless",
   "_key": "permissionless",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -4565,6 +4893,7 @@
   "collected_at": "2026-10-01T06:45:02+00:00",
   "company_name": "BloomDesk Coworking",
   "_key": "bloomdesk",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -4594,6 +4923,7 @@
   "collected_at": "2026-10-01T06:45:02+00:00",
   "company_name": "SkyWork Coworking",
   "_key": "skywork",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -4623,6 +4953,7 @@
   "collected_at": "2026-10-01T06:45:02+00:00",
   "company_name": "Jaswanti",
   "_key": "jaswanti",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -4647,6 +4978,7 @@
   "collected_at": "2026-10-01T06:45:02+00:00",
   "company_name": "BloomDesk Coworking",
   "_key": "bloomdesk",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -4676,6 +5008,7 @@
   "collected_at": "2026-10-01T06:45:02+00:00",
   "company_name": "Eureka Towers",
   "_key": "eureka towers",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -4700,6 +5033,7 @@
   "collected_at": "2026-10-01T06:45:02+00:00",
   "company_name": "Potatoo Ventures Private Limited",
   "_key": "potatoo ventures",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -4724,6 +5058,7 @@
   "collected_at": "2026-10-01T06:45:02+00:00",
   "company_name": "Boardroom / Conference / Meeting / Training Room For Lease by R.A.N. Developers",
   "_key": "boardroom conference meeting training room for lease by r a n developers",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -4748,6 +5083,7 @@
   "collected_at": "2026-10-01T06:45:02+00:00",
   "company_name": "Your space Students Hostel",
   "_key": "your students hostel",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -4772,6 +5108,7 @@
   "collected_at": "2026-10-01T06:45:02+00:00",
   "company_name": "My Easy offices pvt ltd",
   "_key": "my easy offices",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -4801,6 +5138,7 @@
   "collected_at": "2026-10-01T06:45:02+00:00",
   "company_name": "Alfa Business Center Co working Space,shared Office",
   "_key": "alfa business center shared office",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -4830,6 +5168,7 @@
   "collected_at": "2026-10-01T06:45:04+00:00",
   "company_name": "Regus",
   "_key": "regus",
+  "phone_type": "landline",
   "merged_records": 1,
   "_members": [
    [
@@ -4854,6 +5193,7 @@
   "collected_at": "2026-10-01T06:45:04+00:00",
   "company_name": "6 Club",
   "_key": "6 club",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -4878,6 +5218,7 @@
   "collected_at": "2026-10-01T06:45:06+00:00",
   "company_name": "PinClapp India",
   "_key": "pinclapp",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -4902,6 +5243,7 @@
   "collected_at": "2026-10-01T06:45:08+00:00",
   "company_name": "Blackbox Solutions Mumbai",
   "_key": "blackbox solutions",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -4926,6 +5268,7 @@
   "collected_at": "2026-10-01T06:45:08+00:00",
   "company_name": "Eazy2WorkVth",
   "_key": "eazy2workvth",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -4955,6 +5298,7 @@
   "collected_at": "2026-10-01T06:45:08+00:00",
   "company_name": "Co Hub",
   "_key": "co hub",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -4984,6 +5328,7 @@
   "collected_at": "2026-10-01T06:45:08+00:00",
   "company_name": "IndiQube Arena",
   "_key": "indiqube arena",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -5008,6 +5353,7 @@
   "collected_at": "2026-10-01T06:45:08+00:00",
   "company_name": "Smartworks Eastbridge",
   "_key": "smartworks eastbridge",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5021,7 +5367,7 @@
  {
   "category": "Coworking space",
   "address": "Building, 8th, 9th and 10th Floor, RCity Offices, Lal Bahadur Shastri Marg, adjoining RCity Mall, Ghatkopar West, Mumbai, Maharashtra 400086, India",
-  "phone": null,
+  "phone": "+9118602586633",
   "email": null,
   "website": "https://awfis.com/office-space/mumbai/Ghatkopar%20(West/coworking-rcity4/fixed",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsS759gvH5zsRF52akyg71mw",
@@ -5032,17 +5378,18 @@
   "collected_at": "2026-10-01T06:45:08+00:00",
   "company_name": "Awfis Coworking",
   "_key": "awfis",
+  "phone_type": "toll_free",
   "merged_records": 2,
   "_members": [
    [
     "ChIJsS759gvH5zsRF52akyg71mw",
     "Building, 8th, 9th and 10th Floor, RCity Offices, Lal Bahadur Shastri Marg, adjoining RCity Mall, Ghatkopar West, Mumbai, Maharashtra 400086, India",
-    null
+    "+9118602586633"
    ],
    [
     "ChIJsS759gvH5zsRF52akyg71mw",
     "Building, 8th, 9th and 10th Floor, RCity Offices, Lal Bahadur Shastri Marg, adjoining RCity Mall, Ghatkopar West, Mumbai, Maharashtra 400086, India",
-    null
+    "+9118602586633"
    ]
   ],
   "lead_id": "L27cafb7e00"
@@ -5061,6 +5408,7 @@
   "collected_at": "2026-10-01T06:45:09+00:00",
   "company_name": "Vittam",
   "_key": "vittam",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5085,6 +5433,7 @@
   "collected_at": "2026-10-01T06:45:09+00:00",
   "company_name": "Centre for Incubation and Business Acceleration CIBA Mumbai",
   "_key": "centre for incubation and business acceleration ciba",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5109,6 +5458,7 @@
   "collected_at": "2026-10-01T06:45:09+00:00",
   "company_name": "Innov8",
   "_key": "innov8",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -5138,6 +5488,7 @@
   "collected_at": "2026-10-01T06:45:09+00:00",
   "company_name": "Redbrick Offices Godrej 2",
   "_key": "redbrick offices godrej 2",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -5162,6 +5513,7 @@
   "collected_at": "2026-10-01T06:45:09+00:00",
   "company_name": "Innov8",
   "_key": "innov8",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5186,6 +5538,7 @@
   "collected_at": "2026-10-01T06:45:19+00:00",
   "company_name": "WeWork Express Towers",
   "_key": "wework express towers",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -5210,6 +5563,7 @@
   "collected_at": "2026-10-01T06:45:19+00:00",
   "company_name": "DBS Workspace",
   "_key": "dbs workspace",
+  "phone_type": "landline",
   "merged_records": 1,
   "_members": [
    [
@@ -5234,6 +5588,7 @@
   "collected_at": "2026-10-01T06:45:19+00:00",
   "company_name": "Champions Arena",
   "_key": "champions arena",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5258,6 +5613,7 @@
   "collected_at": "2026-10-01T06:45:19+00:00",
   "company_name": "Momentum",
   "_key": "momentum",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -5282,6 +5638,7 @@
   "collected_at": "2026-10-01T06:45:19+00:00",
   "company_name": "WorkLoft Coworking Space",
   "_key": "workloft",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5306,6 +5663,7 @@
   "collected_at": "2026-10-01T06:45:19+00:00",
   "company_name": "Chnyd Trace Pvt Ltd",
   "_key": "chnyd trace",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5330,6 +5688,7 @@
   "collected_at": "2026-10-01T06:45:19+00:00",
   "company_name": "603 The Coworking Space",
   "_key": "603",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -5354,6 +5713,7 @@
   "collected_at": "2026-10-01T06:45:19+00:00",
   "company_name": "Hour Space : a co-working space like no other",
   "_key": "hour a like no other",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5378,6 +5738,7 @@
   "collected_at": "2026-10-01T06:45:19+00:00",
   "company_name": "Ministry of New",
   "_key": "ministry of new",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5402,6 +5763,7 @@
   "collected_at": "2026-10-01T06:45:19+00:00",
   "company_name": "Code Coworking",
   "_key": "code",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5426,6 +5788,7 @@
   "collected_at": "2026-10-01T06:45:19+00:00",
   "company_name": "DBS Workspace",
   "_key": "dbs workspace",
+  "phone_type": "landline",
   "merged_records": 1,
   "_members": [
    [
@@ -5439,7 +5802,7 @@
  {
   "category": "Business center",
   "address": "Apeejay House, 3, Dinshaw Vacha Rd, near K.C College, Churchgate, Mumbai, Maharashtra 400020, India",
-  "phone": null,
+  "phone": "+9118002741112",
   "email": null,
   "website": "https://apeejaybusinesscentre.com/locations/churchgate",
   "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4BxGejR5zsRCW8PbMZnRDY",
@@ -5450,12 +5813,13 @@
   "collected_at": "2026-10-01T06:45:19+00:00",
   "company_name": "Apeejay Business Centre",
   "_key": "apeejay business centre",
+  "phone_type": "toll_free",
   "merged_records": 1,
   "_members": [
    [
     "ChIJv4BxGejR5zsRCW8PbMZnRDY",
     "Apeejay House, 3, Dinshaw Vacha Rd, near K.C College, Churchgate, Mumbai, Maharashtra 400020, India",
-    null
+    "+9118002741112"
    ]
   ],
   "lead_id": "L4233ba9999"
@@ -5474,6 +5838,7 @@
   "collected_at": "2026-10-01T06:45:19+00:00",
   "company_name": "Orritel Business & Arbitration Center",
   "_key": "orritel business arbitration center",
+  "phone_type": "landline",
   "merged_records": 1,
   "_members": [
    [
@@ -5498,6 +5863,7 @@
   "collected_at": "2026-10-01T06:45:21+00:00",
   "company_name": "Resource Workspaces",
   "_key": "resource workspaces",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -5527,6 +5893,7 @@
   "collected_at": "2026-10-01T06:45:21+00:00",
   "company_name": "19Forty Coworks",
   "_key": "19forty coworks",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5551,6 +5918,7 @@
   "collected_at": "2026-10-01T06:45:21+00:00",
   "company_name": "Bottomup Business Solutions",
   "_key": "bottomup business solutions",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5575,6 +5943,7 @@
   "collected_at": "2026-10-01T06:45:21+00:00",
   "company_name": "Vikas Hub",
   "_key": "vikas hub",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5599,6 +5968,7 @@
   "collected_at": "2026-10-01T06:45:21+00:00",
   "company_name": "Co-Lab Spaces",
   "_key": "co lab",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -5623,6 +5993,7 @@
   "collected_at": "2026-10-01T06:45:21+00:00",
   "company_name": "Alloy Workspaces",
   "_key": "alloy workspaces",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5647,6 +6018,7 @@
   "collected_at": "2026-10-01T06:45:21+00:00",
   "company_name": "Regus",
   "_key": "regus",
+  "phone_type": "landline",
   "merged_records": 1,
   "_members": [
    [
@@ -5671,6 +6043,7 @@
   "collected_at": "2026-10-01T06:45:21+00:00",
   "company_name": "HuntOffices Coworking Space in Chembur, Mumbai",
   "_key": "huntoffices chembur",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -5695,6 +6068,7 @@
   "collected_at": "2026-10-01T06:45:24+00:00",
   "company_name": "MyDesk- Co-working Spaces 2.0",
   "_key": "mydesk 2 0",
+  "phone_type": "mobile",
   "merged_records": 2,
   "_members": [
    [
@@ -5724,6 +6098,7 @@
   "collected_at": "2026-10-01T06:45:24+00:00",
   "company_name": "My Office Desk Space (Co-working Space / Shared Office Space)",
   "_key": "my office desk shared office",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5748,6 +6123,7 @@
   "collected_at": "2026-10-01T06:45:24+00:00",
   "company_name": "MyDesk 5.0",
   "_key": "mydesk 5 0",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5772,6 +6148,7 @@
   "collected_at": "2026-10-01T06:45:24+00:00",
   "company_name": "WorkMate",
   "_key": "workmate",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5796,6 +6173,7 @@
   "collected_at": "2026-10-01T06:45:24+00:00",
   "company_name": "BloomDesk Coworking",
   "_key": "bloomdesk",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5820,6 +6198,7 @@
   "collected_at": "2026-10-01T06:45:24+00:00",
   "company_name": "Manreeva Staffing Solutions pvt ltd",
   "_key": "manreeva staffing solutions",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5844,6 +6223,7 @@
   "collected_at": "2026-10-01T06:45:24+00:00",
   "company_name": "MyDesk Co-working Spaces 1.0",
   "_key": "mydesk 1 0",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5868,6 +6248,7 @@
   "collected_at": "2026-10-01T06:45:24+00:00",
   "company_name": "N Bliss Co-Working Space and Business Centre",
   "_key": "n bliss and business centre",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5892,6 +6273,7 @@
   "collected_at": "2026-10-01T06:45:24+00:00",
   "company_name": "Spacyes",
   "_key": "spacyes",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5916,6 +6298,7 @@
   "collected_at": "2026-10-01T06:45:24+00:00",
   "company_name": "Spacyes",
   "_key": "spacyes",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5940,6 +6323,7 @@
   "collected_at": "2026-10-01T06:45:26+00:00",
   "company_name": "The Grid",
   "_key": "grid",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5964,6 +6348,7 @@
   "collected_at": "2026-10-01T06:45:26+00:00",
   "company_name": "Nuvola Cafe",
   "_key": "nuvola cafe",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -5988,6 +6373,7 @@
   "collected_at": "2026-10-01T06:45:26+00:00",
   "company_name": "My Cute Office Affordable Co-Working",
   "_key": "my cute office affordable",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -6012,6 +6398,7 @@
   "collected_at": "2026-10-01T06:45:26+00:00",
   "company_name": "Community Coworks (Juhu Vimal)",
   "_key": "community coworks juhu vimal",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -6036,6 +6423,7 @@
   "collected_at": "2026-10-01T06:45:26+00:00",
   "company_name": "Vyora Spaces",
   "_key": "vyora",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -6060,6 +6448,7 @@
   "collected_at": "2026-10-01T06:45:26+00:00",
   "company_name": "Nuv\u00e9 Studio",
   "_key": "nuv studio",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -6084,6 +6473,7 @@
   "collected_at": "2026-10-01T06:45:26+00:00",
   "company_name": "Spacyes",
   "_key": "spacyes",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -6108,6 +6498,7 @@
   "collected_at": "2026-10-01T06:45:26+00:00",
   "company_name": "Western Edge II",
   "_key": "western edge ii",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -6132,6 +6523,7 @@
   "collected_at": "2026-10-01T06:45:26+00:00",
   "company_name": "Vantage Business Centre",
   "_key": "vantage business centre",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -6156,6 +6548,7 @@
   "collected_at": "2026-10-01T06:45:26+00:00",
   "company_name": "Just Business Center",
   "_key": "just business center",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -6180,6 +6573,7 @@
   "collected_at": "2026-10-01T06:45:26+00:00",
   "company_name": "BOHO (The Boutique Stays) By Bay Leaf",
   "_key": "boho boutique stays by bay leaf",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -6204,6 +6598,7 @@
   "collected_at": "2026-10-01T06:45:26+00:00",
   "company_name": "Blue Rose Ind. P.C.S Ltd",
   "_key": "blue rose ind p c s",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -6228,6 +6623,7 @@
   "collected_at": "2026-10-01T06:45:26+00:00",
   "company_name": "Beyond Space",
   "_key": "beyond",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [
@@ -6252,6 +6648,7 @@
   "collected_at": "2026-10-01T06:45:26+00:00",
   "company_name": "Dattani Trade Centre",
   "_key": "dattani trade centre",
+  "phone_type": null,
   "merged_records": 1,
   "_members": [
    [
@@ -6276,6 +6673,7 @@
   "collected_at": "2026-10-01T06:45:26+00:00",
   "company_name": "SaffireTech",
   "_key": "saffiretech",
+  "phone_type": "mobile",
   "merged_records": 1,
   "_members": [
    [

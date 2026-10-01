@@ -1,7 +1,8 @@
-﻿raw=353  unique=238  duplicates removed=115
-incomplete (no name or no phone/email): 71
+﻿raw=353  unique=246  duplicates removed=107
+incomplete (no name or no phone/email): 40
+phone types: Counter({'mobile': 153, None: 40, 'toll_free': 31, 'landline': 22})
 
-Categories: [('Coworking space', 220), ('Business center', 7), ('Corporate office', 6), ('Office space rental agency', 1), ('Contractor', 1), ('Business park', 1), ('Student dormitory', 1), ('Software company', 1)]
+Categories: [('Coworking space', 228), ('Business center', 7), ('Corporate office', 6), ('Office space rental agency', 1), ('Contractor', 1), ('Business park', 1), ('Student dormitory', 1), ('Software company', 1)]
 
 Merged groups:
   Spartan Cowork  <- 3 records
@@ -26,11 +27,10 @@ Merged groups:
   Ascend Cowork  <- 2 records
   Hustle Coworking  <- 2 records
   DA Co-Working space Andheri  <- 2 records
-  Executive Spaces  <- 2 records
   Skyline Icon  <- 2 records
-  The Executive Centre  <- 5 records
+  The Executive Centre  <- 2 records
   Hive8  <- 3 records
-  603 The CoWorking Space  <- 4 records
+  603 The CoWorking Space  <- 2 records
   COWRKS Worli, Birla Centurion  <- 2 records
   Blue Coworks, Lower Parel  <- 2 records
   Pinaki Workspace  <- 2 records
@@ -51,8 +51,9 @@ Merged groups:
   603 The Coworking space (Matulya)  <- 2 records
   Millennial Pod  <- 2 records
   Of10  <- 2 records
-  COWRKS Powai, Prudential  <- 4 records
+  COWRKS Powai, Prudential  <- 2 records
   COWRKS One Boulevard, Powai, 1F & 2F  <- 2 records
+  COWRKS Powai, Winchester  <- 2 records
   Veridical  <- 2 records
   COWRKS Spectra  <- 2 records
   WeWork  <- 2 records
@@ -76,7 +77,7 @@ Merged groups:
   WeWork Spectrum Tower  <- 3 records
   Carnival HUB Work Spaces  <- 3 records
   WorkCampus  <- 3 records
-  Teloz Spaces  <- 3 records
+  Teloz Spaces  <- 2 records
   Coworking Space  <- 2 records
   Executive Spaces  <- 2 records
   AccessWork Mindspace Malad Serviced Offices  <- 2 records
@@ -95,7 +96,7 @@ Merged groups:
   Resource Workspaces  <- 2 records
   MyDesk- Co-working Spaces 2.0  <- 2 records
 
-Near misses (similar names, NOT merged) - are these branches or missed duplicates?
+Near misses (similar names, NOT merged):
   Lumos Cowork | 301 Shree Padmini Building, Sanpada, Soc
   Lumos Cowork | B Wing, Lumos cowork, Vasudev Chamber, C
 
@@ -154,6 +155,9 @@ Near misses (similar names, NOT merged) - are these branches or missed duplicate
   Teloz Spaces | Commercial Tower, EXPRESS ZONE, Suite no
 
   Teloz Spaces | 1st & 2nd floor, AJ House, Marol Maroshi
+  Teloz Spaces | LG 81H, B Wing - Sukhamani Apartment, EX
+
+  Teloz Spaces | 1st & 2nd floor, AJ House, Marol Maroshi
   Teloz Spaces | Witty International School, Near, Gorega
 
   Connekt | Connekt, 4th Floor Second Avenue, Road N
@@ -166,6 +170,12 @@ Near misses (similar names, NOT merged) - are these branches or missed duplicate
   Connekt | Connekt 1st & 2nd Floor, Naman Chambers,
 
   Executive Spaces | W.E.H, Metro station, 7th Floor, Chandak
+  Executive Spaces | A-5th Floor, Rustomjee Central Park, And
+
+  Executive Spaces | W.E.H, Metro station, 7th Floor, Chandak
+  Executive Spaces | Shah Trade Centre, 701 & 702, Rani Sati 
+
+  Executive Spaces | A-5th Floor, Rustomjee Central Park, And
   Executive Spaces | Shah Trade Centre, 701 & 702, Rani Sati 
 
   WeWork | C - 20, G Block Rd, G Block BKC, Bandra 
@@ -184,9 +194,30 @@ Near misses (similar names, NOT merged) - are these branches or missed duplicate
   Dextrus | Peninsula Corporate Park, 6th & 9th Floo
 
   The Executive Centre | Level 17, C Wing, Level 12, A Wing, Leve
+  The Executive Centre | Level 6 & 7, MAKER MAXITY, 4, North Ave,
+
+  The Executive Centre | Level 17, C Wing, Level 12, A Wing, Leve
+  The Executive Centre | Level 3 & 7, The Capital, Plot No. C-70,
+
+  The Executive Centre | Level 17, C Wing, Level 12, A Wing, Leve
+  The Executive Centre | Level 1, 2, 3A, First International Fina
+
+  The Executive Centre | Level 17, C Wing, Level 12, A Wing, Leve
   The Executive Centre | Level 12, Altimus, Pandurang Budhkar Mar
 
   The Executive Centre | Level 17, C Wing, Level 12, A Wing, Leve
+  The Executive Centre | Level 3, Ascent, Sudam Kalu Ahire Marg, 
+
+  The Executive Centre | Level 6 & 7, MAKER MAXITY, 4, North Ave,
+  The Executive Centre | Level 3 & 7, The Capital, Plot No. C-70,
+
+  The Executive Centre | Level 6 & 7, MAKER MAXITY, 4, North Ave,
+  The Executive Centre | Level 1, 2, 3A, First International Fina
+
+  The Executive Centre | Level 6 & 7, MAKER MAXITY, 4, North Ave,
+  The Executive Centre | Level 12, Altimus, Pandurang Budhkar Mar
+
+  The Executive Centre | Level 6 & 7, MAKER MAXITY, 4, North Ave,
   The Executive Centre | Level 3, Ascent, Sudam Kalu Ahire Marg, 
 
   CorporatEdge | Level 2, Platina Building, G Block BKC, 
@@ -222,11 +253,26 @@ Near misses (similar names, NOT merged) - are these branches or missed duplicate
   Redbrick Offices | Unit No.1204, 12th Floor, The Capital, G
   Redbrick Offices | Tex Center, E Wing, Chandivali Farm Rd, 
 
+  The Executive Centre | Level 3 & 7, The Capital, Plot No. C-70,
+  The Executive Centre | Level 1, 2, 3A, First International Fina
+
+  The Executive Centre | Level 3 & 7, The Capital, Plot No. C-70,
+  The Executive Centre | Level 12, Altimus, Pandurang Budhkar Mar
+
+  The Executive Centre | Level 3 & 7, The Capital, Plot No. C-70,
+  The Executive Centre | Level 3, Ascent, Sudam Kalu Ahire Marg, 
+
   Innov8 | The 8th Floor, Naman Chambers, C-31, G B
   Innov8 | 4th Floor, RCity Offices, Lal Bahadur Sh
 
   Innov8 | The 8th Floor, Naman Chambers, C-31, G B
   Innov8 | C-WING, KAILASH BUSINESS PARK, P2-4, Par
+
+  The Executive Centre | Level 1, 2, 3A, First International Fina
+  The Executive Centre | Level 12, Altimus, Pandurang Budhkar Mar
+
+  The Executive Centre | Level 1, 2, 3A, First International Fina
+  The Executive Centre | Level 3, Ascent, Sudam Kalu Ahire Marg, 
 
   Workbay Coworking | 3R5Q+P5Q, behind DDecor Showroom, Patkar
   Workbay Coworking | Sundervilla, A wing 314A/B, Hasmukh Naga
@@ -241,6 +287,12 @@ Near misses (similar names, NOT merged) - are these branches or missed duplicate
   603 The CoWorking Space | C Wing, Next Gen, BLOCK-B2, 101, Ganapat
 
   603 | 603, Makhija Arcade, 35th Rd, Khar, Khar
+  603 The Coworking Space | Marathon Futuex, Mafatlal Mills, NM Josh
+
+  603 | 603, Makhija Arcade, 35th Rd, Khar, Khar
+  603 The Coworking Space | 4th Floor, Tower D, Trade World, Kamala 
+
+  603 | 603, Makhija Arcade, 35th Rd, Khar, Khar
   603 The Co-working Space | 29A, Sunshine Tower, Senapati Bapat Marg
 
   603 | 603, Makhija Arcade, 35th Rd, Khar, Khar
@@ -248,6 +300,12 @@ Near misses (similar names, NOT merged) - are these branches or missed duplicate
 
   603 | 603, Makhija Arcade, 35th Rd, Khar, Khar
   603 The Coworking Space | Ground Floor, Hanuman Building, 300, Per
+
+  603 The CoWorking Space | C Wing, Next Gen, BLOCK-B2, 101, Ganapat
+  603 The Coworking Space | Marathon Futuex, Mafatlal Mills, NM Josh
+
+  603 The CoWorking Space | C Wing, Next Gen, BLOCK-B2, 101, Ganapat
+  603 The Coworking Space | 4th Floor, Tower D, Trade World, Kamala 
 
   603 The CoWorking Space | C Wing, Next Gen, BLOCK-B2, 101, Ganapat
   603 The Co-working Space | 29A, Sunshine Tower, Senapati Bapat Marg
@@ -270,11 +328,32 @@ Near misses (similar names, NOT merged) - are these branches or missed duplicate
   WeWork | 1st floor, 264-265, Dr Annie Besant Rd, 
   WeWork | Oberoi Garden City, 20TH FLOOR, COMMERZ 
 
+  603 The Coworking Space | Marathon Futuex, Mafatlal Mills, NM Josh
+  603 The Coworking Space | 4th Floor, Tower D, Trade World, Kamala 
+
+  603 The Coworking Space | Marathon Futuex, Mafatlal Mills, NM Josh
+  603 The Co-working Space | 29A, Sunshine Tower, Senapati Bapat Marg
+
+  603 The Coworking Space | Marathon Futuex, Mafatlal Mills, NM Josh
+  603 The CoWorking Space | Sun Mill Compound, 5A, TODI ESTATE, Lowe
+
+  603 The Coworking Space | Marathon Futuex, Mafatlal Mills, NM Josh
+  603 The Coworking Space | Ground Floor, Hanuman Building, 300, Per
+
   Redbrick Offices OWC | Saidham Nagar, Parel, Mumbai, Maharashtr
   Redbrick Offices | Tex Center, E Wing, Chandivali Farm Rd, 
 
   Redbrick Offices OWC | Saidham Nagar, Parel, Mumbai, Maharashtr
   Redbrick Offices Godrej 2 | Eastern Express Hwy, Pirojshanagar, Vikh
+
+  603 The Coworking Space | 4th Floor, Tower D, Trade World, Kamala 
+  603 The Co-working Space | 29A, Sunshine Tower, Senapati Bapat Marg
+
+  603 The Coworking Space | 4th Floor, Tower D, Trade World, Kamala 
+  603 The CoWorking Space | Sun Mill Compound, 5A, TODI ESTATE, Lowe
+
+  603 The Coworking Space | 4th Floor, Tower D, Trade World, Kamala 
+  603 The Coworking Space | Ground Floor, Hanuman Building, 300, Per
 
   The Empire Business Centre | Empire Complex, Empire Business Centre, 
   Vibrant Business centre | Suncity Complex, Unit No.1,2&3 Sun Heigh
@@ -319,9 +398,18 @@ Near misses (similar names, NOT merged) - are these branches or missed duplicate
   Teloz Spaces | Commercial Tower, EXPRESS ZONE, Suite no
 
   Teloz Spaces | Ste no. 801, Synergy Business Park, ITT 
+  Teloz Spaces | LG 81H, B Wing - Sukhamani Apartment, EX
+
+  Teloz Spaces | Ste no. 801, Synergy Business Park, ITT 
   Teloz Spaces | Witty International School, Near, Gorega
 
   Teloz Spaces | Commercial Tower, EXPRESS ZONE, Suite no
+  Teloz Spaces | LG 81H, B Wing - Sukhamani Apartment, EX
+
+  Teloz Spaces | Commercial Tower, EXPRESS ZONE, Suite no
+  Teloz Spaces | Witty International School, Near, Gorega
+
+  Teloz Spaces | LG 81H, B Wing - Sukhamani Apartment, EX
   Teloz Spaces | Witty International School, Near, Gorega
 
   Bloomdesk Coworking | Office no 101 - 108, 1st Floor, Ghanshya
