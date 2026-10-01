@@ -676,12 +676,7 @@
       "support@letswork.co.in",
       "info@letswork.co.in"
     ],
-    "emails_other": [
-      "bootstrap@5.3.0-alpha1",
-      "bootstrap@5.3.1",
-      "core@2.9.2",
-      "core@2.11.6"
-    ],
+    "emails_other": [],
     "social_links": {
       "x": "https://x.com/letsworkmumbai",
       "instagram": "https://www.instagram.com/letswork.co.in",
@@ -863,9 +858,7 @@
     ],
     "lead_id": "L2ab476a5d9",
     "emails_all": [],
-    "emails_other": [
-      "slick-carousel@1.8.1"
-    ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/company/devx.work",
       "youtube": "https://youtube.com/@devx.coworking",
@@ -1306,9 +1299,7 @@
     "emails_all": [
       "connekt@connekt.co.in"
     ],
-    "emails_other": [
-      "aos@2.3.1"
-    ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/ConnektCoworkingSpace",
       "instagram": "https://www.instagram.com/connektcoworking",
@@ -1406,9 +1397,7 @@
     "emails_all": [
       "connekt@connekt.co.in"
     ],
-    "emails_other": [
-      "aos@2.3.1"
-    ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/ConnektCoworkingSpace",
       "instagram": "https://www.instagram.com/connektcoworking",
@@ -1469,11 +1458,10 @@
     ],
     "lead_id": "L32f0872024",
     "emails_all": [
-      "enquiry@ideasq.in"
-    ],
-    "emails_other": [
+      "enquiry@ideasq.in",
       "enquiry@ideasq.inaddress"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/Ideasquarebusinesscenter",
       "linkedin": "https://www.linkedin.com/in/idea-square-756204163",
@@ -2863,9 +2851,7 @@
     "emails_all": [
       "connekt@connekt.co.in"
     ],
-    "emails_other": [
-      "aos@2.3.1"
-    ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/ConnektCoworkingSpace",
       "instagram": "https://www.instagram.com/connektcoworking",
@@ -3754,9 +3740,7 @@
     ],
     "lead_id": "L22d283bf84",
     "emails_all": [],
-    "emails_other": [
-      "leaflet@1.7.1"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -3812,7 +3796,7 @@
     "category": "Business center",
     "address": "Bus Depot, Off Eastern Express Highway, Sewri - Chembur Rd, near Anik Nagar, Mumbai, Maharashtra 400037, India",
     "phone": null,
-    "email": null,
+    "email": "leasing@vios.in",
     "website": "https://viostower.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQXwx6HI5zsR8x_CP5fQ-kI",
     "place_id": "ChIJOQXwx6HI5zsR8x_CP5fQ-kI",
@@ -3832,10 +3816,10 @@
       ]
     ],
     "lead_id": "Le1ab3b4c4e",
-    "emails_all": [],
-    "emails_other": [
+    "emails_all": [
       "leasing@vios.in"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/VIOS-Tower-106853558544546",
       "x": "https://twitter.com/TowerVios",
@@ -3853,6 +3837,7 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
+      "email": "website_scraped_related_domain",
       "social_links": "website_scraped",
       "services": "website_scraped"
     }
@@ -4035,9 +4020,7 @@
     ],
     "lead_id": "Lcebf1f0314",
     "emails_all": [],
-    "emails_other": [
-      "leaflet@1.7.1"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -4843,9 +4826,7 @@
     ],
     "lead_id": "L7c1233c24a",
     "emails_all": [],
-    "emails_other": [
-      "leaflet@1.7.1"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -5038,9 +5019,7 @@
     ],
     "lead_id": "L7a79e0eda8",
     "emails_all": [],
-    "emails_other": [
-      "leaflet@1.7.1"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -5096,7 +5075,7 @@
     "category": "Business center",
     "address": "Empire Complex, Empire Business Centre, 414, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013, India",
     "phone": "+912267871515",
-    "email": null,
+    "email": "sales.tebc@empire-offices.com",
     "website": "https://empirebusinesscentres.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtW8RfbPP5zsRAqTwnb0dGYE",
     "place_id": "ChIJtW8RfbPP5zsRAqTwnb0dGYE",
@@ -5116,10 +5095,10 @@
       ]
     ],
     "lead_id": "L799c21e036",
-    "emails_all": [],
-    "emails_other": [
+    "emails_all": [
       "sales.tebc@empire-offices.com"
     ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/EmpireBusinessCentre",
       "x": "https://twitter.com/tebcmumbai",
@@ -5139,6 +5118,7 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
+      "email": "website_scraped_related_domain",
       "social_links": "website_scraped",
       "services": "website_scraped"
     }
@@ -5168,9 +5148,7 @@
     ],
     "lead_id": "L17a5bf6e49",
     "emails_all": [],
-    "emails_other": [
-      "leaflet@1.7.1"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -5273,9 +5251,7 @@
     ],
     "lead_id": "La2f0b83e73",
     "emails_all": [],
-    "emails_other": [
-      "lenis@1.3.15"
-    ],
+    "emails_other": [],
     "social_links": {
       "linkedin": "https://www.linkedin.com/company/justco",
       "facebook": "https://www.facebook.com/JustCoGlobal",
@@ -5455,9 +5431,7 @@
     ],
     "lead_id": "L46f340872d",
     "emails_all": [],
-    "emails_other": [
-      "leaflet@1.7.1"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -5555,9 +5529,7 @@
     ],
     "lead_id": "Lfc5bfe4afe",
     "emails_all": [],
-    "emails_other": [
-      "leaflet@1.7.1"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -5846,7 +5818,7 @@
     "category": "Coworking space",
     "address": "16th Floor, 1602, Saki Vihar Rd, opposite Mtnl, off Tunga Village, Tunga Village, Chandivali, Powai, Mumbai, Maharashtra 400072, India",
     "phone": "+917208198797",
-    "email": null,
+    "email": "info@thefounders.in",
     "website": "https://thefounders.co.in",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJITOz4HTJ5zsRtNBlj7wKFeg",
     "place_id": "ChIJITOz4HTJ5zsRtNBlj7wKFeg",
@@ -5866,10 +5838,10 @@
       ]
     ],
     "lead_id": "L86c282051f",
-    "emails_all": [],
-    "emails_other": [
+    "emails_all": [
       "info@thefounders.in"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -5880,7 +5852,8 @@
       "website": "google_maps_via_serpapi",
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
-      "maps_url": "google_maps_via_serpapi"
+      "maps_url": "google_maps_via_serpapi",
+      "email": "website_scraped_related_domain"
     }
   },
   {
@@ -6168,9 +6141,7 @@
     ],
     "lead_id": "L294e390c9c",
     "emails_all": [],
-    "emails_other": [
-      "slick-carousel@1.8.1"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -6366,7 +6337,7 @@
     "category": "Coworking space",
     "address": "Ground Floor, Chromium, Jogeshwari - Vikhroli Link Rd, Manohar Nagar, Marol, Andheri East, Mumbai, Maharashtra 400076, India",
     "phone": "+911800123999000",
-    "email": null,
+    "email": "support@wework.co.in",
     "website": "https://wework.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDb_7fx3J5zsRA2LCzkJR520",
     "place_id": "ChIJDb_7fx3J5zsRA2LCzkJR520",
@@ -6396,11 +6367,11 @@
       ]
     ],
     "lead_id": "L9230c6de38",
-    "emails_all": [],
-    "emails_other": [
+    "emails_all": [
       "support@wework.co.in",
       "grievances@wework.co.in"
     ],
+    "emails_other": [],
     "social_links": {
       "youtube": "https://www.youtube.com/@WeWork",
       "facebook": "https://facebook.com/wework",
@@ -6424,6 +6395,7 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
+      "email": "website_scraped_related_domain",
       "social_links": "website_scraped",
       "services": "website_scraped"
     }
@@ -6467,12 +6439,7 @@
       "support@letswork.co.in",
       "info@letswork.co.in"
     ],
-    "emails_other": [
-      "bootstrap@5.3.0-alpha1",
-      "bootstrap@5.3.1",
-      "core@2.9.2",
-      "core@2.11.6"
-    ],
+    "emails_other": [],
     "social_links": {
       "x": "https://x.com/letsworkmumbai",
       "instagram": "https://www.instagram.com/letswork.co.in",
@@ -7678,9 +7645,7 @@
     "emails_all": [
       "property@usindia.com"
     ],
-    "emails_other": [
-      "alpinejs@3.x.x"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "cafeteria",
@@ -8058,11 +8023,7 @@
     "emails_all": [
       "contactus@sonipspace.com"
     ],
-    "emails_other": [
-      "slick-carousel@1.8.1",
-      "aos@2.3.1",
-      "tilt.js@1.1.19"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "cafeteria",
@@ -8327,9 +8288,7 @@
     ],
     "lead_id": "Lb681929011",
     "emails_all": [],
-    "emails_other": [
-      "slick-carousel@1.8.1"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -9577,9 +9536,7 @@
     ],
     "lead_id": "L3a67101203",
     "emails_all": [],
-    "emails_other": [
-      "slick-carousel@1.8.1"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -9741,7 +9698,7 @@
     "category": "Coworking space",
     "address": "6th Floor,Agnel Technical Complex,Sector 9A,Vashi,Navi Mumbai, Navi Mumbai, Maharashtra 400703, India",
     "phone": "+918850283239",
-    "email": null,
+    "email": "incubation@ciba.org.in",
     "website": "https://cibamumbai.org.in",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAw8LH8vG5zsRpEGuRKcp-jc",
     "place_id": "ChIJAw8LH8vG5zsRpEGuRKcp-jc",
@@ -9761,11 +9718,11 @@
       ]
     ],
     "lead_id": "L36b75ee086",
-    "emails_all": [],
-    "emails_other": [
+    "emails_all": [
       "incubation@ciba.org.in",
       "ceo@ciba.org.in"
     ],
+    "emails_other": [],
     "social_links": {
       "instagram": "https://www.instagram.com/cibaindia",
       "linkedin": "https://www.linkedin.com/company/centre-for-incubation-&amp;-business-acceleration"
@@ -9780,6 +9737,7 @@
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
+      "email": "website_scraped_related_domain",
       "social_links": "website_scraped"
     }
   },
@@ -10177,7 +10135,7 @@
     "category": "Coworking space",
     "address": "2nd Floor, Express Towers, Marine Drive, Nariman Point, Mumbai, Maharashtra 400021, Mumbai, Maharashtra 400078, India",
     "phone": "+918999884664",
-    "email": null,
+    "email": "sales@chnydtrace.in",
     "website": "https://chnydtrace.com",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0cpmzHR5zsRniYa15XDLvU",
     "place_id": "ChIJr0cpmzHR5zsRniYa15XDLvU",
@@ -10197,11 +10155,11 @@
       ]
     ],
     "lead_id": "L999d39fda3",
-    "emails_all": [],
-    "emails_other": [
+    "emails_all": [
       "sales@chnydtrace.in",
       "pratikb@chnydtrace.in"
     ],
+    "emails_other": [],
     "social_links": {
       "youtube": "https://www.youtube.com/@Chnydtrace"
     },
@@ -10216,6 +10174,7 @@
       "address": "google_maps_via_serpapi",
       "website": "google_maps_via_serpapi",
       "maps_url": "google_maps_via_serpapi",
+      "email": "website_scraped_related_domain",
       "social_links": "website_scraped",
       "services": "website_scraped"
     }
@@ -10245,9 +10204,7 @@
     ],
     "lead_id": "L5b0beca0c0",
     "emails_all": [],
-    "emails_other": [
-      "leaflet@1.7.1"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -10435,7 +10392,7 @@
     "category": "Business center",
     "address": "Apeejay House, 3, Dinshaw Vacha Rd, near K.C College, Churchgate, Mumbai, Maharashtra 400020, India",
     "phone": "+9118002741112",
-    "email": null,
+    "email": "abcindia@apeejaygroup.com",
     "website": "https://apeejaybusinesscentre.com/locations/churchgate",
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4BxGejR5zsRCW8PbMZnRDY",
     "place_id": "ChIJv4BxGejR5zsRCW8PbMZnRDY",
@@ -10455,11 +10412,10 @@
       ]
     ],
     "lead_id": "L4233ba9999",
-    "emails_all": [],
-    "emails_other": [
-      "bootstrap-icons@1.11.1",
+    "emails_all": [
       "abcindia@apeejaygroup.com"
     ],
+    "emails_other": [],
     "social_links": {},
     "services": [],
     "fetch_status": "ok",
@@ -10470,7 +10426,8 @@
       "website": "google_maps_via_serpapi",
       "rating": "google_maps_via_serpapi",
       "review_count": "google_maps_via_serpapi",
-      "maps_url": "google_maps_via_serpapi"
+      "maps_url": "google_maps_via_serpapi",
+      "email": "website_scraped_related_domain"
     }
   },
   {
@@ -10834,9 +10791,7 @@
     "emails_all": [
       "info@huntoffices.com"
     ],
-    "emails_other": [
-      "slick-carousel@1.8.1"
-    ],
+    "emails_other": [],
     "social_links": {
       "facebook": "https://www.facebook.com/HuntOffices",
       "x": "https://twitter.com/HuntOffices",
@@ -10932,9 +10887,7 @@
     ],
     "lead_id": "La09b77e470",
     "emails_all": [],
-    "emails_other": [
-      "leaflet@1.4.0"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "meeting_room"
@@ -11409,9 +11362,7 @@
     "emails_all": [
       "hello@mycuteoffice.com"
     ],
-    "emails_other": [
-      "bootstrap@5.1.3"
-    ],
+    "emails_other": [],
     "social_links": {},
     "services": [
       "virtual_office"
