@@ -1,8 +1,8 @@
-﻿raw=353  unique=246  duplicates removed=107
+﻿raw=353  unique=247  duplicates removed=106
 incomplete (no name or no phone/email): 40
-phone types: Counter({'mobile': 153, None: 40, 'toll_free': 31, 'landline': 22})
+phone types: Counter({'mobile': 153, None: 40, 'toll_free': 31, 'landline': 23})
 
-Categories: [('Coworking space', 228), ('Business center', 7), ('Corporate office', 6), ('Office space rental agency', 1), ('Contractor', 1), ('Business park', 1), ('Student dormitory', 1), ('Software company', 1)]
+Categories: [('Coworking space', 229), ('Business center', 7), ('Corporate office', 6), ('Office space rental agency', 1), ('Contractor', 1), ('Business park', 1), ('Student dormitory', 1), ('Software company', 1)]
 
 Merged groups:
   Spartan Cowork  <- 3 records
@@ -28,7 +28,6 @@ Merged groups:
   Hustle Coworking  <- 2 records
   DA Co-Working space Andheri  <- 2 records
   Skyline Icon  <- 2 records
-  The Executive Centre  <- 2 records
   Hive8  <- 3 records
   603 The CoWorking Space  <- 2 records
   COWRKS Worli, Birla Centurion  <- 2 records
@@ -197,6 +196,9 @@ Near misses (similar names, NOT merged):
   The Executive Centre | Level 6 & 7, MAKER MAXITY, 4, North Ave,
 
   The Executive Centre | Level 17, C Wing, Level 12, A Wing, Leve
+  The Executive Centre | Plot No. C- 38/39, G Block BKC, Bandra K
+
+  The Executive Centre | Level 17, C Wing, Level 12, A Wing, Leve
   The Executive Centre | Level 3 & 7, The Capital, Plot No. C-70,
 
   The Executive Centre | Level 17, C Wing, Level 12, A Wing, Leve
@@ -207,6 +209,9 @@ Near misses (similar names, NOT merged):
 
   The Executive Centre | Level 17, C Wing, Level 12, A Wing, Leve
   The Executive Centre | Level 3, Ascent, Sudam Kalu Ahire Marg, 
+
+  The Executive Centre | Level 6 & 7, MAKER MAXITY, 4, North Ave,
+  The Executive Centre | Plot No. C- 38/39, G Block BKC, Bandra K
 
   The Executive Centre | Level 6 & 7, MAKER MAXITY, 4, North Ave,
   The Executive Centre | Level 3 & 7, The Capital, Plot No. C-70,
@@ -231,6 +236,18 @@ Near misses (similar names, NOT merged):
 
   Vatika Business Centre & Co-working Spaces | Unit no. G5, Ground Floor and Unit no. 0
   Vantage Business Centre | Raj Arcade, G 128, Borsapada Road, opp. 
+
+  The Executive Centre | Plot No. C- 38/39, G Block BKC, Bandra K
+  The Executive Centre | Level 3 & 7, The Capital, Plot No. C-70,
+
+  The Executive Centre | Plot No. C- 38/39, G Block BKC, Bandra K
+  The Executive Centre | Level 1, 2, 3A, First International Fina
+
+  The Executive Centre | Plot No. C- 38/39, G Block BKC, Bandra K
+  The Executive Centre | Level 12, Altimus, Pandurang Budhkar Mar
+
+  The Executive Centre | Plot No. C- 38/39, G Block BKC, Bandra K
+  The Executive Centre | Level 3, Ascent, Sudam Kalu Ahire Marg, 
 
   Cowrks | Ground floor, Equinox Commercial Centre,
   Cowrks India Pvt Ltd | Birla Centurion, Century Mills, Lower Pa

@@ -78,13 +78,13 @@ def clean_url(u):
         return None
     return f"https://{p.netloc.lower().removeprefix('www.')}{p.path.rstrip('/')}"
 
-
 def tokens(a):
-    """Building-specific words only: drop area names, generic words, floor and suite numbers."""
+    """Building-specific words only: drop area names, generic words, pincodes, floor and suite numbers."""
     toks = set(re.findall(r"[a-z0-9]{3,}", (a or "").lower()))
-    return {t for t in toks if t not in GENERIC and not re.fullmatch(r"\d{1,4}|\d+(st|nd|rd|th)", t)}
-
-
+    return {
+        t for t in toks
+        if t not in GENERIC and not re.fullmatch(r"\d{1,4}|\d{6}|\d+(st|nd|rd|th)", t)
+    }
 def addr_sim(a, b):
     ta, tb = tokens(a), tokens(b)
     return len(ta & tb) / len(ta | tb) if ta and tb else 0.0
@@ -111,7 +111,14 @@ def linked(a, b):
         return True
     ns = name_sim(a["_key"], b["_key"])
     as_ = addr_sim(a["address"], b["address"])
-    shared_phone = a["phone"] and a["phone"] == b["phone"] and a.get("phone_type") != "toll_free"
+    both_direct = (
+        a["phone"] and b["phone"]
+        and a.get("phone_type") != "toll_free"
+        and b.get("phone_type") != "toll_free"
+    )
+    if both_direct and a["phone"] != b["phone"] and as_ < 0.8:
+        return False
+    shared_phone = both_direct and a["phone"] == b["phone"]
     if shared_phone and ns >= 0.6 and as_ >= 0.4:
         return True
     return ns >= 0.88 and as_ >= 0.5
